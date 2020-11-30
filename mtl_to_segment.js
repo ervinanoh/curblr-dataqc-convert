@@ -2,32 +2,52 @@
 
 const fs = require('fs');
 
-const inputGeojson = fs.readFileSync('data/mtl-subset.matched.geojson');
+const inputGeojson = fs.readFileSync('data/mtl-subset.buffered.geojson');
 const input = JSON.parse(inputGeojson);
+const InputFeatur = input.features;
 
-var geojson = {"crs":input.crs};
+var geojson = {};
 geojson['type'] = 'FeatureCollection';
+var fleche_pan = '';
 
-fleche_map={ 
+
+
+fleche_map={
     left:
-        {0:2,  // no arrow -> middle
-        2:3,   // left arrow -> end
-        3:1},  // right arrow -> start
+        {'double':2,  // no arrow -> middle
+            'left':3,   // left arrow -> end
+            'right':1},  // right arrow -> start
     right:
-        {0:2,  // no arrow -> middle
-        2:1,   // left arrow -> start
-        3:3}   // right arrow -> end
-    };
+        {'double':2,  // no arrow -> middle
+            'left':1,   // left arrow -> start
+            'right':3}   // right arrow -> end
+};
+
+
 
 geojson['features'] = input.features.map(feature=>{
+    var dir = feature.properties.pp_description
+
+    if (dir != ""){
+        dir = dir.toUpperCase();}
+    if(dir.includes("DR")) {
+        fleche_pan = 'right';
+    } else if(dir.includes("GA")) {
+        fleche_pan = 'left';
+    } else if(dir.includes("DOU")) {
+        fleche_pan = 'double';
+    } else if(dir.includes("TOUT")) {
+        fleche_pan = 'straight';
+    }
     return {
         properties: {
-            point_sequence : fleche_map[feature.properties.sideOfStreet][feature.properties.pp_fleche_pan],
-            PANNEAU_ID_RPA: feature.properties.pp_panneau_id_rpa,
-            CODE_RPA : feature.properties.pp_code_rpa,
-            POTEAU_ID_POT: feature.properties.pp_poteau_id_pot,
-            PANNEAU_ID_PAN: feature.properties.pp_panneau_id_pan,
-            DESCRIPTION_RPA: feature.properties.pp_description_rpa
+            point_sequence : fleche_map[feature.properties.sideOfStreet][fleche_pan],
+
+            ID: feature.properties.pp_id,
+            TYPE_CODE : feature.properties.pp_type_code,
+            //POTEAU_ID_POT: feature.properties.pp_poteau_id_pot,
+            //PANNEAU_ID_PAN: feature.properties.pp_panneau_id_pan,
+            DESCRIPTION: feature.properties.pp_description
         },
         type: feature.type,
         geometry: feature.properties.pp_original_geometry
