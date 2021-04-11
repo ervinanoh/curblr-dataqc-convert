@@ -7,12 +7,32 @@ const inputGeojson = fs.readFileSync('data/mtl-subset-segment.joined.geojson');
 const input = JSON.parse(inputGeojson);
 const rpaCodeJson = fs.readFileSync('data/signalisation-codification-rpa_withRegulation.json');
 let rpaCode = JSON.parse(rpaCodeJson).reduce((acc,val)=>{acc[val.TYPE_CODE]=val; return acc;},{});
+let rpaID = JSON.parse(rpaCodeJson).reduce((acc, val)=> {acc[val.ID]=val; return acc;},{});
 //const agregateRpaCodeJson = fs.readFileSync('data/agregate-pannonceau-rpa.json');
 //const agregateRpaCode = JSON.parse(agregateRpaCodeJson);
 
 //rpaCode = {...rpaCode, ...agregateRpaCode}
 
 var geojson = {};
+geojson['manifest']= {
+  "priorityHierarchy": [
+    // "1",
+    // "2",
+    // "3",
+    // "4",
+    // "5",
+    // "free parking"
+    "no standing",
+    "no parking",
+    "passenger loading",
+    "loading",
+    "transit",
+    "free parking",
+    "paid parking", 
+    "restricted"
+  ],
+  "curblrVersion": "1.1.0",
+}
 geojson['type'] = 'FeatureCollection';
 geojson['features'] = [];
 
@@ -22,8 +42,8 @@ for (var feature of input.features) {
         referenceId: shstRefId,
         sideOfStreet: sideOfStreet,
         section: [shstLocationStart, shstLocationEnd],
-        pp_type_code: TYPE_CODE
-     //   pp_id: id_rpa,
+        pp_type_code: TYPE_CODE,
+        pp_id: ID//id_rpa
 
     } = feature.properties
     

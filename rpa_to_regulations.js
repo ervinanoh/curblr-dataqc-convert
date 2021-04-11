@@ -29,6 +29,137 @@ const overide = { 11: [{priority:4,rule:{activity:"no standing"}, timeSpans:[] }
     2348: [{priority:4,rule:{activity:"no parking"}, timeSpans:[], userClasses:[{classes:["truck"]}]}],
     13810: [{priority:3,rule:{activity:"no parking"}, timeSpans:[{"effectiveDates":[{"from":"04-01","to":"12-01"}],"daysOfWeek":{"days":["mo","th"]},"timesOfDay":[{"from":"09:00","to":"12:00"}]}], userClasses:[{classes:["truck"]}]}]
 }
+// const overide = 
+
+// {
+//    11: [
+//       {
+//          priority: 4,
+//          rule: {
+//             activity: "no standing"
+//          },
+//          timeSpans: []
+//       }
+//    ],
+//    95: [
+//       {
+//          priority: 3,
+//          rule: {
+//             activity: "standing"
+//          },
+//          timeSpans: [
+//             {
+//                daysOfWeek: {
+//                   days: [
+//                      "mo",
+//                      "tu",
+//                      "we",
+//                      "th",
+//                      "fr"
+//                   ]
+//                },
+//                timesOfDay: [
+//                   {
+//                      from: "08:00",
+//                      to: "09:30"
+//                   }
+//                ]
+//             },
+//             {
+//                daysOfWeek: {
+//                   days: [
+//                      "mo",
+//                      "tu",
+//                      "we",
+//                      "th",
+//                      "fr"
+//                   ]
+//                },
+//                timesOfDay: [
+//                   {
+//                      from: "15:30",
+//                      to: "18:00"
+//                   }
+//                ]
+//             }
+//          ]
+//       }
+//    ],
+//    2413: [
+//       {
+//          priority: 4,
+//          rule: {
+//             activity: "no parking"
+//          },
+//          timeSpans: []
+//       }
+//    ],
+//    2414: [
+//       {
+//          priority: 4,
+//          rule: {
+//             activity: "no parking"
+//          },
+//          timeSpans: []
+//       }
+//    ],
+//    2348: [
+//       {
+//          priority: 4,
+//          rule: {
+//             activity: "no parking"
+//          },
+//          timeSpans: [],
+//          userClasses: [
+//             {
+//                classes: [
+//                   truck
+//                ]
+//             }
+//          ]
+//       }
+//    ],
+//    13810: [
+//       {
+//          priority: 3,
+//          rule: {
+//             activity: "no parking"
+//          },
+//          timeSpans: [
+//             {
+//                effectiveDates: [
+//                   {
+//                      from: "04-01",
+//                      to: "12-01"
+//                   }
+//                ],
+//                daysOfWeek: {
+//                   days: [
+//                      "mo",
+//                      "th"
+//                   ]
+//                },
+//                timesOfDay: [
+//                   {
+//                      from: "09:00",
+//                      to: "12:00"
+//                   }
+//                ]
+//             }
+//          ],
+//          userClasses: [
+//             {
+//                classes: [
+//                   "truck"
+//                ]
+//             }
+//          ]
+//       }
+//    ]
+// }
+
+
+
 
 for (var rpaCode of rpaCodes) {
     if(overide[rpaCode.ID]){
@@ -42,21 +173,32 @@ for (var rpaCode of rpaCodes) {
         ];
         continue;
     }
-if (rpaCode.DESCRIPTION != ""){
-    description = rpaCode.DESCRIPTION.toUpperCase();
-    let activity = '';
-}
+    if (rpaCode.DESCRIPTION != ""){
+        description = rpaCode.DESCRIPTION.toUpperCase();
+        let activity = '';
+    }
     if(description.includes("\\P ") || description.startsWith("STAT. INT. ")) {
         activity = 'no parking';
     } else if(description.includes("\\A ")) {
         activity = 'no standing';
     } else if(description.startsWith("STAT. ") || description.startsWith("AIRE DE ")) {
         activity = 'parking';
-    } else if(description.startsWith("PANONCEAU ") || description.startsWith("PANNONCEAU")) {
+    }
+
+    else if(description.startsWith("PANONCEAU ") || description.startsWith("PANNONCEAU")) {
         activity = null;
     } else {
         continue;
         //debug(`${rpaCode.CODE_RPA} ${description}`)
+    }
+    let userClasses;
+    if(description.includes("PERMIS")){
+        activity = 'restricted';
+        userClasses = [
+            {
+                "classes": ["permit"]
+            }
+        ];
     }
 
     if (rpaCode.DESCRIPTION != ""){
@@ -255,15 +397,26 @@ if (rpaCode.DESCRIPTION != ""){
     }
 
     let priority = timeSpans.length>0?3:4;
-
+    
+    ///duration
+    var reg = /[0-9]* MIN/g;
+    let extract = reg.exec(description);
+    let maxStay;
+    if (extract != '0' && extract != null){
+        maxStay = parseInt(extract[0].slice(0, -4))
+    }
+    ////
     if(activity){
         rpaCode['regulations'] = [{
-            priority,
+            // priority,
             rule:{
                 activity,
-                fleche_pan
+                priority,
+                fleche_pan,
+                maxStay///duration
             },
-            timeSpans
+            timeSpans,
+            userClasses
         }];
     } else if(timeSpans.length>0){
         rpaCode['regulations'] = [{
