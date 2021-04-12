@@ -32,6 +32,7 @@ echo "done transform to segment"
 shst match data/mtl-subset-segment.geojson --join-points --join-points-match-fields=TYPE_CODE \
     --search-radius=15 --snap-intersections --snap-intersections-radius=10 \
     --trim-intersections-radius=5 --buffer-merge-group-fields=ID \
+
     --buffer-points \
     # --direction-field=direction --two-way-value=two --one-way-against-direction-value=against --one-way-with-direction-value=one
 
