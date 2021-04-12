@@ -6,13 +6,33 @@ const path = require('path');
 const inputGeojson = fs.readFileSync('data/mtl-subset-segment.joined.geojson');
 const input = JSON.parse(inputGeojson);
 const rpaCodeJson = fs.readFileSync('data/signalisation-codification-rpa_withRegulation.json');
-let rpaCode = JSON.parse(rpaCodeJson).reduce((acc,val)=>{acc[val.PANNEAU_ID_RPA]=val; return acc;},{});
-const agregateRpaCodeJson = fs.readFileSync('data/agregate-pannonceau-rpa.json');
-const agregateRpaCode = JSON.parse(agregateRpaCodeJson);
+let rpaCode = JSON.parse(rpaCodeJson).reduce((acc,val)=>{acc[val.TYPE_CODE]=val; return acc;},{});
+let rpaID = JSON.parse(rpaCodeJson).reduce((acc, val)=> {acc[val.ID]=val; return acc;},{});
+//const agregateRpaCodeJson = fs.readFileSync('data/agregate-pannonceau-rpa.json');
+//const agregateRpaCode = JSON.parse(agregateRpaCodeJson);
 
-rpaCode = {...rpaCode, ...agregateRpaCode}
+//rpaCode = {...rpaCode, ...agregateRpaCode}
 
 var geojson = {};
+geojson['manifest']= {
+  "priorityHierarchy": [
+    // "1",
+    // "2",
+    // "3",
+    // "4",
+    // "5",
+    // "free parking"
+    "no standing",
+    "no parking",
+    "passenger loading",
+    "loading",
+    "transit",
+    "free parking",
+    "paid parking", 
+    "restricted"
+  ],
+  "curblrVersion": "1.1.0",
+}
 geojson['type'] = 'FeatureCollection';
 geojson['features'] = [];
 
@@ -22,16 +42,16 @@ for (var feature of input.features) {
         referenceId: shstRefId,
         sideOfStreet: sideOfStreet,
         section: [shstLocationStart, shstLocationEnd],
-        pp_code_rpa: code_rpa,
-        pp_panneau_id_rpa: id_rpa,
-        pp_panneau_id_pan: derivedFrom
+        pp_type_code: TYPE_CODE,
+        pp_id: ID//id_rpa
+
     } = feature.properties
     
     shstLocationStart=Math.round(shstLocationStart);
     shstLocationEnd=Math.round(shstLocationEnd);
 
     marker = "signs";
-    if(rpaCode[id_rpa].regulations){
+    if(rpaCode[TYPE_CODE].regulations){
       var newTargetFeature = {
           ...feature,
           properties:{
@@ -40,9 +60,9 @@ for (var feature of input.features) {
               sideOfStreet,
               shstLocationStart,
               shstLocationEnd,
-              derivedFrom
+
             },
-            regulations: rpaCode[id_rpa].regulations
+            regulations: rpaCode[TYPE_CODE].regulations
         }
       }
       geojson['features'].push(newTargetFeature);

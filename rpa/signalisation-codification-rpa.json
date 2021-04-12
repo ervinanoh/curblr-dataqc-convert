@@ -1,0 +1,5252 @@
+[
+ {
+   "ID": 348158,
+   "DESCRIPTION": "Rue piétonne - Piétons seulement 11h - 24h, Stat. int. DÉBARCADÈRE 7h - 11h, LUN à Ven SEULEMENT",
+   "TYPE_CODE": "P03425"
+ },
+ {
+   "ID": 161283,
+   "DESCRIPTION": "Aire de stationnement P",
+   "TYPE_CODE": "P04250"
+ },
+ {
+   "ID": 151388,
+   "DESCRIPTION": "Aire de stationnement P - PARC VICTORIA  60 MIN GRATUIT ( fl. dr.)",
+   "TYPE_CODE": "P04278"
+ },
+ {
+   "ID": 151392,
+   "DESCRIPTION": "Aire de stationnement P - PARC VICTORIA  60 MIN GRATUIT ( fl. tout dr.)",
+   "TYPE_CODE": "P04279"
+ },
+ {
+   "ID": 269552,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 7h - 11h LUN À VEN  (fl. ga.) ",
+   "TYPE_CODE": "PD1031"
+ },
+ {
+   "ID": 132530,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 7h - 11h LUN À VEN  (fl. dr.) ",
+   "TYPE_CODE": "PD1032"
+ },
+ {
+   "ID": 348811,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 7h - 11h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PD1033"
+ },
+ {
+   "ID": 336204,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 7h - 11h LUN À VEN (recto / verso)",
+   "TYPE_CODE": "PD1034"
+ },
+ {
+   "ID": 300808,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 7h - 16h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PD1081"
+ },
+ {
+   "ID": 334939,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 7h - 16h LUN À VEN (fl. dr)",
+   "TYPE_CODE": "PD1082"
+ },
+ {
+   "ID": 325898,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 7h30 - 16h30 LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PD1084"
+ },
+ {
+   "ID": 325897,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 7h30 - 16h30 LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PD1085"
+ },
+ {
+   "ID": 325896,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 7h30 - 16h30 LUN À VEN (fl.dou.)",
+   "TYPE_CODE": "PD1086"
+ },
+ {
+   "ID": 105728,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE (fl. ga.)",
+   "TYPE_CODE": "PD1171"
+ },
+ {
+   "ID": 105729,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE (fl. dr.)",
+   "TYPE_CODE": "PD1172"
+ },
+ {
+   "ID": 120564,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE (fl. dou.)",
+   "TYPE_CODE": "PD1173"
+ },
+ {
+   "ID": 137319,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 10 min (fl. ga.)",
+   "TYPE_CODE": "PD1181"
+ },
+ {
+   "ID": 137320,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 10 min (fl. dr.)",
+   "TYPE_CODE": "PD1182"
+ },
+ {
+   "ID": 179179,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 10 min (fl. dou.)",
+   "TYPE_CODE": "PD1183"
+ },
+ {
+   "ID": 276892,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 15 min LUN À VEN (fl.ga.)",
+   "TYPE_CODE": "PD1184"
+ },
+ {
+   "ID": 362659,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 15 min LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PD1185"
+ },
+ {
+   "ID": 266465,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 30 min (fl.ga.)",
+   "TYPE_CODE": "PD1191"
+ },
+ {
+   "ID": 266463,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 30 min (fl. dr.)",
+   "TYPE_CODE": "PD1192"
+ },
+ {
+   "ID": 302000,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 30 min (fl. dou.)",
+   "TYPE_CODE": "PD1193"
+ },
+ {
+   "ID": 120400,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 8h - 18h LUN À SAM (fl. ga.)",
+   "TYPE_CODE": "PD1201"
+ },
+ {
+   "ID": 120399,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 8h - 18h LUN À SAM (fl. dr.)",
+   "TYPE_CODE": "PD1202"
+ },
+ {
+   "ID": 162789,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 8h - 18h LUN À SAM (fl. dou.)",
+   "TYPE_CODE": "PD1203"
+ },
+ {
+   "ID": 131299,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 8h - 11h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PD1241"
+ },
+ {
+   "ID": 125428,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 8h - 11h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PD1242"
+ },
+ {
+   "ID": 122927,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 8h - 11h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PD1243"
+ },
+ {
+   "ID": 115626,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 8h - 16h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PD1281"
+ },
+ {
+   "ID": 115625,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 8h - 16h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PD1282"
+ },
+ {
+   "ID": 120920,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 8h - 16h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PD1283"
+ },
+ {
+   "ID": 147627,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 8h - 17h (fl. ga.)",
+   "TYPE_CODE": "PD1291"
+ },
+ {
+   "ID": 135083,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 8h - 17h (fl. dr.)",
+   "TYPE_CODE": "PD1292"
+ },
+ {
+   "ID": 300037,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 9h - 17h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PD1294"
+ },
+ {
+   "ID": 300038,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 9h - 17h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PD1295"
+ },
+ {
+   "ID": 118828,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 8h - 16h LUN À SAM (fl. ga.)",
+   "TYPE_CODE": "PD1301"
+ },
+ {
+   "ID": 118830,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 8h - 16h LUN À SAM (fl. dr.)",
+   "TYPE_CODE": "PD1302"
+ },
+ {
+   "ID": 327935,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 8h - 12h MAR À VEN (fl.ga.)",
+   "TYPE_CODE": "PD1341"
+ },
+ {
+   "ID": 316073,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 8h - 12h MAR À VEN (fl.dr.)",
+   "TYPE_CODE": "PD1342"
+ },
+ {
+   "ID": 112596,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 8h - 18h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PD1381"
+ },
+ {
+   "ID": 112597,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 8h - 18h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PD1382"
+ },
+ {
+   "ID": 123310,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 8h - 18h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PD1383"
+ },
+ {
+   "ID": 134917,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE et véhicules d'urgence (recto / verso)",
+   "TYPE_CODE": "PD1480"
+ },
+ {
+   "ID": 267927,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 9h - 15h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PD1501"
+ },
+ {
+   "ID": 128200,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 9h - 15h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PD1502"
+ },
+ {
+   "ID": 330012,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 9h - 15h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PD1503"
+ },
+ {
+   "ID": 323530,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 6h - 17h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PD1504"
+ },
+ {
+   "ID": 323534,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 6h - 17h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PD1505"
+ },
+ {
+   "ID": 323533,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 6h - 17h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PD1506"
+ },
+ {
+   "ID": 161697,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 9h - 15h LUN À SAM (fl. dr.)",
+   "TYPE_CODE": "PD1512"
+ },
+ {
+   "ID": 152608,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE BUS - valises 15 min (fl. ga.)",
+   "TYPE_CODE": "PD1521"
+ },
+ {
+   "ID": 137241,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE BUS - passagers 10 min (fl. ga.)",
+   "TYPE_CODE": "PD1541"
+ },
+ {
+   "ID": 137242,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE BUS - passagers 10 min (fl. dr.)",
+   "TYPE_CODE": "PD1542"
+ },
+ {
+   "ID": 138682,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE BUS - passagers - 10 min (fl. dou.)",
+   "TYPE_CODE": "PD1543"
+ },
+ {
+   "ID": 312497,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE BUS - passagers 10 min EN AUTRE TEMPS (fl. ga.)",
+   "TYPE_CODE": "PD1551"
+ },
+ {
+   "ID": 312494,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE BUS - passagers 10 min EN AUTRE TEMPS (fl. dr.)",
+   "TYPE_CODE": "PD1552"
+ },
+ {
+   "ID": 359828,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE BUS - passagers 10 min EN AUTRE TEMPS (fl.dou.)",
+   "TYPE_CODE": "PD1553"
+ },
+ {
+   "ID": 312498,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 6h - 9h (fl. ga.)",
+   "TYPE_CODE": "PD1561"
+ },
+ {
+   "ID": 312495,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 6h - 9h (fl. dr.)",
+   "TYPE_CODE": "PD1562"
+ },
+ {
+   "ID": 266112,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 7h - 18h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PD1564"
+ },
+ {
+   "ID": 282492,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 7h - 18h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PD1565"
+ },
+ {
+   "ID": 266113,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 7h - 18h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PD1566"
+ },
+ {
+   "ID": 311443,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 7h - 9h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PD1567"
+ },
+ {
+   "ID": 138443,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE ET bus - valises 10 min (fl. ga.)",
+   "TYPE_CODE": "PD1571"
+ },
+ {
+   "ID": 138442,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE ET bus - valises 10 min (fl. dr.)",
+   "TYPE_CODE": "PD1572"
+ },
+ {
+   "ID": 138667,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE ET bus - valises 10 min (fl. dou.)",
+   "TYPE_CODE": "PD1573"
+ },
+ {
+   "ID": 211630,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE - INTERDIT AUX AUTOBUS ET CAMIONS (fl. ga.)",
+   "TYPE_CODE": "PD1591"
+ },
+ {
+   "ID": 211631,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE - INTERDIT AUX AUTOBUS ET CAMIONS (fl. dr.)",
+   "TYPE_CODE": "PD1592"
+ },
+ {
+   "ID": 337423,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE EN AUTRE TEMPS (fl. ga.)",
+   "TYPE_CODE": "PD1594"
+ },
+ {
+   "ID": 337425,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE EN AUTRE TEMPS (fl. dr.)",
+   "TYPE_CODE": "PD1595"
+ },
+ {
+   "ID": 268678,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 9h - 16h LUN À SAM (fl. ga.)",
+   "TYPE_CODE": "PD1611"
+ },
+ {
+   "ID": 268680,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 9h - 16h LUN À SAM (fl. dr.)",
+   "TYPE_CODE": "PD1612"
+ },
+ {
+   "ID": 268677,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 9h - 16h LUN À SAM (fl. dou.)",
+   "TYPE_CODE": "PD1613"
+ },
+ {
+   "ID": 338906,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 8h - 21h (fl. dr.)",
+   "TYPE_CODE": "PD1662"
+ },
+ {
+   "ID": 301999,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 15 MIN (fl. ga.) (Ville Ancienne-Lorette)",
+   "TYPE_CODE": "PD1681"
+ },
+ {
+   "ID": 302003,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 15 MIN (fl. dr.)",
+   "TYPE_CODE": "PD1682"
+ },
+ {
+   "ID": 302001,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 15 MIN (fl. dou.) (Ville Ancienne-Lorette)",
+   "TYPE_CODE": "PD1683"
+ },
+ {
+   "ID": 363924,
+   "DESCRIPTION": "Stat. int. DÉBARCADÈRE 7h - 10h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PD1722"
+ },
+ {
+   "ID": 261096,
+   "DESCRIPTION": "Stat. int. 0h01 - 6h LUN-MER-VEN 15 NOV AU 31 MARS (fl. ga.)",
+   "TYPE_CODE": "PP1001"
+ },
+ {
+   "ID": 261095,
+   "DESCRIPTION": "Stat. int. 0h01 - 6h LUN-MER-VEN 15 NOV AU 31 MARS (fl. dr.)",
+   "TYPE_CODE": "PP1002"
+ },
+ {
+   "ID": 256741,
+   "DESCRIPTION": "Stat. int. 0h01 - 6h LUN-MER-VEN 15 NOV AU 31 MARS (fl. dou.)",
+   "TYPE_CODE": "PP1003"
+ },
+ {
+   "ID": 309926,
+   "DESCRIPTION": "Stat. int. 1er NOV AU 1er AVRIL (fl. ga.)",
+   "TYPE_CODE": "PP1004"
+ },
+ {
+   "ID": 309700,
+   "DESCRIPTION": "Stat. int. 1er NOV AU 1er AVRIL (fl. dou.)",
+   "TYPE_CODE": "PP1006"
+ },
+ {
+   "ID": 105224,
+   "DESCRIPTION": "Stat. int. (recto / verso)",
+   "TYPE_CODE": "PP1010"
+ },
+ {
+   "ID": 104833,
+   "DESCRIPTION": "Stat. int. (fl. ga.)",
+   "TYPE_CODE": "PP1011"
+ },
+ {
+   "ID": 104604,
+   "DESCRIPTION": "Stat. int. (fl. dr.)",
+   "TYPE_CODE": "PP1012"
+ },
+ {
+   "ID": 104601,
+   "DESCRIPTION": "Stat. int. (fl. dou.)",
+   "TYPE_CODE": "PP1013"
+ },
+ {
+   "ID": 264985,
+   "DESCRIPTION": "Stat. int. 16h - 18h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PP1014"
+ },
+ {
+   "ID": 264972,
+   "DESCRIPTION": "Stat. int. 16h - 18h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PP1015"
+ },
+ {
+   "ID": 257811,
+   "DESCRIPTION": "Stat. int. 16h - 18h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PP1016"
+ },
+ {
+   "ID": 194710,
+   "DESCRIPTION": "Stat. int. (fl. ga.) 300 x 300",
+   "TYPE_CODE": "PP1021"
+ },
+ {
+   "ID": 225531,
+   "DESCRIPTION": "Stat. int. (fl. dr.) 300 x 300",
+   "TYPE_CODE": "PP1022"
+ },
+ {
+   "ID": 194689,
+   "DESCRIPTION": "Stat. int. (fl. dou) 300 x 300",
+   "TYPE_CODE": "PP1023"
+ },
+ {
+   "ID": 177618,
+   "DESCRIPTION": "Stat. int. 8h - 20h MAR-JEU-SAM (fl. ga.)",
+   "TYPE_CODE": "PP1031"
+ },
+ {
+   "ID": 177622,
+   "DESCRIPTION": "Stat. int. 8h - 20h MAR-JEU-SAM (fl. dr.)",
+   "TYPE_CODE": "PP1032"
+ },
+ {
+   "ID": 177621,
+   "DESCRIPTION": "Stat. int. 8h - 20h MAR-JEU-SAM (fl. dou.)",
+   "TYPE_CODE": "PP1033"
+ },
+ {
+   "ID": 261931,
+   "DESCRIPTION": "Stat. int. 7h - 17h30 (fl. dou.)",
+   "TYPE_CODE": "PP1039"
+ },
+ {
+   "ID": 317579,
+   "DESCRIPTION": "Stat. int. 7h30 - 8h30, 11h - 13h, 15h - 16h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PP1042"
+ },
+ {
+   "ID": 317577,
+   "DESCRIPTION": "Stat. int. 7h30 - 8h30, 11h - 13h, 15h - 16h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PP1043"
+ },
+ {
+   "ID": 110844,
+   "DESCRIPTION": "Stat. int. DE CE CÔTÉ (recto / verso)",
+   "TYPE_CODE": "PP1050"
+ },
+ {
+   "ID": 106195,
+   "DESCRIPTION": "Stat. int. DANS CETTE RUE (recto / verso)",
+   "TYPE_CODE": "PP1060"
+ },
+ {
+   "ID": 300599,
+   "DESCRIPTION": "STAT. INT. 9h-19h LUN-VEN (fl.doub.)EXCEPTÉ PERMIS ZONE 1 (BLEU)",
+   "TYPE_CODE": "PP1066"
+ },
+ {
+   "ID": 312833,
+   "DESCRIPTION": "STAT. INT. 22h-6h (fl.double) EXCEPTÉ PERMIS ZONE 9 (ORANGE)",
+   "TYPE_CODE": "PP1069"
+ },
+ {
+   "ID": 128038,
+   "DESCRIPTION": "Stat. int. 10h - 10h30, 14h30 - 15h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PP1071"
+ },
+ {
+   "ID": 210943,
+   "DESCRIPTION": "Stat. int. 10h - 10h30, 14h30 - 15h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PP1072"
+ },
+ {
+   "ID": 112383,
+   "DESCRIPTION": "Stat. int. 10h - 10h30, 14h30 - 15h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PP1073"
+ },
+ {
+   "ID": 134336,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ véhicules d'urgence (recto / verso)",
+   "TYPE_CODE": "PP1080"
+ },
+ {
+   "ID": 121268,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ véhicules d'urgence (fl. ga.)",
+   "TYPE_CODE": "PP1081"
+ },
+ {
+   "ID": 121267,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ véhicules d'urgence (fl. dr.)",
+   "TYPE_CODE": "PP1082"
+ },
+ {
+   "ID": 125392,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ véhicules d'urgence (fl. dou.)",
+   "TYPE_CODE": "PP1083"
+ },
+ {
+   "ID": 358289,
+   "DESCRIPTION": "Stat. int. 7h - 9h, 11h - 13h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PP1087"
+ },
+ {
+   "ID": 358290,
+   "DESCRIPTION": "Stat. int. 7h - 9h, 11h - 13h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PP1089"
+ },
+ {
+   "ID": 189737,
+   "DESCRIPTION": "Stat. int. 9h - 11h, 14h - 16h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PP1091"
+ },
+ {
+   "ID": 194711,
+   "DESCRIPTION": "Stat. int. 9h - 11h, 14h - 16h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PP1092"
+ },
+ {
+   "ID": 181349,
+   "DESCRIPTION": "Stat. int. 9h - 11h, 14h - 16h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PP1093"
+ },
+ {
+   "ID": 260461,
+   "DESCRIPTION": "Stat. int. 9h - 11h, 14h - 18h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PP1096"
+ },
+ {
+   "ID": 163710,
+   "DESCRIPTION": "Stat. int. 8h - 16h MAR-JEU (fl. ga.)",
+   "TYPE_CODE": "PP1101"
+ },
+ {
+   "ID": 164948,
+   "DESCRIPTION": "Stat. int. 8h - 16h MAR-JEU (fl. dr.)",
+   "TYPE_CODE": "PP1102"
+ },
+ {
+   "ID": 163709,
+   "DESCRIPTION": "Stat. int. 8h - 16h MAR-JEU (fl. dou.)",
+   "TYPE_CODE": "PP1103"
+ },
+ {
+   "ID": 189247,
+   "DESCRIPTION": "Stat. int. 8h - 18h MAR-JEU (fl. ga.)",
+   "TYPE_CODE": "PP1104"
+ },
+ {
+   "ID": 191480,
+   "DESCRIPTION": "Stat. int. 8h - 18h MAR-JEU (fl. dr.)",
+   "TYPE_CODE": "PP1105"
+ },
+ {
+   "ID": 179542,
+   "DESCRIPTION": "Stat. int. 8h - 18h MAR-JEU (fl. dou.)",
+   "TYPE_CODE": "PP1106"
+ },
+ {
+   "ID": 271486,
+   "DESCRIPTION": "Stat. int. 0h - 6h MAR-JEU 15 NOV AU 31 MARS (fl. ga.)",
+   "TYPE_CODE": "PP1107"
+ },
+ {
+   "ID": 261093,
+   "DESCRIPTION": "Stat. int. 0h - 6h MAR-JEU 15 NOV AU 31 MARS (fl. dr.)",
+   "TYPE_CODE": "PP1108"
+ },
+ {
+   "ID": 261077,
+   "DESCRIPTION": "Stat. int. 0h - 6h MAR-JEU 15 NOV AU 31 MARS (fl. dou.)",
+   "TYPE_CODE": "PP1109"
+ },
+ {
+   "ID": 187230,
+   "DESCRIPTION": "Stat. int. 8h - 16h MAR-JEU-SAM (fl. dr.)",
+   "TYPE_CODE": "PP1112"
+ },
+ {
+   "ID": 187227,
+   "DESCRIPTION": "Stat. int. 8h - 16h MAR-JEU-SAM (fl. dou.)",
+   "TYPE_CODE": "PP1113"
+ },
+ {
+   "ID": 318462,
+   "DESCRIPTION": "Stat. int. 8h - 20h MAR-JEU 15 NOV AU 31 MARS (fl. ga.)",
+   "TYPE_CODE": "PP1117"
+ },
+ {
+   "ID": 268466,
+   "DESCRIPTION": "Stat. int. 8h - 20h MAR-JEU 15 NOV AU 31 MARS (fl. dr.)",
+   "TYPE_CODE": "PP1118"
+ },
+ {
+   "ID": 268464,
+   "DESCRIPTION": "Stat. int. 8h - 20h MAR-JEU 15 NOV AU 31 MARS (fl. dou.)",
+   "TYPE_CODE": "PP1119"
+ },
+ {
+   "ID": 256414,
+   "DESCRIPTION": "Stat. int. 8h - 20h LUN-MER-VEN (fl. ga.)",
+   "TYPE_CODE": "PP1124"
+ },
+ {
+   "ID": 308511,
+   "DESCRIPTION": "Stat. int. 8h - 20h LUN-MER-VEN (fl. dr.)",
+   "TYPE_CODE": "PP1125"
+ },
+ {
+   "ID": 185460,
+   "DESCRIPTION": "Stat. int. 8h - 20h LUN-MER-VEN (fl. dou.)",
+   "TYPE_CODE": "PP1126"
+ },
+ {
+   "ID": 191472,
+   "DESCRIPTION": "Stat. int. 8h - 18h LUN-MER-VEN (fl. ga.)",
+   "TYPE_CODE": "PP1127"
+ },
+ {
+   "ID": 191577,
+   "DESCRIPTION": "Stat. int. 8h - 18h LUN-MER-VEN (fl. dr.)",
+   "TYPE_CODE": "PP1128"
+ },
+ {
+   "ID": 191438,
+   "DESCRIPTION": "Stat. int. 8h - 18h LUN-MER-VEN (fl. dou.)",
+   "TYPE_CODE": "PP1129"
+ },
+ {
+   "ID": 128982,
+   "DESCRIPTION": "Stat. int. 8h - 9h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PP1131"
+ },
+ {
+   "ID": 128979,
+   "DESCRIPTION": "Stat. int. 8h - 9h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PP1132"
+ },
+ {
+   "ID": 128970,
+   "DESCRIPTION": "Stat. int. 8h - 9h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PP1133"
+ },
+ {
+   "ID": 116971,
+   "DESCRIPTION": "Stat. int. POSTE EN COMMUN TAXIS (fl. ga.)",
+   "TYPE_CODE": "PP1141"
+ },
+ {
+   "ID": 129233,
+   "DESCRIPTION": "Stat. int. POSTE EN COMMUN TAXIS (fl. dr.)",
+   "TYPE_CODE": "PP1142"
+ },
+ {
+   "ID": 116973,
+   "DESCRIPTION": "Stat. int. POSTE EN COMMUN TAXIS (fl. dou.) ",
+   "TYPE_CODE": "PP1143"
+ },
+ {
+   "ID": 161705,
+   "DESCRIPTION": "Stat. int. EN AUTRE TEMPS (fl. ga.)",
+   "TYPE_CODE": "PP1161"
+ },
+ {
+   "ID": 161707,
+   "DESCRIPTION": "Stat. int. EN AUTRE TEMPS (fl. dr.)",
+   "TYPE_CODE": "PP1162"
+ },
+ {
+   "ID": 139245,
+   "DESCRIPTION": "Stat. int. EN AUTRE TEMPS (fl. dou.)",
+   "TYPE_CODE": "PP1163"
+ },
+ {
+   "ID": 237170,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ BUS 30 min (fl. ga.)",
+   "TYPE_CODE": "PP1171"
+ },
+ {
+   "ID": 237173,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ BUS 30 min (fl. dr.)",
+   "TYPE_CODE": "PP1172"
+ },
+ {
+   "ID": 269413,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ BUS 30 min (fl. dou.)",
+   "TYPE_CODE": "PP1173"
+ },
+ {
+   "ID": 121870,
+   "DESCRIPTION": "Stat. int. 16h - 17h30 LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PP1181"
+ },
+ {
+   "ID": 121868,
+   "DESCRIPTION": "Stat. int. 16h - 17h30 LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PP1182"
+ },
+ {
+   "ID": 145863,
+   "DESCRIPTION": "Stat. int. 16h - 17h30 LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PP1183"
+ },
+ {
+   "ID": 262725,
+   "DESCRIPTION": "Stat. int. 9h30 - 10h30 LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PP1186"
+ },
+ {
+   "ID": 165227,
+   "DESCRIPTION": "Stat. int. 8h - 16h LUN-MER-VEN (fl. ga.)",
+   "TYPE_CODE": "PP1221"
+ },
+ {
+   "ID": 163720,
+   "DESCRIPTION": "Stat. int. 8h - 16h LUN-MER-VEN (fl. dr.)",
+   "TYPE_CODE": "PP1222"
+ },
+ {
+   "ID": 163719,
+   "DESCRIPTION": "Stat. int. 8h - 16h LUN-MER-VEN (fl. dou.)",
+   "TYPE_CODE": "PP1223"
+ },
+ {
+   "ID": 179347,
+   "DESCRIPTION": "Stat. int. 8h - 20h MAR-JEU (fl. ga.)",
+   "TYPE_CODE": "PP1224"
+ },
+ {
+   "ID": 309381,
+   "DESCRIPTION": "Stat. int. 8h - 20h MAR-JEU (fl. dr.)",
+   "TYPE_CODE": "PP1225"
+ },
+ {
+   "ID": 261672,
+   "DESCRIPTION": "Stat. int. 8h - 20h MAR-JEU (fl. dou.)",
+   "TYPE_CODE": "PP1226"
+ },
+ {
+   "ID": 278564,
+   "DESCRIPTION": "Stat. int. 8h - 18h MAR-JEU-SAM (fl. ga.)",
+   "TYPE_CODE": "PP1227"
+ },
+ {
+   "ID": 367886,
+   "DESCRIPTION": "Stat. int. 8h - 18h MAR-JEU-SAM (fl. dr.)",
+   "TYPE_CODE": "PP1228"
+ },
+ {
+   "ID": 278563,
+   "DESCRIPTION": "Stat. int. 8h - 18h MAR-JEU-SAM (fl. dou.)",
+   "TYPE_CODE": "PP1229"
+ },
+ {
+   "ID": 305408,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ VÉHICULES IMMATRICULÉS CC - CD OU AVEC VIGNETTES REMORQUAGE (fl. ga.) (Cons. des États-Unis)",
+   "TYPE_CODE": "PP1241"
+ },
+ {
+   "ID": 132343,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ VÉHICULES IMMATRICULÉS CC - CD OU AVEC VIGNETTES REMORQUAGE (fl. dr.) (Cons. des États-Unis)",
+   "TYPE_CODE": "PP1242"
+ },
+ {
+   "ID": 358901,
+   "DESCRIPTION": "Stat. int. 7h - 18h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PP1247"
+ },
+ {
+   "ID": 358899,
+   "DESCRIPTION": "Stat. int. 7h - 18h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PP1248"
+ },
+ {
+   "ID": 358903,
+   "DESCRIPTION": "Stat. int. 7h - 18h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PP1249"
+ },
+ {
+   "ID": 216631,
+   "DESCRIPTION": "Stat. int. 7h - 16h LUN À VEN PÉRIODE SCOLAIRE (fl. ga.)",
+   "TYPE_CODE": "PP1261"
+ },
+ {
+   "ID": 191745,
+   "DESCRIPTION": "Stat. int. 7h - 16h LUN À VEN PÉRIODE SCOLAIRE (fl. dr.)",
+   "TYPE_CODE": "PP1262"
+ },
+ {
+   "ID": 151019,
+   "DESCRIPTION": "Stat. int. 7h - 16h LUN À VEN PÉRIODE SCOLAIRE (fl. dou.)",
+   "TYPE_CODE": "PP1263"
+ },
+ {
+   "ID": 313987,
+   "DESCRIPTION": "Stat. int. 7h30 - 16h LUN À VEN PÉRIODE SCOLAIRE (fl. ga.)",
+   "TYPE_CODE": "PP1264"
+ },
+ {
+   "ID": 313990,
+   "DESCRIPTION": "Stat. int. 7h30 - 16h LUN À VEN PÉRIODE SCOLAIRE (fl. dr.)",
+   "TYPE_CODE": "PP1265"
+ },
+ {
+   "ID": 313988,
+   "DESCRIPTION": "Stat. int. 7h30 - 16h LUN À VEN PÉRIODE SCOLAIRE (fl. dou.)",
+   "TYPE_CODE": "PP1266"
+ },
+ {
+   "ID": 105277,
+   "DESCRIPTION": "Stat. int. 8h - 16h LUN À VEN PÉRIODE SCOLAIRE (fl. ga.)",
+   "TYPE_CODE": "PP1271"
+ },
+ {
+   "ID": 109972,
+   "DESCRIPTION": "Stat. int. 8h - 16h LUN À VEN PÉRIODE SCOLAIRE (fl. dr.)",
+   "TYPE_CODE": "PP1272"
+ },
+ {
+   "ID": 109975,
+   "DESCRIPTION": "Stat. int. 8h - 16h LUN À VEN PÉRIODE SCOLAIRE (fl. dou.)",
+   "TYPE_CODE": "PP1273"
+ },
+ {
+   "ID": 115928,
+   "DESCRIPTION": "Hors rue - Stat. int. SUR CE TERRAIN (recto / verso)",
+   "TYPE_CODE": "PP1280"
+ },
+ {
+   "ID": 246906,
+   "DESCRIPTION": "Stat. int. 16h - 17h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PP1291"
+ },
+ {
+   "ID": 246907,
+   "DESCRIPTION": "Stat. int. 16h - 17h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PP1293"
+ },
+ {
+   "ID": 157159,
+   "DESCRIPTION": "Stat. int. 7h30 - 9h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PP1301"
+ },
+ {
+   "ID": 128653,
+   "DESCRIPTION": "Stat. int. 7h30 - 9h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PP1303"
+ },
+ {
+   "ID": 266473,
+   "DESCRIPTION": "Stat. int. 23h - 6h (fl.ga.)",
+   "TYPE_CODE": "PP1304"
+ },
+ {
+   "ID": 266471,
+   "DESCRIPTION": "Stat. int. 23h - 6h (fl.dr.)",
+   "TYPE_CODE": "PP1305"
+ },
+ {
+   "ID": 266453,
+   "DESCRIPTION": "Stat. int. 23h - 6h (fl.dou.)",
+   "TYPE_CODE": "PP1306"
+ },
+ {
+   "ID": 174748,
+   "DESCRIPTION": "Stat. int. 8h - 20h LUN-MER-VEN 15 NOV AU 31MARS (fl. ga.)",
+   "TYPE_CODE": "PP1307"
+ },
+ {
+   "ID": 174724,
+   "DESCRIPTION": "Stat. int. 8h - 20h LUN-MER-VEN 15 NOV AU 31MARS (fl. dr.)",
+   "TYPE_CODE": "PP1308"
+ },
+ {
+   "ID": 174723,
+   "DESCRIPTION": "Stat. int. 8h - 20h LUN-MER-VEN 15 NOV AU 31MARS (fl. dou.)",
+   "TYPE_CODE": "PP1309"
+ },
+ {
+   "ID": 116310,
+   "DESCRIPTION": "Stat. int. 8h - 16h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PP1321"
+ },
+ {
+   "ID": 116311,
+   "DESCRIPTION": "Stat. int. 8h - 16h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PP1322"
+ },
+ {
+   "ID": 116271,
+   "DESCRIPTION": "Stat. int. 8h - 16h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PP1323"
+ },
+ {
+   "ID": 192746,
+   "DESCRIPTION": "Stat. int. 8h - 17h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PP1324"
+ },
+ {
+   "ID": 191951,
+   "DESCRIPTION": "Stat. int. 8h - 17h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PP1325"
+ },
+ {
+   "ID": 191948,
+   "DESCRIPTION": "Stat. int. 8h - 17h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PP1326"
+ },
+ {
+   "ID": 367893,
+   "DESCRIPTION": "Stat. int. 8h - 18h LUN-MER-VEN-DIM (fl. ga.)",
+   "TYPE_CODE": "PP1327"
+ },
+ {
+   "ID": 278566,
+   "DESCRIPTION": "Stat. int. 8h - 18h LUN-MER-VEN-DIM (fl. dr.)",
+   "TYPE_CODE": "PP1328"
+ },
+ {
+   "ID": 278565,
+   "DESCRIPTION": "Stat. int. 8h - 18h LUN-MER-VEN-DIM (fl. dou.)",
+   "TYPE_CODE": "PP1329"
+ },
+ {
+   "ID": 227492,
+   "DESCRIPTION": "Stat. int. 9h - 16h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PP1331"
+ },
+ {
+   "ID": 317086,
+   "DESCRIPTION": "Stat. int. 9h - 16h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PP1332"
+ },
+ {
+   "ID": 194498,
+   "DESCRIPTION": "Stat. int. 9h - 16h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PP1333"
+ },
+ {
+   "ID": 109217,
+   "DESCRIPTION": "Stat. int. 8h - 18h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PP1341"
+ },
+ {
+   "ID": 109216,
+   "DESCRIPTION": "Stat. int. 8h - 18h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PP1342"
+ },
+ {
+   "ID": 110107,
+   "DESCRIPTION": "Stat. int. 8h - 18h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PP1343"
+ },
+ {
+   "ID": 303456,
+   "DESCRIPTION": "Stat. int. 8h - 16h LUN-JEU (fl. ga.)",
+   "TYPE_CODE": "PP1344"
+ },
+ {
+   "ID": 266030,
+   "DESCRIPTION": "Stat. int. 8h - 16h LUN-JEU (fl. dr.)",
+   "TYPE_CODE": "PP1345"
+ },
+ {
+   "ID": 174108,
+   "DESCRIPTION": "Stat. int. 8h - 16h LUN-MER-VEN 15 NOV AU 31 MARS (fl. ga.)",
+   "TYPE_CODE": "PP1347"
+ },
+ {
+   "ID": 327082,
+   "DESCRIPTION": "Stat. int. 8h - 16h LUN-MER-VEN 15 NOV AU 31 MARS (fl. dr.)",
+   "TYPE_CODE": "PP1348"
+ },
+ {
+   "ID": 173986,
+   "DESCRIPTION": "Stat. int. 8h - 16h LUN-MER-VEN 15 NOV AU 31 MARS (fl. dou.)",
+   "TYPE_CODE": "PP1349"
+ },
+ {
+   "ID": 357217,
+   "DESCRIPTION": "Stat. int. 22h - 6h 1er MAI AU 1er OCT (fl. ga.)",
+   "TYPE_CODE": "PP1361"
+ },
+ {
+   "ID": 110797,
+   "DESCRIPTION": "Stat. int. 22h - 6h 1er MAI AU 1er OCT (fl. dr.)",
+   "TYPE_CODE": "PP1362"
+ },
+ {
+   "ID": 110796,
+   "DESCRIPTION": "Stat. int. 22h - 6h 1er MAI AU 1er OCT (fl. dou.)",
+   "TYPE_CODE": "PP1363"
+ },
+ {
+   "ID": 227493,
+   "DESCRIPTION": "Stat. int. 8h - 18h LUN À SAM (fl. ga.)",
+   "TYPE_CODE": "PP1381"
+ },
+ {
+   "ID": 227494,
+   "DESCRIPTION": "Stat. int. 8h - 18h LUN À SAM (fl. dr.)",
+   "TYPE_CODE": "PP1382"
+ },
+ {
+   "ID": 280465,
+   "DESCRIPTION": "Stat. int. 0h - 8h MARDI (fl. gauche)",
+   "TYPE_CODE": "PP1384"
+ },
+ {
+   "ID": 280486,
+   "DESCRIPTION": "Stat. int. 0h - 8h MARDI (fl. droite)",
+   "TYPE_CODE": "PP1385"
+ },
+ {
+   "ID": 280485,
+   "DESCRIPTION": "Stat. int. 0h - 8h MARDI (fl. double)",
+   "TYPE_CODE": "PP1386"
+ },
+ {
+   "ID": 358441,
+   "DESCRIPTION": "Stat. int. MERCREDI (fl. ga.)",
+   "TYPE_CODE": "PP1387"
+ },
+ {
+   "ID": 358439,
+   "DESCRIPTION": "Stat. int. MERCREDI (fl. dr.)",
+   "TYPE_CODE": "PP1388"
+ },
+ {
+   "ID": 107195,
+   "DESCRIPTION": "Stat. int. 8h - 18h LUN À VEN PÉRIODE SCOLAIRE (fl. ga.)",
+   "TYPE_CODE": "PP1391"
+ },
+ {
+   "ID": 107196,
+   "DESCRIPTION": "Stat. int. 8h - 18h LUN À VEN PÉRIODE SCOLAIRE (fl. dr.)",
+   "TYPE_CODE": "PP1392"
+ },
+ {
+   "ID": 105362,
+   "DESCRIPTION": "Stat. int. 8h - 18h LUN À VEN PÉRIODE SCOLAIRE (fl. dou.)",
+   "TYPE_CODE": "PP1393"
+ },
+ {
+   "ID": 256754,
+   "DESCRIPTION": "Stat. int. 22h - 6h (fl. ga.)",
+   "TYPE_CODE": "PP1407"
+ },
+ {
+   "ID": 256764,
+   "DESCRIPTION": "Stat. int. 22h - 6h (fl. dr.)",
+   "TYPE_CODE": "PP1408"
+ },
+ {
+   "ID": 256756,
+   "DESCRIPTION": "Stat. int. 22h - 6h (fl. dou.)",
+   "TYPE_CODE": "PP1409"
+ },
+ {
+   "ID": 312465,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ VOITURIERS 17h - 3h (fl. ga.)",
+   "TYPE_CODE": "PP1421"
+ },
+ {
+   "ID": 210946,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ VOITURIERS 17h - 3h (fl. dr.)",
+   "TYPE_CODE": "PP1422"
+ },
+ {
+   "ID": 194306,
+   "DESCRIPTION": "Stat. int. 7h - 17h LUN À VEN (fl. ga. )",
+   "TYPE_CODE": "PP1424"
+ },
+ {
+   "ID": 194305,
+   "DESCRIPTION": "Stat. int. 7h - 17h LUN À VEN (fl. dr. )",
+   "TYPE_CODE": "PP1425"
+ },
+ {
+   "ID": 194320,
+   "DESCRIPTION": "Stat. int. 7h - 17h LUN À VEN (fl. dou. )",
+   "TYPE_CODE": "PP1426"
+ },
+ {
+   "ID": 260773,
+   "DESCRIPTION": "Stat. int. 21h - 8h (fl. ga.)",
+   "TYPE_CODE": "PP1427"
+ },
+ {
+   "ID": 260774,
+   "DESCRIPTION": "Stat. int. 21h - 8h (fl. dr.)",
+   "TYPE_CODE": "PP1428"
+ },
+ {
+   "ID": 305169,
+   "DESCRIPTION": "Stat. int. 21h - 8h (fl. dou.)",
+   "TYPE_CODE": "PP1429"
+ },
+ {
+   "ID": 144070,
+   "DESCRIPTION": "Stat. int. DEVANT ET À L'OPPOSÉ DES ENTRÉES DE VÉHICULES (recto / verso)",
+   "TYPE_CODE": "PP1430"
+ },
+ {
+   "ID": 263785,
+   "DESCRIPTION": "Stat. int. 7h30 - 17h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PP1431"
+ },
+ {
+   "ID": 361333,
+   "DESCRIPTION": "Stat. int. 7h30 - 17h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PP1432"
+ },
+ {
+   "ID": 267385,
+   "DESCRIPTION": "Stat. int. 7h30 - 17h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PP1433"
+ },
+ {
+   "ID": 368041,
+   "DESCRIPTION": "Stat. int. 7h30 - 16h30 LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PP1445"
+ },
+ {
+   "ID": 174090,
+   "DESCRIPTION": "Stat. int. 8h - 16h MAR-JEU 15 NOV AU 31 MARS (fl. ga.)",
+   "TYPE_CODE": "PP1447"
+ },
+ {
+   "ID": 174094,
+   "DESCRIPTION": "Stat. int. 8h - 16h MAR-JEU 15 NOV AU 31 MARS (fl. dr.)",
+   "TYPE_CODE": "PP1448"
+ },
+ {
+   "ID": 174092,
+   "DESCRIPTION": "Stat. int. 8h - 16h MAR-JEU 15 NOV AU 31 MARS (fl. dou.)",
+   "TYPE_CODE": "PP1449"
+ },
+ {
+   "ID": 300017,
+   "DESCRIPTION": "Stat. int. 8h - 17h LUN À VEN PÉRIODE SCOLAIRE (fl. dou.)",
+   "TYPE_CODE": "PP1476"
+ },
+ {
+   "ID": 126241,
+   "DESCRIPTION": "Régl. fédérale Stat. int. 1h - 6h FÉDÉRALE (recto / verso)",
+   "TYPE_CODE": "PP1490"
+ },
+ {
+   "ID": 267963,
+   "DESCRIPTION": "Régl. fédérale Stat. int. 1h - 6h FÉDÉRALE (fl. ga.)",
+   "TYPE_CODE": "PP1491"
+ },
+ {
+   "ID": 126233,
+   "DESCRIPTION": "Régl. fédérale Stat. int. 1h - 6h FÉDÉRALE (fl. dr.)",
+   "TYPE_CODE": "PP1492"
+ },
+ {
+   "ID": 270133,
+   "DESCRIPTION": "Régl. fédérale Stat. int. 1h - 6h FÉDÉRALE (fl. dou.)",
+   "TYPE_CODE": "PP1493"
+ },
+ {
+   "ID": 321548,
+   "DESCRIPTION": "Stat. int. 7h - 17h LUN À VEN PÉRIODE SCOLAIRE (fl. ga.)",
+   "TYPE_CODE": "PP1504"
+ },
+ {
+   "ID": 272451,
+   "DESCRIPTION": "Stat. int. 7h - 17h LUN À VEN PÉRIODE SCOLAIRE (fl. dr.)",
+   "TYPE_CODE": "PP1505"
+ },
+ {
+   "ID": 270476,
+   "DESCRIPTION": "Stat. int. 7h - 17h LUN À VEN PÉRIODE SCOLAIRE (fl. dou.)",
+   "TYPE_CODE": "PP1506"
+ },
+ {
+   "ID": 126254,
+   "DESCRIPTION": "Régl. fédérale Stat. int. PAR ORDRE DU SURINTENDANT FÉDÉRALE (fl. ga.)",
+   "TYPE_CODE": "PP1511"
+ },
+ {
+   "ID": 313184,
+   "DESCRIPTION": "Stat. int. 7h30 - 18h30 LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PP1514"
+ },
+ {
+   "ID": 310711,
+   "DESCRIPTION": "Stat. int. 7h30 - 18h30 LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PP1515"
+ },
+ {
+   "ID": 255853,
+   "DESCRIPTION": "Stat. int. 7h30 - 18h30 LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PP1516"
+ },
+ {
+   "ID": 367690,
+   "DESCRIPTION": "Stat. int. 8h - 15h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PP1521"
+ },
+ {
+   "ID": 361140,
+   "DESCRIPTION": "Stat. int. 8h - 15h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PP1522"
+ },
+ {
+   "ID": 367697,
+   "DESCRIPTION": "Stat. int. 8h - 15h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PP1523"
+ },
+ {
+   "ID": 340303,
+   "DESCRIPTION": "Stat. int. LUN à SAM (fl.ga.)",
+   "TYPE_CODE": "PP1541"
+ },
+ {
+   "ID": 340302,
+   "DESCRIPTION": "Stat. int. LUN à SAM (fl.dr.)",
+   "TYPE_CODE": "PP1542"
+ },
+ {
+   "ID": 128698,
+   "DESCRIPTION": "Stat. int. 8h - 9h, 15h30 - 16h30 LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PP1561"
+ },
+ {
+   "ID": 128697,
+   "DESCRIPTION": "Stat. int. 8h - 9h, 15h30 - 16h30 LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PP1562"
+ },
+ {
+   "ID": 350467,
+   "DESCRIPTION": "Stat. int. 8h - 16h MAR-JEU PÉRIODE SCOLAIRE (fl. dou.)",
+   "TYPE_CODE": "PP1576"
+ },
+ {
+   "ID": 350471,
+   "DESCRIPTION": "Stat. int. 8h - 16h LUN-MER-VEN PÉRIODE SCOLAIRE (fl. dou.)",
+   "TYPE_CODE": "PP1579"
+ },
+ {
+   "ID": 129872,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ VÉHICULES OFFICIELS (fl. ga.)",
+   "TYPE_CODE": "PP1581"
+ },
+ {
+   "ID": 132148,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ VÉHICULES OFFICIELS (fl. dr.)",
+   "TYPE_CODE": "PP1582"
+ },
+ {
+   "ID": 196307,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ VÉHICULES OFFICIELS (fl. dou.)",
+   "TYPE_CODE": "PP1583"
+ },
+ {
+   "ID": 153678,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ BUS 60 min (fl. ga.)",
+   "TYPE_CODE": "PP1611"
+ },
+ {
+   "ID": 151100,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ BUS 60 min (fl. dr.)",
+   "TYPE_CODE": "PP1612"
+ },
+ {
+   "ID": 151099,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ BUS 60 min (fl. dou.)",
+   "TYPE_CODE": "PP1613"
+ },
+ {
+   "ID": 338638,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ BUS 120 min (fl. ga.)",
+   "TYPE_CODE": "PP1621"
+ },
+ {
+   "ID": 338635,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ BUS 120 min (fl. dr.)",
+   "TYPE_CODE": "PP1622"
+ },
+ {
+   "ID": 338636,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ BUS 120 min (fl. dou.)",
+   "TYPE_CODE": "PP1623"
+ },
+ {
+   "ID": 261950,
+   "DESCRIPTION": "Stat. int. 0h01 - 7h LUN-MER-VEN 15 NOV AU 15 AVRIL( fl. ga.)",
+   "TYPE_CODE": "PP1634"
+ },
+ {
+   "ID": 261951,
+   "DESCRIPTION": "Stat. int. 0h01 - 7h LUN-MER-VEN 15 NOV AU 15 AVRIL( fl. dr.)",
+   "TYPE_CODE": "PP1635"
+ },
+ {
+   "ID": 261947,
+   "DESCRIPTION": "Stat. int. 0h01 - 7h LUN-MER-VEN 15 NOV AU 15 AVRIL( fl. dou.)",
+   "TYPE_CODE": "PP1636"
+ },
+ {
+   "ID": 210855,
+   "DESCRIPTION": "Stat. int. 1 mai au 30 sept. (fl. ga.)",
+   "TYPE_CODE": "PP1641"
+ },
+ {
+   "ID": 151746,
+   "DESCRIPTION": "Stat int. 1 mai au 30 sept. (fl.droite).",
+   "TYPE_CODE": "PP1642"
+ },
+ {
+   "ID": 140047,
+   "DESCRIPTION": "Stat int. 1 mai au 30 sept. (fl.double)",
+   "TYPE_CODE": "PP1643"
+ },
+ {
+   "ID": 258062,
+   "DESCRIPTION": "Stat. int. 8h - 16h DIMANCHE 1er MAI AU 30 SEPT (fl. dou.)",
+   "TYPE_CODE": "PP1656"
+ },
+ {
+   "ID": 140138,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ VÉHICULES IMMATRICULÉS CC - CD OU AVEC VIGNETTES REMORQUAGE (fl. ga.) (Cons. de France)",
+   "TYPE_CODE": "PP1661"
+ },
+ {
+   "ID": 140137,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ VÉHICULES IMMATRICULÉS CC - CD OU AVEC VIGNETTES REMORQUAGE (fl. dr.) (Cons. de France)",
+   "TYPE_CODE": "PP1662"
+ },
+ {
+   "ID": 145402,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ CALÈCHES (fl. ga.)",
+   "TYPE_CODE": "PP1681"
+ },
+ {
+   "ID": 352031,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ CALÈCHES (fl. dr.)",
+   "TYPE_CODE": "PP1682"
+ },
+ {
+   "ID": 335686,
+   "DESCRIPTION": "Stat. int. AUX AUTOBUS ET MINIBUS (fl. ga.)",
+   "TYPE_CODE": "PP1694"
+ },
+ {
+   "ID": 335688,
+   "DESCRIPTION": "Stat. int. AUX AUTOBUS ET MINIBUS (fl. dr.)",
+   "TYPE_CODE": "PP1695"
+ },
+ {
+   "ID": 335687,
+   "DESCRIPTION": "Stat. int. AUX AUTOBUS ET MINIBUS (fl. dou.)",
+   "TYPE_CODE": "PP1696"
+ },
+ {
+   "ID": 332408,
+   "DESCRIPTION": "Stat. int. 6h - 22h (fl.ga.)",
+   "TYPE_CODE": "PP1701"
+ },
+ {
+   "ID": 332405,
+   "DESCRIPTION": "Stat. int. 6h - 22h (fl. dr.)",
+   "TYPE_CODE": "PP1702"
+ },
+ {
+   "ID": 332406,
+   "DESCRIPTION": "Stat. int. 6h - 22h (fl. dou.)",
+   "TYPE_CODE": "PP1703"
+ },
+ {
+   "ID": 265846,
+   "DESCRIPTION": "Stat. int. 7h - 18h LUN À VEN DANS CETTE RUE (recto / verso)",
+   "TYPE_CODE": "PP1704"
+ },
+ {
+   "ID": 194058,
+   "DESCRIPTION": "Stat. int. DANS LA RUELLE (recto / verso)",
+   "TYPE_CODE": "PP1710"
+ },
+ {
+   "ID": 267029,
+   "DESCRIPTION": "Stat. int. 10h - 10h30, 14h30 - 15h LUN À VEN (fl. dou.) EXCEPTÉ PERMIS ZONE 31 (bleu)",
+   "TYPE_CODE": "PP1729"
+ },
+ {
+   "ID": 109200,
+   "DESCRIPTION": "Stat. int. excepté pour personnes atteintes de déficience physique (fl. ga.)",
+   "TYPE_CODE": "PP1731"
+ },
+ {
+   "ID": 109201,
+   "DESCRIPTION": "Stat. int. excepté pour personnes atteintes de déficience physique (fl. dr.)",
+   "TYPE_CODE": "PP1732"
+ },
+ {
+   "ID": 163228,
+   "DESCRIPTION": "Stat. int. excepté pour personnes atteintes de déficience physique (fl. dou.)",
+   "TYPE_CODE": "PP1733"
+ },
+ {
+   "ID": 192079,
+   "DESCRIPTION": "Stat. int. excepté pour personnes atteintes de déficience physique 30 min (fl. ga.)",
+   "TYPE_CODE": "PP1735"
+ },
+ {
+   "ID": 192080,
+   "DESCRIPTION": "Stat. int. excepté pour personnes atteintes de déficience physique 30 min (fl. dr.)",
+   "TYPE_CODE": "PP1736"
+ },
+ {
+   "ID": 111804,
+   "DESCRIPTION": "Stat. int. DANS CETTE RUE  24h-6h ensemble on adoucit l'hiver ...",
+   "TYPE_CODE": "PP1780"
+ },
+ {
+   "ID": 111792,
+   "DESCRIPTION": "Stat. int. DANS CETTE RUE 23h - 6h30 LORSQUE LE FEU CLIGNOTE DÉNEIGEMENT ET ENTRETIEN REMORQUAGE INFORMATION 641-6666 (recto / verso)",
+   "TYPE_CODE": "PP1790"
+ },
+ {
+   "ID": 305794,
+   "DESCRIPTION": "Stat. int. BUS (fl. ga.)",
+   "TYPE_CODE": "PP1804"
+ },
+ {
+   "ID": 265681,
+   "DESCRIPTION": "Stat. int. BUS (fl. dr.)",
+   "TYPE_CODE": "PP1805"
+ },
+ {
+   "ID": 256705,
+   "DESCRIPTION": "Stat. int. BUS (fl. dou.)",
+   "TYPE_CODE": "PP1806"
+ },
+ {
+   "ID": 301371,
+   "DESCRIPTION": "Stat. int. 9h - 17h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PP1807"
+ },
+ {
+   "ID": 301367,
+   "DESCRIPTION": "Stat. int. 9h - 17h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PP1808"
+ },
+ {
+   "ID": 256691,
+   "DESCRIPTION": "Stat. int. 9h - 17h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PP1809"
+ },
+ {
+   "ID": 337187,
+   "DESCRIPTION": "Stat. int. 10h - 10h30, 14h - 14h30 LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PP1811"
+ },
+ {
+   "ID": 330653,
+   "DESCRIPTION": "Stat. int. 10h - 10h30, 14h - 14h30 LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PP1812"
+ },
+ {
+   "ID": 184133,
+   "DESCRIPTION": "Stat. int. 10h - 10h30, 14h - 14h30 LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PP1813"
+ },
+ {
+   "ID": 272991,
+   "DESCRIPTION": "Stat. int. 0h - 6h 15 NOV AU 31 MARS (fl. ga.)",
+   "TYPE_CODE": "PP1827"
+ },
+ {
+   "ID": 272990,
+   "DESCRIPTION": "Stat. int. 0h - 6h 15 NOV AU 31 MARS (fl. dr.)",
+   "TYPE_CODE": "PP1828"
+ },
+ {
+   "ID": 266967,
+   "DESCRIPTION": "Stat. int. 0h - 6h 15 NOV AU 31 MARS (fl. dou.)",
+   "TYPE_CODE": "PP1829"
+ },
+ {
+   "ID": 342588,
+   "DESCRIPTION": "Stat. int. 9h30 - 10h, 14h - 14h30 LUN-MER-VEN (fl. ga.) ",
+   "TYPE_CODE": "PP1831"
+ },
+ {
+   "ID": 342591,
+   "DESCRIPTION": "Stat. int. 9h30 - 10h, 14h - 14h30 LUN-MER-VEN (fl. dr.) ",
+   "TYPE_CODE": "PP1832"
+ },
+ {
+   "ID": 191979,
+   "DESCRIPTION": "Stat. int. 9h30 - 10h, 14h - 14h30 LUN-MER-VEN (fl. dou.) ",
+   "TYPE_CODE": "PP1833"
+ },
+ {
+   "ID": 268488,
+   "DESCRIPTION": "Stat. int. 7h - 18h (fl. ga.)",
+   "TYPE_CODE": "PP1834"
+ },
+ {
+   "ID": 268489,
+   "DESCRIPTION": "Stat. int. 7h - 18h (fl. dr.)",
+   "TYPE_CODE": "PP1835"
+ },
+ {
+   "ID": 268485,
+   "DESCRIPTION": "Stat. int. 7h - 18h (fl. dou.)",
+   "TYPE_CODE": "PP1836"
+ },
+ {
+   "ID": 265991,
+   "DESCRIPTION": "Stat. int. 7h - 22h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PP1838"
+ },
+ {
+   "ID": 265992,
+   "DESCRIPTION": "Stat. int. 7h - 22h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PP1839"
+ },
+ {
+   "ID": 134265,
+   "DESCRIPTION": "Stat. int. CÔTÉ GAUCHE stat. 10 min CÔTÉ DROIT (recto / verso)",
+   "TYPE_CODE": "PP1840"
+ },
+ {
+   "ID": 313149,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ BUS (fl. ga.)",
+   "TYPE_CODE": "PP1851"
+ },
+ {
+   "ID": 313150,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ BUS (fl. dr.)",
+   "TYPE_CODE": "PP1852"
+ },
+ {
+   "ID": 269054,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ BUS (fl. dou.)",
+   "TYPE_CODE": "PP1853"
+ },
+ {
+   "ID": 311743,
+   "DESCRIPTION": "Stat. int. excepté pour personnes atteintes de déficience physique 9h - 17h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PP1861"
+ },
+ {
+   "ID": 128998,
+   "DESCRIPTION": "Stat. int. excepté pour personnes atteintes de déficience physique 9h - 17h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PP1862"
+ },
+ {
+   "ID": 131888,
+   "DESCRIPTION": "Hors rue - Stat. int. SUR LA PLACE (recto / verso)",
+   "TYPE_CODE": "PP1900"
+ },
+ {
+   "ID": 346221,
+   "DESCRIPTION": "Stat. int. 10h - 16h (fl. ga.)",
+   "TYPE_CODE": "PP1904"
+ },
+ {
+   "ID": 346223,
+   "DESCRIPTION": "Stat. int. 10h - 16h  (fl. dou.)",
+   "TYPE_CODE": "PP1906"
+ },
+ {
+   "ID": 188347,
+   "DESCRIPTION": "Stat. int. 10h30 - 11h, 14h30 - 15h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PP1911"
+ },
+ {
+   "ID": 313707,
+   "DESCRIPTION": "Stat. int. 10h30 - 11h, 14h30 - 15h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PP1912"
+ },
+ {
+   "ID": 184136,
+   "DESCRIPTION": "Stat. int. 10h30 - 11h, 14h30 - 15h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PP1913"
+ },
+ {
+   "ID": 316507,
+   "DESCRIPTION": "Stat. int. 7h - 19h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PP1914"
+ },
+ {
+   "ID": 263656,
+   "DESCRIPTION": "Stat. int. 7h - 19h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PP1915"
+ },
+ {
+   "ID": 257870,
+   "DESCRIPTION": "Stat. int. 7h - 19h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PP1916"
+ },
+ {
+   "ID": 267514,
+   "DESCRIPTION": "Stat. int. 8h - 16h MARDI (fl. ga.)",
+   "TYPE_CODE": "PP1917"
+ },
+ {
+   "ID": 324641,
+   "DESCRIPTION": "Stat. int. 8h - 16h MARDI (fl. dr.)",
+   "TYPE_CODE": "PP1918"
+ },
+ {
+   "ID": 267511,
+   "DESCRIPTION": "Stat. int. 8h - 16h MARDI (fl. dou.)",
+   "TYPE_CODE": "PP1919"
+ },
+ {
+   "ID": 346889,
+   "DESCRIPTION": "Stat. int. LUN-MER-VEN-DIM (fl. ga.)",
+   "TYPE_CODE": "PP1921"
+ },
+ {
+   "ID": 332225,
+   "DESCRIPTION": "Stat. int. LUN-MER-VEN-DIM (fl. dr.)",
+   "TYPE_CODE": "PP1922"
+ },
+ {
+   "ID": 302421,
+   "DESCRIPTION": "Stat. int. LUN-MER-VEN-DIM (fl. dou.)",
+   "TYPE_CODE": "PP1923"
+ },
+ {
+   "ID": 181269,
+   "DESCRIPTION": "Stat. int. 9h30 - 10h, 14h - 14h30 MAR-JEU (fl. dou.) ",
+   "TYPE_CODE": "PP1933"
+ },
+ {
+   "ID": 266115,
+   "DESCRIPTION": "Stat. int. LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PP1934"
+ },
+ {
+   "ID": 328335,
+   "DESCRIPTION": "Stat. int. LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PP1935"
+ },
+ {
+   "ID": 266116,
+   "DESCRIPTION": "Stat. int. LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PP1936"
+ },
+ {
+   "ID": 274375,
+   "DESCRIPTION": "Stat. int. 8h - 17h LUN-MER-VEN (fl. ga.)",
+   "TYPE_CODE": "PP2004"
+ },
+ {
+   "ID": 274374,
+   "DESCRIPTION": "Stat. int. 8h - 17h LUN-MER-VEN (fl. dr.)",
+   "TYPE_CODE": "PP2005"
+ },
+ {
+   "ID": 304307,
+   "DESCRIPTION": "Stat. int. 8h - 17h LUN-MER-VEN (fl. dou.)",
+   "TYPE_CODE": "PP2006"
+ },
+ {
+   "ID": 329567,
+   "DESCRIPTION": "Stat. int. 8h - 17h MAR-JEU (fl. ga.)",
+   "TYPE_CODE": "PP2007"
+ },
+ {
+   "ID": 304272,
+   "DESCRIPTION": "Stat. int. 8h - 17h MAR-JEU (fl. dr.)",
+   "TYPE_CODE": "PP2008"
+ },
+ {
+   "ID": 304278,
+   "DESCRIPTION": "Stat. int. 8h - 17h MAR-JEU (fl. dou.)",
+   "TYPE_CODE": "PP2009"
+ },
+ {
+   "ID": 274096,
+   "DESCRIPTION": "Stat. int. 7h30 - 11h30, 13h30 - 15h30 LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PP2016"
+ },
+ {
+   "ID": 348427,
+   "DESCRIPTION": "Stat. int. 8h - 17h LUN À SAM (fl. ga.)",
+   "TYPE_CODE": "PP2024"
+ },
+ {
+   "ID": 348429,
+   "DESCRIPTION": "Stat. int. 8h - 17h LUN À SAM (fl. dr.)",
+   "TYPE_CODE": "PP2025"
+ },
+ {
+   "ID": 348428,
+   "DESCRIPTION": "Stat. int. 8h - 17h LUN À SAM (fl. dou.)",
+   "TYPE_CODE": "PP2026"
+ },
+ {
+   "ID": 309602,
+   "DESCRIPTION": "Stat. int. 8h - 20h LUN-MER-VEN-DIM (fl. ga.)",
+   "TYPE_CODE": "PP2027"
+ },
+ {
+   "ID": 309594,
+   "DESCRIPTION": "Stat. int. 8h - 20h LUN-MER-VEN-DIM (fl. dr.)",
+   "TYPE_CODE": "PP2028"
+ },
+ {
+   "ID": 309600,
+   "DESCRIPTION": "Stat. int. 8h - 20h LUN-MER-VEN-DIM (fl. dou.)",
+   "TYPE_CODE": "PP2029"
+ },
+ {
+   "ID": 351719,
+   "DESCRIPTION": "Stat. int. POSTE EN COMMUN TAXIS 22h - 4h (fl. ga.)",
+   "TYPE_CODE": "PP2031"
+ },
+ {
+   "ID": 351720,
+   "DESCRIPTION": "Stat. int. POSTE EN COMMUN TAXIS 22h - 4h (fl. dr.)",
+   "TYPE_CODE": "PP2032"
+ },
+ {
+   "ID": 149083,
+   "DESCRIPTION": "Stat. int. POSTE EN COMMUN TAXIS 22h - 4h (fl. dou.)",
+   "TYPE_CODE": "PP2033"
+ },
+ {
+   "ID": 308807,
+   "DESCRIPTION": "Stat. int. EXECPTÉ CYCLO-POUSSE 9h - 23h (fl.dr.)",
+   "TYPE_CODE": "PP2035"
+ },
+ {
+   "ID": 323659,
+   "DESCRIPTION": "Stat. int. POSTE EN COMMUN TAXIS 22h - 5h (fl. ga.)",
+   "TYPE_CODE": "PP2041"
+ },
+ {
+   "ID": 323664,
+   "DESCRIPTION": "Stat. int. POSTE EN COMMUN TAXIS 22h - 5h (fl. dr.)",
+   "TYPE_CODE": "PP2042"
+ },
+ {
+   "ID": 125922,
+   "DESCRIPTION": "Stat. int. aux motocyclettes DANS CETTE RUE (recto / verso)",
+   "TYPE_CODE": "PP2060"
+ },
+ {
+   "ID": 162567,
+   "DESCRIPTION": "Stat. int. aux BUS DANS CETTE RUE ( recto / verso)",
+   "TYPE_CODE": "PP2070"
+ },
+ {
+   "ID": 364127,
+   "DESCRIPTION": "Stat. int. aux motocyclettes (fl.dr.)",
+   "TYPE_CODE": "PP2082"
+ },
+ {
+   "ID": 138777,
+   "DESCRIPTION": "Stat. int. 10h - 10h30 LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PP2091"
+ },
+ {
+   "ID": 138765,
+   "DESCRIPTION": "Stat. int. 10h - 10h30 LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PP2092"
+ },
+ {
+   "ID": 138766,
+   "DESCRIPTION": "Stat. int. 10h - 10h30 LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PP2093"
+ },
+ {
+   "ID": 131089,
+   "DESCRIPTION": "Stat. int. 7h - 9h MAR-SAM (fl. ga.)",
+   "TYPE_CODE": "PP2101"
+ },
+ {
+   "ID": 131090,
+   "DESCRIPTION": "Stat. int. 7h - 9h MAR-SAM (fl. dr.)",
+   "TYPE_CODE": "PP2102"
+ },
+ {
+   "ID": 366718,
+   "DESCRIPTION": "Stat. int. 9h - 18h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PP2107"
+ },
+ {
+   "ID": 366711,
+   "DESCRIPTION": "Stat. int. 9h - 18h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PP2108"
+ },
+ {
+   "ID": 332384,
+   "DESCRIPTION": "Stat. int. lorsque les feux de réglementation du stationnement sont allumés, 8h - 16h DANS CETTE RUE (recto-verso)",
+   "TYPE_CODE": "PP2110"
+ },
+ {
+   "ID": 174619,
+   "DESCRIPTION": "Stat. int. 8h - 16h LUN À VEN EXCEPTÉ BUS PÉRIODE SCOLAIRE (fl. ga.)",
+   "TYPE_CODE": "PP2111"
+ },
+ {
+   "ID": 174625,
+   "DESCRIPTION": "Stat. int. 8h - 16h LUN À VEN EXCEPTÉ BUS PÉRIODE SCOLAIRE (fl. dr.)",
+   "TYPE_CODE": "PP2112"
+ },
+ {
+   "ID": 174623,
+   "DESCRIPTION": "Stat. int. 8h - 16h LUN À VEN EXCEPTÉ BUS PÉRIODE SCOLAIRE (fl. dou.)",
+   "TYPE_CODE": "PP2113"
+ },
+ {
+   "ID": 210270,
+   "DESCRIPTION": "Stat. int. 7h - 9h LUN À VEN EXCEPTÉ BUS PÉRIODE SCOLAIRE (fl. dou.)",
+   "TYPE_CODE": "PP2116"
+ },
+ {
+   "ID": 270651,
+   "DESCRIPTION": "Stat. int. 22h - 8h (fl. dou.)",
+   "TYPE_CODE": "PP2123"
+ },
+ {
+   "ID": 276055,
+   "DESCRIPTION": "Stat. int. 7h - 16h MAR-JEU (fl. dou.)",
+   "TYPE_CODE": "PP2126"
+ },
+ {
+   "ID": 347398,
+   "DESCRIPTION": "Stat. int. 7h - 16h LUN-MER-VEN (fl. dr.)",
+   "TYPE_CODE": "PP2128"
+ },
+ {
+   "ID": 276058,
+   "DESCRIPTION": "Stat. int. 7h - 16h LUN-MER-VEN (fl. dou.)",
+   "TYPE_CODE": "PP2129"
+ },
+ {
+   "ID": 142778,
+   "DESCRIPTION": "Stat. int. POSTE EN COMMUN TAXIS EN AUTRE TEMPS (fl. ga.)",
+   "TYPE_CODE": "PP2131"
+ },
+ {
+   "ID": 352661,
+   "DESCRIPTION": "Stat. int. POSTE EN COMMUN TAXIS EN AUTRE TEMPS (fl. dr.)",
+   "TYPE_CODE": "PP2132"
+ },
+ {
+   "ID": 149121,
+   "DESCRIPTION": "Stat. int. POSTE EN COMMUN TAXIS EN AUTRE TEMPS (fl. dou.)",
+   "TYPE_CODE": "PP2133"
+ },
+ {
+   "ID": 338821,
+   "DESCRIPTION": "Stat. int. 8h30 - 9h30, 13h - 15h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PP2215"
+ },
+ {
+   "ID": 274433,
+   "DESCRIPTION": "Stat. int. 8h30 - 9h30, 13h - 15h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PP2216"
+ },
+ {
+   "ID": 341726,
+   "DESCRIPTION": "Stat. int. 0h - 6h LUN À VEN 15 NOV AU 31 MARS (fl. ga.)",
+   "TYPE_CODE": "PP2217"
+ },
+ {
+   "ID": 341725,
+   "DESCRIPTION": "Stat. int. 0h - 6h LUN À VEN 15 NOV AU 31 MARS (fl. dr.)",
+   "TYPE_CODE": "PP2218"
+ },
+ {
+   "ID": 319070,
+   "DESCRIPTION": "Stat. int. 0h - 6h LUN À VEN 15 NOV AU 31 MARS (fl. dou.)",
+   "TYPE_CODE": "PP2219"
+ },
+ {
+   "ID": 270657,
+   "DESCRIPTION": "Stat. int. 7h - 17h MAR-JEU (fl. ga.)",
+   "TYPE_CODE": "PP2221"
+ },
+ {
+   "ID": 328241,
+   "DESCRIPTION": "Stat. int. 7h - 17h MAR-JEU (fl. dr.)",
+   "TYPE_CODE": "PP2222"
+ },
+ {
+   "ID": 270655,
+   "DESCRIPTION": "Stat. int. 7h - 17h MAR-JEU (fl. dou.)",
+   "TYPE_CODE": "PP2223"
+ },
+ {
+   "ID": 270827,
+   "DESCRIPTION": "Stat. int. 7h - 17h LUN-MER-VEN (fl. ga.)",
+   "TYPE_CODE": "PP2224"
+ },
+ {
+   "ID": 270826,
+   "DESCRIPTION": "Stat. int. 7h - 17h LUN-MER-VEN (fl. dr.)",
+   "TYPE_CODE": "PP2225"
+ },
+ {
+   "ID": 328239,
+   "DESCRIPTION": "Stat. int. 7h - 17h LUN-MER-VEN (fl. dou.)",
+   "TYPE_CODE": "PP2226"
+ },
+ {
+   "ID": 194451,
+   "DESCRIPTION": "Stat. int. 15 NOV AU 31 MARS (fl. ga.)",
+   "TYPE_CODE": "PP2277"
+ },
+ {
+   "ID": 194454,
+   "DESCRIPTION": "Stat. int. 15 NOV AU 31 MARS (fl. dr.)",
+   "TYPE_CODE": "PP2278"
+ },
+ {
+   "ID": 194548,
+   "DESCRIPTION": "Stat. int. 15 NOV AU 31 MARS (fl. dou.)",
+   "TYPE_CODE": "PP2279"
+ },
+ {
+   "ID": 325756,
+   "DESCRIPTION": "Stat. int. lorsque les feux de réglementation du stationnement sont allumés, 23h - 6h30 DANS CETTE RUE",
+   "TYPE_CODE": "PP2310"
+ },
+ {
+   "ID": 338858,
+   "DESCRIPTION": "Stat. int. excepté pour personnes atteintes de déficience physique 8h - 18h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PP2311"
+ },
+ {
+   "ID": 344078,
+   "DESCRIPTION": "Stat. int. excepté pour personnes atteintes de déficience physique 8h - 18h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PP2312"
+ },
+ {
+   "ID": 278153,
+   "DESCRIPTION": "Stat. int. excepté pour personnes atteintes de déficience physique 8h - 17h (fl. ga.)",
+   "TYPE_CODE": "PP2314"
+ },
+ {
+   "ID": 278152,
+   "DESCRIPTION": "Stat. int. excepté pour personnes atteintes de déficience physique 8h - 17h (fl. dr.)",
+   "TYPE_CODE": "PP2315"
+ },
+ {
+   "ID": 151608,
+   "DESCRIPTION": "Stat. int. excepté pour personnes atteintes de déficience physique 3h  (fl. ga.)",
+   "TYPE_CODE": "PP2321"
+ },
+ {
+   "ID": 151607,
+   "DESCRIPTION": "Stat. int. excepté pour personnes atteintes de déficience physique 3h (fl. dr.)",
+   "TYPE_CODE": "PP2322"
+ },
+ {
+   "ID": 151610,
+   "DESCRIPTION": "Stat. int. excepté pour personnes atteintes de déficience physique 3h (fl. dou.)",
+   "TYPE_CODE": "PP2323"
+ },
+ {
+   "ID": 332232,
+   "DESCRIPTION": "Stat. int. MAR-JEU-SAM (fl. ga.)",
+   "TYPE_CODE": "PP2324"
+ },
+ {
+   "ID": 332235,
+   "DESCRIPTION": "Stat. int. MAR-JEU-SAM (fl. dr.)",
+   "TYPE_CODE": "PP2325"
+ },
+ {
+   "ID": 302426,
+   "DESCRIPTION": "Stat. int. MAR-JEU-SAM (fl. dou.)",
+   "TYPE_CODE": "PP2326"
+ },
+ {
+   "ID": 300025,
+   "DESCRIPTION": "Stat. int. excepté pour personnes atteintes de déficience physique 60 min 8h - 21h (fl. dr.)",
+   "TYPE_CODE": "PP2328"
+ },
+ {
+   "ID": 305543,
+   "DESCRIPTION": "Stat. int. 1er AVRIL AU 30 NOV (fl. ga.)",
+   "TYPE_CODE": "PP2377"
+ },
+ {
+   "ID": 305548,
+   "DESCRIPTION": "Stat. int. 1er AVRIL AU 30 NOV (fl. dr.)",
+   "TYPE_CODE": "PP2378"
+ },
+ {
+   "ID": 305544,
+   "DESCRIPTION": "Stat. int. 1er AVRIL AU 30 NOV (fl. dou.)",
+   "TYPE_CODE": "PP2379"
+ },
+ {
+   "ID": 241647,
+   "DESCRIPTION": "Stat. int. 15 NOV AU 31 MARS ESPACE RÉSERVÉ - ENTREPOSAGE DE LA NEIGE (fl. dou.)",
+   "TYPE_CODE": "PP2393"
+ },
+ {
+   "ID": 280606,
+   "DESCRIPTION": "Stat. int. 11h - 16h (fl. ga.)",
+   "TYPE_CODE": "PP2404"
+ },
+ {
+   "ID": 343704,
+   "DESCRIPTION": "Stat. int. 11h - 16h (fl. dr.)",
+   "TYPE_CODE": "PP2405"
+ },
+ {
+   "ID": 343705,
+   "DESCRIPTION": "Stat. int. 11h - 16h (fl. do)",
+   "TYPE_CODE": "PP2406"
+ },
+ {
+   "ID": 300604,
+   "DESCRIPTION": "Stat. int. 9h - 19h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PP2407"
+ },
+ {
+   "ID": 300607,
+   "DESCRIPTION": "Stat. int. 9h - 19h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PP2408"
+ },
+ {
+   "ID": 352171,
+   "DESCRIPTION": "Stat. int. lorsque les feux de réglementation du stationnement sont allumés, 8h - 16h DANS CETTE RUE LORSQUE LE FEU CLIGNOTE - DÉNEIGEMENT OU ENTRETIEN (recto-verso)",
+   "TYPE_CODE": "PP2410"
+ },
+ {
+   "ID": 233230,
+   "DESCRIPTION": "Stat. int. DANS CETTE RUE LORS DES OPÉRATIONS DE DÉNEIGEMENT - remorquage (recto / verso)",
+   "TYPE_CODE": "PP2420"
+ },
+ {
+   "ID": 313636,
+   "DESCRIPTION": "Stat. int. 1er  MAI AU 31 OCT (fl. ga.)",
+   "TYPE_CODE": "PP2477"
+ },
+ {
+   "ID": 308893,
+   "DESCRIPTION": "Stat. int. 1er  MAI AU 31 OCT (fl. dr.)",
+   "TYPE_CODE": "PP2478"
+ },
+ {
+   "ID": 300579,
+   "DESCRIPTION": "Stat. int. 1er  MAI AU 31 OCT (fl. dou.)",
+   "TYPE_CODE": "PP2479"
+ },
+ {
+   "ID": 369848,
+   "DESCRIPTION": "Stat. interdit de 8h à 17h LUNDI fl gau",
+   "TYPE_CODE": "PP2494"
+ },
+ {
+   "ID": 369847,
+   "DESCRIPTION": "Stat. interdit de 8h à 17h LUNDI fl dr.",
+   "TYPE_CODE": "PP2495"
+ },
+ {
+   "ID": 148310,
+   "DESCRIPTION": "Stat. int. 7h - 9h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PP2501"
+ },
+ {
+   "ID": 148311,
+   "DESCRIPTION": "Stat. int. 7h - 9h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PP2502"
+ },
+ {
+   "ID": 148447,
+   "DESCRIPTION": "Stat. int. 7h - 9h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PP2503"
+ },
+ {
+   "ID": 212170,
+   "DESCRIPTION": "Stat. int. 7h - 8h30 LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PP2504"
+ },
+ {
+   "ID": 212172,
+   "DESCRIPTION": "Stat. int. 7h - 8h30 LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PP2505"
+ },
+ {
+   "ID": 212171,
+   "DESCRIPTION": "Stat. int. 7h - 8h30 LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PP2506"
+ },
+ {
+   "ID": 274089,
+   "DESCRIPTION": "Stat. int. 7h30 - 16h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PP2507"
+ },
+ {
+   "ID": 274090,
+   "DESCRIPTION": "Stat. int. 7h30 - 16h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PP2508"
+ },
+ {
+   "ID": 313202,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ VÉHICULE DU CONSEIL EXÉCUTIF (fl. ga.)",
+   "TYPE_CODE": "PP2527"
+ },
+ {
+   "ID": 313201,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ VÉHICULE DU CONSEIL EXÉCUTIF (fl. dr.)",
+   "TYPE_CODE": "PP2528"
+ },
+ {
+   "ID": 138371,
+   "DESCRIPTION": "Stat. int. (fl. ga.) EXCEPTÉ PERMIS ZONE 8 (brun)",
+   "TYPE_CODE": "PP2561"
+ },
+ {
+   "ID": 138369,
+   "DESCRIPTION": "Stat. int. (fl. dr.) EXCEPTÉ PERMIS ZONE 8 (brun)",
+   "TYPE_CODE": "PP2562"
+ },
+ {
+   "ID": 138440,
+   "DESCRIPTION": "Stat. int. (fl. dou.) EXCEPTÉ PERMIS ZONE 8  (brun)",
+   "TYPE_CODE": "PP2563"
+ },
+ {
+   "ID": 302005,
+   "DESCRIPTION": "Stat. int. 1er MAI AU 1er NOV (fl. dou.) (Ville Ancienne-Lorette)",
+   "TYPE_CODE": "PP2579"
+ },
+ {
+   "ID": 338420,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ VÉHICULES AUTORISÉS (fl. ga.)",
+   "TYPE_CODE": "PP2581"
+ },
+ {
+   "ID": 338421,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ VÉHICULES AUTORISÉS (fl. dr.)",
+   "TYPE_CODE": "PP2582"
+ },
+ {
+   "ID": 138357,
+   "DESCRIPTION": "Stat. int. EN AUTRE TEMPS (fl. ga.) EXCEPTÉ PERMIS ZONE 7 (jaune)",
+   "TYPE_CODE": "PP2591"
+ },
+ {
+   "ID": 305188,
+   "DESCRIPTION": "Stat. int. 7h - 17h30 LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PP2604"
+ },
+ {
+   "ID": 305191,
+   "DESCRIPTION": "Stat. int. 7h - 17h30 LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PP2605"
+ },
+ {
+   "ID": 305190,
+   "DESCRIPTION": "Stat. int. 7h - 17h30 LUN À VEN (fl.dou.)",
+   "TYPE_CODE": "PP2606"
+ },
+ {
+   "ID": 303933,
+   "DESCRIPTION": "Stat. int. 8h - 16h MERCREDI (fl.dou)",
+   "TYPE_CODE": "PP2609"
+ },
+ {
+   "ID": 351789,
+   "DESCRIPTION": "Stat. int. 7h-9h LUNDI (fl. ga.)",
+   "TYPE_CODE": "PP2614"
+ },
+ {
+   "ID": 351791,
+   "DESCRIPTION": "Stat. int. 7h-9h LUNDI (fl. dr.)",
+   "TYPE_CODE": "PP2615"
+ },
+ {
+   "ID": 351790,
+   "DESCRIPTION": "Stat. int. 7h-9h LUNDI (fl. dou.)",
+   "TYPE_CODE": "PP2616"
+ },
+ {
+   "ID": 335362,
+   "DESCRIPTION": "Stat. int. 8h - 16h (fl. dou.)",
+   "TYPE_CODE": "PP2619"
+ },
+ {
+   "ID": 332712,
+   "DESCRIPTION": "Stat. int. 7h - 9h, 15h - 17h LUN À VEN PÉRIODE SCOLAIRE (fl. dou.)",
+   "TYPE_CODE": "PP2629"
+ },
+ {
+   "ID": 347272,
+   "DESCRIPTION": "Stat. int. POSTE EN COMMUN TAXIS 7h - 18h LUN à VEN (fl. gauche)",
+   "TYPE_CODE": "PP2631"
+ },
+ {
+   "ID": 228626,
+   "DESCRIPTION": "Stat. int. 11h - 11h30 LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PP2662"
+ },
+ {
+   "ID": 141227,
+   "DESCRIPTION": "Stat. int. 11h - 11h30 LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PP2663"
+ },
+ {
+   "ID": 325067,
+   "DESCRIPTION": "Stat. int. 1er AVRIL AU 14 NOV (fl. ga.)",
+   "TYPE_CODE": "PP2677"
+ },
+ {
+   "ID": 325068,
+   "DESCRIPTION": "Stat. int. 1er AVRIL AU 14 NOV (fl. dou)",
+   "TYPE_CODE": "PP2679"
+ },
+ {
+   "ID": 157156,
+   "DESCRIPTION": "Stat. int. 7h - 9h MER-SAM (fl. ga.)",
+   "TYPE_CODE": "PP2691"
+ },
+ {
+   "ID": 338430,
+   "DESCRIPTION": "Stat. int. 7h - 9h MER-SAM (fl. dr.)",
+   "TYPE_CODE": "PP2692"
+ },
+ {
+   "ID": 278995,
+   "DESCRIPTION": "Stat. int. 8h - 12h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PP2701"
+ },
+ {
+   "ID": 278997,
+   "DESCRIPTION": "Stat. int. 8h - 12h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PP2702"
+ },
+ {
+   "ID": 278999,
+   "DESCRIPTION": "Stat. int. 8h - 12h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PP2703"
+ },
+ {
+   "ID": 279003,
+   "DESCRIPTION": "Stat. int. 13h - 16h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PP2704"
+ },
+ {
+   "ID": 278996,
+   "DESCRIPTION": "Stat. int. 13h - 16h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PP2705"
+ },
+ {
+   "ID": 279000,
+   "DESCRIPTION": "Stat. int. 13h - 16h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PP2706"
+ },
+ {
+   "ID": 321174,
+   "DESCRIPTION": "Stat. int. 7h - 9h, 16h - 18h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PP2711"
+ },
+ {
+   "ID": 321177,
+   "DESCRIPTION": "Stat. int. 7h - 9h, 16h - 18h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PP2712"
+ },
+ {
+   "ID": 321192,
+   "DESCRIPTION": "Stat. int. 7h - 9h, 16h - 18h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PP2713"
+ },
+ {
+   "ID": 330003,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ AUTOBUS EN AUTRE TEMPS (fl. ga.)",
+   "TYPE_CODE": "PP2727"
+ },
+ {
+   "ID": 329994,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ AUTOBUS EN AUTRE TEMPS (fl. dr.)",
+   "TYPE_CODE": "PP2728"
+ },
+ {
+   "ID": 330000,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ AUTOBUS EN AUTRE TEMPS (fl. dou.)",
+   "TYPE_CODE": "PP2729"
+ },
+ {
+   "ID": 147979,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ VÉHICULES DE POLICE ÉCUSSONNÉS (fl. ga.)",
+   "TYPE_CODE": "PP2751"
+ },
+ {
+   "ID": 301284,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ VÉHICULES DE POLICE ÉCUSSONNÉS (fl. dr.)",
+   "TYPE_CODE": "PP2752"
+ },
+ {
+   "ID": 147980,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ VÉHICULES DE POLICE ÉCUSSONNÉS (fl. dou.)",
+   "TYPE_CODE": "PP2753"
+ },
+ {
+   "ID": 226370,
+   "DESCRIPTION": "Stat. int. 21h - 5h EXCEPTÉ VÉHICULES DE POLICE (fl. ga.)",
+   "TYPE_CODE": "PP2757"
+ },
+ {
+   "ID": 346188,
+   "DESCRIPTION": "Stat. int. 21h - 5h EXCEPTÉ VÉHICULES DE POLICE (fl. dr.)",
+   "TYPE_CODE": "PP2758"
+ },
+ {
+   "ID": 364449,
+   "DESCRIPTION": "Stat. int. (fl. ga.) EXCEPTÉ PERMIS ZONE T-1 (blanc)",
+   "TYPE_CODE": "PP2781"
+ },
+ {
+   "ID": 361263,
+   "DESCRIPTION": "Stat. int. (fl. dr.) EXCEPTÉ PERMIS ZONE T-1 (blanc)",
+   "TYPE_CODE": "PP2782"
+ },
+ {
+   "ID": 148144,
+   "DESCRIPTION": "Stat. int. aux camions (fl. dr.)",
+   "TYPE_CODE": "PP2802"
+ },
+ {
+   "ID": 148141,
+   "DESCRIPTION": "Stat. int. aux camions (fl. dou.)",
+   "TYPE_CODE": "PP2803"
+ },
+ {
+   "ID": 344941,
+   "DESCRIPTION": "Stat. int. 7h - 9h Lun et Jeu (fl. ga.)",
+   "TYPE_CODE": "PP2804"
+ },
+ {
+   "ID": 344940,
+   "DESCRIPTION": "Stat. int. 7h - 9h Lun et Jeu (fl. dr.)",
+   "TYPE_CODE": "PP2805"
+ },
+ {
+   "ID": 152753,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ VOITURIERS (fl. ga.) ",
+   "TYPE_CODE": "PP2851"
+ },
+ {
+   "ID": 152752,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ VOITURIERS (fl. dr.) ",
+   "TYPE_CODE": "PP2852"
+ },
+ {
+   "ID": 195085,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ VOITURIERS (fl. dou.) ",
+   "TYPE_CODE": "PP2853"
+ },
+ {
+   "ID": 324323,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ VOITURIERS 17h30 - 3h (fl. ga.) ",
+   "TYPE_CODE": "PP2861"
+ },
+ {
+   "ID": 337392,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ VOITURIERS 17h30 - 3h (fl. dr.) ",
+   "TYPE_CODE": "PP2862"
+ },
+ {
+   "ID": 319325,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ VOITURIERS 17h - 23h (fl. ga.)",
+   "TYPE_CODE": "PP2864"
+ },
+ {
+   "ID": 319326,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ VOITURIERS 17h - 23h (fl. dr.)",
+   "TYPE_CODE": "PP2865"
+ },
+ {
+   "ID": 359367,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ VOITURIERS 8h - 21h (fl. ga.)",
+   "TYPE_CODE": "PP2867"
+ },
+ {
+   "ID": 359368,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ VOITURIERS 8h - 21h (fl. dr.)",
+   "TYPE_CODE": "PP2868"
+ },
+ {
+   "ID": 154127,
+   "DESCRIPTION": "Stat. int. aux camions DANS CETTE RUE (recto / verso)",
+   "TYPE_CODE": "PP2900"
+ },
+ {
+   "ID": 175338,
+   "DESCRIPTION": "Stat. int. aux camions 11h30 - 14h DANS CETTE RUE (recto / verso)",
+   "TYPE_CODE": "PP2910"
+ },
+ {
+   "ID": 281365,
+   "DESCRIPTION": "Stat. int. aux camions 22h - 7h (fl. ga.)",
+   "TYPE_CODE": "PP2911"
+ },
+ {
+   "ID": 281366,
+   "DESCRIPTION": "Stat. int. aux camions 22h - 7h (fl. dr.)",
+   "TYPE_CODE": "PP2912"
+ },
+ {
+   "ID": 281305,
+   "DESCRIPTION": "Stat. int. aux camions 22h - 7h (fl. dou.)",
+   "TYPE_CODE": "PP2913"
+ },
+ {
+   "ID": 176438,
+   "DESCRIPTION": "Stat. int. CÔTÉ DROIT - Stat. int. DÉBARCADÈRE CÔTÉ GAUCHE (recto / verso)",
+   "TYPE_CODE": "PP2920"
+ },
+ {
+   "ID": 339447,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ VOITURIERS 18h-23h 10 min (fl. ga.)",
+   "TYPE_CODE": "PP2961"
+ },
+ {
+   "ID": 339446,
+   "DESCRIPTION": "Stat. int. EXCEPTÉ VOITURIERS 18h-23h 10 min (fl. dr.)",
+   "TYPE_CODE": "PP2962"
+ },
+ {
+   "ID": 313671,
+   "DESCRIPTION": "Stat. int. 0h - 18h DIM À VEN 15 NOV AU 31 MARS (fl. ga.)",
+   "TYPE_CODE": "PP3001"
+ },
+ {
+   "ID": 317830,
+   "DESCRIPTION": "Stat. int. 0h - 18h DIM À VEN 15 NOV AU 31 MARS (fl. dr.)",
+   "TYPE_CODE": "PP3002"
+ },
+ {
+   "ID": 313659,
+   "DESCRIPTION": "Stat. int. 0h - 18h DIM À VEN 15 NOV AU 31 MARS (fl. dou.)",
+   "TYPE_CODE": "PP3003"
+ },
+ {
+   "ID": 262022,
+   "DESCRIPTION": "Stat. int. 8h - 16h LUN À VEN 15 NOV AU 31 MARS (fl. ga.)",
+   "TYPE_CODE": "PP3007"
+ },
+ {
+   "ID": 301177,
+   "DESCRIPTION": "Stat. int. 8h - 16h LUN À VEN 15 NOV AU 31 MARS (fl. dr.)",
+   "TYPE_CODE": "PP3008"
+ },
+ {
+   "ID": 209791,
+   "DESCRIPTION": "Stat. int. 8h - 16h LUN À VEN 15 NOV AU 31 MARS (fl. dou.)",
+   "TYPE_CODE": "PP3009"
+ },
+ {
+   "ID": 210642,
+   "DESCRIPTION": "Stat. int. 20h - 8h 15 NOV AU 31 MARS (fl. dr.)",
+   "TYPE_CODE": "PP3102"
+ },
+ {
+   "ID": 210634,
+   "DESCRIPTION": "Stat. int. 20h - 8h 15 NOV AU 31 MARS (fl. dou.)",
+   "TYPE_CODE": "PP3103"
+ },
+ {
+   "ID": 210630,
+   "DESCRIPTION": "Stat. int. 23h - 6h 15 NOV AU 31 MARS (fl. ga.)",
+   "TYPE_CODE": "PP3104"
+ },
+ {
+   "ID": 307975,
+   "DESCRIPTION": "Stat. int. 23h - 6h 15 NOV AU 31 MARS (fl. dr.)",
+   "TYPE_CODE": "PP3105"
+ },
+ {
+   "ID": 210631,
+   "DESCRIPTION": "Stat. int. 23h - 6h 15 NOV AU 31 MARS (fl. dou.)",
+   "TYPE_CODE": "PP3106"
+ },
+ {
+   "ID": 210644,
+   "DESCRIPTION": "Stat. int. 9h - 19h 15 NOV AU 31 MARS (fl. ga.)",
+   "TYPE_CODE": "PP3107"
+ },
+ {
+   "ID": 210645,
+   "DESCRIPTION": "Stat. int. 9h - 19h 15 NOV AU 31 MARS (fl. dou.)",
+   "TYPE_CODE": "PP3109"
+ },
+ {
+   "ID": 349277,
+   "DESCRIPTION": "Stat. int. LUN À VEN 15 NOV AU 31 MARS (fl. ga.)",
+   "TYPE_CODE": "PP3201"
+ },
+ {
+   "ID": 337034,
+   "DESCRIPTION": "Stat. int  LUN À VEN 15 NOV AU 31 MARS (fl. dr.)",
+   "TYPE_CODE": "PP3202"
+ },
+ {
+   "ID": 319834,
+   "DESCRIPTION": "Stat. int. LUN À VEN 15 NOV AU 31 MARS (fl. dou.)",
+   "TYPE_CODE": "PP3203"
+ },
+ {
+   "ID": 321627,
+   "DESCRIPTION": "Stat. int. LUN-MER-VEN 15 NOV AU 31 MARS (fl. dou.)",
+   "TYPE_CODE": "PP3206"
+ },
+ {
+   "ID": 324427,
+   "DESCRIPTION": "Stat. int. 8h - 18h LUN-MER-VEN 15 NOV AU 31 MARS (fl. ga)",
+   "TYPE_CODE": "PP3301"
+ },
+ {
+   "ID": 317707,
+   "DESCRIPTION": "Stat. int. 8h - 18h LUN-MER-VEN 15 NOV AU 31 MARS (fl. dr.)",
+   "TYPE_CODE": "PP3302"
+ },
+ {
+   "ID": 317705,
+   "DESCRIPTION": "Stat. int. 8h - 18h LUN-MER-VEN 15 NOV AU 31 MARS (fl. dou.)",
+   "TYPE_CODE": "PP3303"
+ },
+ {
+   "ID": 317710,
+   "DESCRIPTION": "Stat. int. 8h - 18h MAR-JEU 15 NOV AU 31 MARS (fl. ga.)",
+   "TYPE_CODE": "PP3304"
+ },
+ {
+   "ID": 324432,
+   "DESCRIPTION": "Stat. int. 8h - 18h MAR-JEU 15 NOV AU 31 MARS (fl. dr.)",
+   "TYPE_CODE": "PP3305"
+ },
+ {
+   "ID": 317708,
+   "DESCRIPTION": "Stat. int. 8h - 18h MAR-JEU 15 NOV AU 31 MARS (fl. dou.)",
+   "TYPE_CODE": "PP3306"
+ },
+ {
+   "ID": 318848,
+   "DESCRIPTION": "Stat. int. 0h01 - 7h LUN-MER-VEN 15 NOV AU 31 MARS (fl. ga.)",
+   "TYPE_CODE": "PP3307"
+ },
+ {
+   "ID": 319811,
+   "DESCRIPTION": "Stat. int. 0h01 - 7h LUN-MER-VEN 15 NOV AU 31 MARS (fl. dr.)",
+   "TYPE_CODE": "PP3308"
+ },
+ {
+   "ID": 314572,
+   "DESCRIPTION": "Stat. int. 0h01 - 7h LUN-MER-VEN 15 NOV AU 31 MARS (fl. dou.)",
+   "TYPE_CODE": "PP3309"
+ },
+ {
+   "ID": 265898,
+   "DESCRIPTION": "Stat. int. 0h01 - 7h MAR -JEU 15 NOV AU 31 MARS (fl. ga.)",
+   "TYPE_CODE": "PP3401"
+ },
+ {
+   "ID": 265921,
+   "DESCRIPTION": "Stat. int. 0h01 - 7h MAR-JEU 15 NOV AU 31 MARS (fl. dr.)",
+   "TYPE_CODE": "PP3402"
+ },
+ {
+   "ID": 261981,
+   "DESCRIPTION": "Stat. int. 0h01 - 7h MAR-JEU 15 NOV AU 31 MARS (fl. dou.)",
+   "TYPE_CODE": "PP3403"
+ },
+ {
+   "ID": 332667,
+   "DESCRIPTION": "Stat. int. 0h - 7h 15 NOV AU 31 MARS (fl. ga.)",
+   "TYPE_CODE": "PP3404"
+ },
+ {
+   "ID": 332666,
+   "DESCRIPTION": "Stat. int. 0h - 7h 15 NOV AU 31 MARS (fl. dr.)",
+   "TYPE_CODE": "PP3405"
+ },
+ {
+   "ID": 317507,
+   "DESCRIPTION": "Stat. int. 0h - 7h 15 NOV AU 31 MARS (fl.dou.)",
+   "TYPE_CODE": "PP3406"
+ },
+ {
+   "ID": 367901,
+   "DESCRIPTION": "Stat. int. 9h - 16h LUN À VEN 15 NOV AU 31 MARS (fl. ga.)",
+   "TYPE_CODE": "PP3407"
+ },
+ {
+   "ID": 274072,
+   "DESCRIPTION": "Stat. int. 9h - 16h LUN À VEN 15 NOV AU 31 MARS (fl. dou.)",
+   "TYPE_CODE": "PP3409"
+ },
+ {
+   "ID": 366428,
+   "DESCRIPTION": "Stat. int. 8h - 20h LUN-MER-VEN-DIM 15 NOV AU 31 MARS (fl. ga.)",
+   "TYPE_CODE": "PP3501"
+ },
+ {
+   "ID": 366430,
+   "DESCRIPTION": "Stat. int. 8h - 20h LUN-MER-VEN-DIM 15 NOV AU 31 MARS (fl. dou.)",
+   "TYPE_CODE": "PP3503"
+ },
+ {
+   "ID": 303947,
+   "DESCRIPTION": "Stat. int. 8h - 20h 15 NOV AU 31 MARS (fl. dr.)",
+   "TYPE_CODE": "PP3505"
+ },
+ {
+   "ID": 303945,
+   "DESCRIPTION": "Stat. int. 8h - 20h 15 NOV AU 31 MARS (fl. dou.)",
+   "TYPE_CODE": "PP3506"
+ },
+ {
+   "ID": 174722,
+   "DESCRIPTION": "Stat. int. 8h - 20h MAR-JEU-SAM 15 NOV AU 31 MARS (fl. ga.)",
+   "TYPE_CODE": "PP3507"
+ },
+ {
+   "ID": 178380,
+   "DESCRIPTION": "Stat. int. 8h - 20h MAR-JEU-SAM 15 NOV AU 31 MARS (fl. dr.)",
+   "TYPE_CODE": "PP3508"
+ },
+ {
+   "ID": 174738,
+   "DESCRIPTION": "Stat. int. 8h - 20h MAR-JEU-SAM 15 NOV AU 31 MARS (fl. dou.)",
+   "TYPE_CODE": "PP3509"
+ },
+ {
+   "ID": 318087,
+   "DESCRIPTION": "Stat. int. LUN-MER-VEN-DIM 15 NOV AU 31 MARS (fl. ga.)",
+   "TYPE_CODE": "PP3604"
+ },
+ {
+   "ID": 318089,
+   "DESCRIPTION": "Stat. int. LUN-MER-VEN-DIM 15 NOV AU 31 MARS (fl.dr.)",
+   "TYPE_CODE": "PP3605"
+ },
+ {
+   "ID": 318107,
+   "DESCRIPTION": "Stat. int. LUN-MER-VEN-DIM 15 NOV AU 31 MARS (fl. dou.)",
+   "TYPE_CODE": "PP3606"
+ },
+ {
+   "ID": 342371,
+   "DESCRIPTION": "Stat. int. MAR-JEU-SAM 15 NOV AU 31 MARS (fl.ga.)",
+   "TYPE_CODE": "PP3607"
+ },
+ {
+   "ID": 318117,
+   "DESCRIPTION": "Stat. int. MAR-JEU-SAM 15 NOV AU 31 MARS (fl. dr.)",
+   "TYPE_CODE": "PP3608"
+ },
+ {
+   "ID": 318082,
+   "DESCRIPTION": "Stat. int. MAR-JEU-SAM 15 NOV AU 31 MARS (fl. dou.)",
+   "TYPE_CODE": "PP3609"
+ },
+ {
+   "ID": 345743,
+   "DESCRIPTION": "Stat. int. 8h - 18h LUN-MER-VEN-DIM 15 NOV. AU 31 MARS (fl. ga.)",
+   "TYPE_CODE": "PP3701"
+ },
+ {
+   "ID": 367992,
+   "DESCRIPTION": "Stat. int. 8h - 18h LUN-MER-VEN-DIM 15 NOV. AU 31 MARS (fl. dr.)",
+   "TYPE_CODE": "PP3702"
+ },
+ {
+   "ID": 321003,
+   "DESCRIPTION": "Stat. int. 8h - 18h LUN-MER-VEN-DIM 15 NOV. AU 31 MARS (fl. dou.)",
+   "TYPE_CODE": "PP3703"
+ },
+ {
+   "ID": 367908,
+   "DESCRIPTION": "Stat. int. 8h - 18h MAR-JEU-SAM 15 NOV. AU 31 MARS (fl. ga.)",
+   "TYPE_CODE": "PP3704"
+ },
+ {
+   "ID": 345741,
+   "DESCRIPTION": "Stat. int. 8h - 18h MAR-JEU-SAM 15 NOV. AU 31 MARS (fl. dr.)",
+   "TYPE_CODE": "PP3705"
+ },
+ {
+   "ID": 345742,
+   "DESCRIPTION": "Stat. int. 8h - 18h MAR-JEU-SAM 15 NOV. AU 31 MARS (fl. dou.)",
+   "TYPE_CODE": "PP3706"
+ },
+ {
+   "ID": 109064,
+   "DESCRIPTION": "Stat. 10 min (fl. ga.)",
+   "TYPE_CODE": "PS1011"
+ },
+ {
+   "ID": 109065,
+   "DESCRIPTION": "Stat. 10 min (fl. dr.)",
+   "TYPE_CODE": "PS1012"
+ },
+ {
+   "ID": 146950,
+   "DESCRIPTION": "Stat. 10 min (fl. dou.)",
+   "TYPE_CODE": "PS1013"
+ },
+ {
+   "ID": 131521,
+   "DESCRIPTION": "Stat. 10 min EN AUTRE TEMPS (fl. ga.)",
+   "TYPE_CODE": "PS1021"
+ },
+ {
+   "ID": 131522,
+   "DESCRIPTION": "Stat. 10 min EN AUTRE TEMPS (fl. dr.)",
+   "TYPE_CODE": "PS1022"
+ },
+ {
+   "ID": 115035,
+   "DESCRIPTION": "Stat. 10 min 8h - 18h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PS1031"
+ },
+ {
+   "ID": 115487,
+   "DESCRIPTION": "Stat. 10 min 8h - 18h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PS1032"
+ },
+ {
+   "ID": 147880,
+   "DESCRIPTION": "Stat. 10 min 8h - 18h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PS1033"
+ },
+ {
+   "ID": 301679,
+   "DESCRIPTION": "Stat. 10 min 8h - 16h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PS1041"
+ },
+ {
+   "ID": 301677,
+   "DESCRIPTION": "Stat. 10 min 8h - 16h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PS1042"
+ },
+ {
+   "ID": 359569,
+   "DESCRIPTION": "Stat. 10 min 8h - 16h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PS1043"
+ },
+ {
+   "ID": 323407,
+   "DESCRIPTION": "Stat. 10 min 7h30 - 16h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PS1054"
+ },
+ {
+   "ID": 282594,
+   "DESCRIPTION": "Stat. 10 min 7h30 - 16h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PS1055"
+ },
+ {
+   "ID": 323408,
+   "DESCRIPTION": "Stat. 10 min 7h30 - 16h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PS1056"
+ },
+ {
+   "ID": 110198,
+   "DESCRIPTION": "Stat. 10 min 8h - 22h (fl. ga.)",
+   "TYPE_CODE": "PS1071"
+ },
+ {
+   "ID": 110199,
+   "DESCRIPTION": "Stat. 10 min 8h - 22h (fl. dr.)",
+   "TYPE_CODE": "PS1072"
+ },
+ {
+   "ID": 122910,
+   "DESCRIPTION": "Stat. 10 min 8h - 22h (fl. dou.)",
+   "TYPE_CODE": "PS1073"
+ },
+ {
+   "ID": 112538,
+   "DESCRIPTION": "Stat. 30 min 9h30 - 16h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PS1081"
+ },
+ {
+   "ID": 110941,
+   "DESCRIPTION": "Stat. 30 min 9h30 - 16h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PS1082"
+ },
+ {
+   "ID": 123454,
+   "DESCRIPTION": "Stat. 30 min 9h30 - 16h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PS1083"
+ },
+ {
+   "ID": 113106,
+   "DESCRIPTION": "Stat. 30 min 9h - 12h, 13h30 - 17h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PS1091"
+ },
+ {
+   "ID": 148639,
+   "DESCRIPTION": "Stat. 30 min 9h - 12h, 13h30 - 17h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PS1092"
+ },
+ {
+   "ID": 128261,
+   "DESCRIPTION": "Stat. 30 min 9h - 12h, 13h30 - 17h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PS1093"
+ },
+ {
+   "ID": 275350,
+   "DESCRIPTION": "Stat. 120 min (fl. ga.)",
+   "TYPE_CODE": "PS1111"
+ },
+ {
+   "ID": 275351,
+   "DESCRIPTION": "Stat. 120 min (fl. dr.)",
+   "TYPE_CODE": "PS1112"
+ },
+ {
+   "ID": 119367,
+   "DESCRIPTION": "Stat. 60 min 9h30 - 16h LUN À VEN (fl. ga.) ",
+   "TYPE_CODE": "PS1121"
+ },
+ {
+   "ID": 115232,
+   "DESCRIPTION": "Stat. 60 min 9h30 - 16h LUN À VEN (fl. dr.) ",
+   "TYPE_CODE": "PS1122"
+ },
+ {
+   "ID": 109106,
+   "DESCRIPTION": "Stat. 60 min 9h30 - 16h LUN À VEN (fl. dou.) ",
+   "TYPE_CODE": "PS1123"
+ },
+ {
+   "ID": 141266,
+   "DESCRIPTION": "Stat. 10 min 9h - 17h LUN À SAM (fl. ga.)",
+   "TYPE_CODE": "PS1161"
+ },
+ {
+   "ID": 120559,
+   "DESCRIPTION": "Stat. 10 min 9h - 17h LUN À SAM (fl. dr.)",
+   "TYPE_CODE": "PS1162"
+ },
+ {
+   "ID": 196179,
+   "DESCRIPTION": "Stat. 30 min 9h - 17h LUN À SAM (fl. ga.)",
+   "TYPE_CODE": "PS1171"
+ },
+ {
+   "ID": 140716,
+   "DESCRIPTION": "Stat. 30 min 9h - 17h LUN À SAM (fl. dr.)",
+   "TYPE_CODE": "PS1172"
+ },
+ {
+   "ID": 143422,
+   "DESCRIPTION": "Stat. 30 min 9h - 17h LUN À SAM (fl. dou.)",
+   "TYPE_CODE": "PS1173"
+ },
+ {
+   "ID": 344477,
+   "DESCRIPTION": "Stat. 30 min 8h - 18h LUN À SAM (fl. ga.)",
+   "TYPE_CODE": "PS1174"
+ },
+ {
+   "ID": 345611,
+   "DESCRIPTION": "Stat. 30 min 8h - 18h LUN À SAM (fl. dr.)",
+   "TYPE_CODE": "PS1175"
+ },
+ {
+   "ID": 344476,
+   "DESCRIPTION": "Stat. 30 min 8h - 18h LUN À SAM (fl. dou.)",
+   "TYPE_CODE": "PS1176"
+ },
+ {
+   "ID": 341155,
+   "DESCRIPTION": "Stat. 30 MIN 9h - 21h LUN à VEN (fl. ga.)",
+   "TYPE_CODE": "PS1177"
+ },
+ {
+   "ID": 341154,
+   "DESCRIPTION": "Stat. 30 MIN 9h - 21h LUN à VEN (fl. dr.)",
+   "TYPE_CODE": "PS1178"
+ },
+ {
+   "ID": 317215,
+   "DESCRIPTION": "Stat. 15 min 9h - 17h LUN À SAM (fl. dr.)",
+   "TYPE_CODE": "PS1222"
+ },
+ {
+   "ID": 364434,
+   "DESCRIPTION": "STAT. 20 MIN EN AUTRE TEMPS  (fl. ga.)",
+   "TYPE_CODE": "PS1234"
+ },
+ {
+   "ID": 364430,
+   "DESCRIPTION": "STAT.20 MIN EN AUTRE TEMPS  (fl. dr.)",
+   "TYPE_CODE": "PS1235"
+ },
+ {
+   "ID": 121553,
+   "DESCRIPTION": "Stat. 60 min 9h - 12h, 13h30 - 16h LUN À VEN (fl. ga.) ",
+   "TYPE_CODE": "PS1251"
+ },
+ {
+   "ID": 121568,
+   "DESCRIPTION": "Stat. 60 min 9h - 12h, 13h30 - 16h LUN À VEN (fl. dr.) ",
+   "TYPE_CODE": "PS1252"
+ },
+ {
+   "ID": 121441,
+   "DESCRIPTION": "Stat. 60 min 9h - 12h, 13h30 - 16h LUN À VEN (fl. dou.) ",
+   "TYPE_CODE": "PS1253"
+ },
+ {
+   "ID": 317032,
+   "DESCRIPTION": "Stat. 60 min 8h - 12h, 13h30 - 18h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PS1256"
+ },
+ {
+   "ID": 351726,
+   "DESCRIPTION": "Stat. 30 MIN 11h - 18h LUN à VEN (fl. ga.)",
+   "TYPE_CODE": "PS1277"
+ },
+ {
+   "ID": 351729,
+   "DESCRIPTION": "Stat. 30 MIN 11h - 18h LUN à VEN (fl. dr.)",
+   "TYPE_CODE": "PS1278"
+ },
+ {
+   "ID": 129891,
+   "DESCRIPTION": "Stat. 60 min 9h - 17h LUN À VEN (fl. ga.) EXCEPTÉ PERMIS ZONE 1 (bleu)",
+   "TYPE_CODE": "PS1291"
+ },
+ {
+   "ID": 129888,
+   "DESCRIPTION": "Stat. 60 min 9h - 17h LUN À VEN (fl. dr.) EXCEPTÉ PERMIS ZONE 1 (bleu)",
+   "TYPE_CODE": "PS1292"
+ },
+ {
+   "ID": 131196,
+   "DESCRIPTION": "Stat. 60 min 9h - 17h LUN À VEN (fl. dou.) EXCEPTÉ PERMIS ZONE 1 (bleu)",
+   "TYPE_CODE": "PS1293"
+ },
+ {
+   "ID": 105359,
+   "DESCRIPTION": "Stat. 60 min 9h - 17h LUN À VEN (fl. ga.) ",
+   "TYPE_CODE": "PS1301"
+ },
+ {
+   "ID": 105358,
+   "DESCRIPTION": "Stat. 60 min 9h - 17h LUN À VEN (fl. dr.) ",
+   "TYPE_CODE": "PS1302"
+ },
+ {
+   "ID": 107021,
+   "DESCRIPTION": "Stat. 60 min 9h - 17h LUN À VEN (fl. dou.) ",
+   "TYPE_CODE": "PS1303"
+ },
+ {
+   "ID": 129052,
+   "DESCRIPTION": "Stat. 60 min 9h - 17h LUN À VEN (fl. ga.) EXCEPTÉ PERMIS ZONE 2 (orange)",
+   "TYPE_CODE": "PS1311"
+ },
+ {
+   "ID": 130220,
+   "DESCRIPTION": "Stat. 60 min 9h - 17h LUN À VEN (fl. dr.) EXCEPTÉ PERMIS ZONE 2 (orange)",
+   "TYPE_CODE": "PS1312"
+ },
+ {
+   "ID": 130075,
+   "DESCRIPTION": "Stat. 60 min 9h - 17h LUN À VEN (fl. dou.) EXCEPTÉ PERMIS ZONE 2  (orange)",
+   "TYPE_CODE": "PS1313"
+ },
+ {
+   "ID": 347084,
+   "DESCRIPTION": "Stat. PARCOMÈTRE EN AUTRE TEMPS (fl. ga.)",
+   "TYPE_CODE": "PS1341"
+ },
+ {
+   "ID": 330697,
+   "DESCRIPTION": "Stat. PARCOMÈTRE EN AUTRE TEMPS (fl. dr.)",
+   "TYPE_CODE": "PS1342"
+ },
+ {
+   "ID": 137154,
+   "DESCRIPTION": "Stat. 60 MIN 9h30 - 12h, 13h30 - 16h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PS1422"
+ },
+ {
+   "ID": 137155,
+   "DESCRIPTION": "Stat. 60 MIN 9h30 - 12h, 13h30 - 16h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PS1423"
+ },
+ {
+   "ID": 117576,
+   "DESCRIPTION": "Stat. 10 min 8h - 18h LUN À VEN PÉRIODE SCOLAIRE (fl. ga.)",
+   "TYPE_CODE": "PS1451"
+ },
+ {
+   "ID": 117579,
+   "DESCRIPTION": "Stat. 10 min 8h - 18h LUN À VEN PÉRIODE SCOLAIRE (fl. dr.)",
+   "TYPE_CODE": "PS1452"
+ },
+ {
+   "ID": 276931,
+   "DESCRIPTION": "Stat. 10 min 8h - 16h LUN À VEN PÉRIODE SCOLAIRE (fl. ga.)",
+   "TYPE_CODE": "PS1454"
+ },
+ {
+   "ID": 266390,
+   "DESCRIPTION": "Stat. 10 min 8h - 16h LUN À VEN PÉRIODE SCOLAIRE (fl. dr.)",
+   "TYPE_CODE": "PS1455"
+ },
+ {
+   "ID": 332003,
+   "DESCRIPTION": "Stat. 10 min 8h - 16h LUN À VEN PÉRIODE SCOLAIRE (fl. dou.)",
+   "TYPE_CODE": "PS1456"
+ },
+ {
+   "ID": 153317,
+   "DESCRIPTION": "Stat. 10 min 7h - 9h LUN À VEN PÉRIODE SCOLAIRE (fl. dr.)",
+   "TYPE_CODE": "PS1462"
+ },
+ {
+   "ID": 272051,
+   "DESCRIPTION": "Stat. 10 min 7h - 9h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PS1464"
+ },
+ {
+   "ID": 272052,
+   "DESCRIPTION": "Stat. 10 min 7h - 9h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PS1465"
+ },
+ {
+   "ID": 273782,
+   "DESCRIPTION": "Stat. 10 min 9h - 18h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PS1467"
+ },
+ {
+   "ID": 303514,
+   "DESCRIPTION": "Stat. 10 min 9h - 18h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PS1468"
+ },
+ {
+   "ID": 273781,
+   "DESCRIPTION": "Stat. 10 min 9h - 18h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PS1469"
+ },
+ {
+   "ID": 208673,
+   "DESCRIPTION": "Stat. 10 min 7h - 16h LUN À VEN PÉRIODE SCOLAIRE (fl. ga.)",
+   "TYPE_CODE": "PS1474"
+ },
+ {
+   "ID": 208674,
+   "DESCRIPTION": "Stat. 10 min 7h - 16h LUN À VEN PÉRIODE SCOLAIRE (fl. dr.)",
+   "TYPE_CODE": "PS1475"
+ },
+ {
+   "ID": 216634,
+   "DESCRIPTION": "Stat. 10 min 7h - 16h LUN À VEN PÉRIODE SCOLAIRE (fl. dou.)",
+   "TYPE_CODE": "PS1476"
+ },
+ {
+   "ID": 350689,
+   "DESCRIPTION": "Stat. 10 min 8h - 22h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PS1541"
+ },
+ {
+   "ID": 350688,
+   "DESCRIPTION": "Stat. 10 min 8h - 22h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PS1542"
+ },
+ {
+   "ID": 348561,
+   "DESCRIPTION": "Stat. 120 min 8h - 22h LUN À VEN (fl. ga.) ",
+   "TYPE_CODE": "PS1544"
+ },
+ {
+   "ID": 348560,
+   "DESCRIPTION": "Stat. 120 min 8h - 22h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PS1545"
+ },
+ {
+   "ID": 192814,
+   "DESCRIPTION": "Stat. 120 min 8h - 22h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PS1546"
+ },
+ {
+   "ID": 349676,
+   "DESCRIPTION": "Stat. 120 min 8h - 17h LUN À VEN (fl. ga.) ",
+   "TYPE_CODE": "PS1547"
+ },
+ {
+   "ID": 349677,
+   "DESCRIPTION": "Stat. 120 min 8h - 17h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PS1548"
+ },
+ {
+   "ID": 191997,
+   "DESCRIPTION": "Stat. 120 min 8h - 17h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PS1549"
+ },
+ {
+   "ID": 360455,
+   "DESCRIPTION": "Stat. 10 min 16h - 18h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PS1551"
+ },
+ {
+   "ID": 360453,
+   "DESCRIPTION": "Stat. 10 min 16h - 18h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PS1552"
+ },
+ {
+   "ID": 360454,
+   "DESCRIPTION": "Stat. 10 min 16h - 18h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PS1553"
+ },
+ {
+   "ID": 308609,
+   "DESCRIPTION": "Stat. 30 min 9h - 18h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PS1554"
+ },
+ {
+   "ID": 189651,
+   "DESCRIPTION": "Stat. 30 min 9h - 18h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PS1555"
+ },
+ {
+   "ID": 109233,
+   "DESCRIPTION": "Stat. 30 min 9h - 17h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PS1561"
+ },
+ {
+   "ID": 109801,
+   "DESCRIPTION": "Stat. 30 min 9h - 17h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PS1562"
+ },
+ {
+   "ID": 117047,
+   "DESCRIPTION": "Stat. 30 min 9h - 17h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PS1563"
+ },
+ {
+   "ID": 274195,
+   "DESCRIPTION": "Stat. 30 min 9h30 - 12h, 13h30 - 16h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PS1593"
+ },
+ {
+   "ID": 239624,
+   "DESCRIPTION": "Stat. 90 min 9h - 12h, 13h30 - 17h LUN À VEN (fl. ga.) ",
+   "TYPE_CODE": "PS1605"
+ },
+ {
+   "ID": 195861,
+   "DESCRIPTION": "Stat. 90 min 9h - 12h, 13h30 - 17h LUN À VEN (fl. dr.) ",
+   "TYPE_CODE": "PS1606"
+ },
+ {
+   "ID": 223871,
+   "DESCRIPTION": "Stat. 90 min 9h - 12h, 13h30 - 17h LUN À VEN (fl. dou.) ",
+   "TYPE_CODE": "PS1607"
+ },
+ {
+   "ID": 359948,
+   "DESCRIPTION": "Stat. 15 min  INTERDIT AUX TAXIS (fl. ga.)",
+   "TYPE_CODE": "PS1621"
+ },
+ {
+   "ID": 351816,
+   "DESCRIPTION": "Stat. 15 min - INTERDIT AUX TAXIS (fl. dr.)",
+   "TYPE_CODE": "PS1622"
+ },
+ {
+   "ID": 367847,
+   "DESCRIPTION": "Stat. 15 min - INTERDIT AUX TAXIS (fl. dou.)",
+   "TYPE_CODE": "PS1623"
+ },
+ {
+   "ID": 342050,
+   "DESCRIPTION": "Stat. 60 min 9h - 17h LUN À VEN (fl. ga.) EXCEPTÉ PERMIS ZONE 3 (vert)",
+   "TYPE_CODE": "PS1631"
+ },
+ {
+   "ID": 126971,
+   "DESCRIPTION": "Stat. 60 min 9h - 17h LUN À VEN (fl. dr.) EXCEPTÉ PERMIS ZONE 3 (vert)",
+   "TYPE_CODE": "PS1632"
+ },
+ {
+   "ID": 126972,
+   "DESCRIPTION": "Stat. 60 min 9h - 17h LUN À VEN (fl. dou.) EXCEPTÉ PERMIS ZONE 3 (vert)",
+   "TYPE_CODE": "PS1633"
+ },
+ {
+   "ID": 157837,
+   "DESCRIPTION": "Stat. 60 min (fl. ga.) ",
+   "TYPE_CODE": "PS1641"
+ },
+ {
+   "ID": 157838,
+   "DESCRIPTION": "Stat. 60 min (fl. dr.) ",
+   "TYPE_CODE": "PS1642"
+ },
+ {
+   "ID": 173104,
+   "DESCRIPTION": "Stat. 60 min (fl. dou.) ",
+   "TYPE_CODE": "PS1643"
+ },
+ {
+   "ID": 239039,
+   "DESCRIPTION": "Stat. 90 min 9h30 - 12h, 13h30 - 17h LUN À VEN (fl. ga.) ",
+   "TYPE_CODE": "PS1651"
+ },
+ {
+   "ID": 239040,
+   "DESCRIPTION": "Stat. 90 min 9h30 - 12h, 13h30 - 17h LUN À VEN (fl. dr.) ",
+   "TYPE_CODE": "PS1652"
+ },
+ {
+   "ID": 261070,
+   "DESCRIPTION": "Stat. 90 min 9h - 12h, 13h30 - 17h LUN-MER-VEN (fl. dou.) ",
+   "TYPE_CODE": "PS1656"
+ },
+ {
+   "ID": 341678,
+   "DESCRIPTION": "Stat. 90 min 9h - 12h, 13h30 - 17h MAR-JEU (fl. dr.) ",
+   "TYPE_CODE": "PS1658"
+ },
+ {
+   "ID": 266187,
+   "DESCRIPTION": "Stat. 90 min 9h - 12h, 13h30 - 17h MAR-JEU (fl. dou.) ",
+   "TYPE_CODE": "PS1659"
+ },
+ {
+   "ID": 318538,
+   "DESCRIPTION": "Stat. 30 min 8h - 20h LUN-MER-VEN-DIM (fl. ga.)",
+   "TYPE_CODE": "PS1677"
+ },
+ {
+   "ID": 309596,
+   "DESCRIPTION": "Stat. 30 min 8h - 20h LUN-MER-VEN-DIM (fl.dou)",
+   "TYPE_CODE": "PS1679"
+ },
+ {
+   "ID": 309601,
+   "DESCRIPTION": "Stat. 30 min 8h - 20h MAR-JEU-SAM (fl. ga.)",
+   "TYPE_CODE": "PS1681"
+ },
+ {
+   "ID": 309593,
+   "DESCRIPTION": "Stat. 30 min 8h - 20h MAR-JEU-SAM (fl. dr.)",
+   "TYPE_CODE": "PS1682"
+ },
+ {
+   "ID": 309599,
+   "DESCRIPTION": "Stat. 30 min 8h - 20h MAR-JEU-SAM (fl. dou.)",
+   "TYPE_CODE": "PS1683"
+ },
+ {
+   "ID": 311617,
+   "DESCRIPTION": "Stat. 30 min 8h - 20h MAR-JEU (fl.ga.)",
+   "TYPE_CODE": "PS1684"
+ },
+ {
+   "ID": 351973,
+   "DESCRIPTION": "Stat. 30 min 8h - 20h MAR-JEU (fl. dou.)",
+   "TYPE_CODE": "PS1686"
+ },
+ {
+   "ID": 128981,
+   "DESCRIPTION": "Stat. 10 min 9h - 22h (fl. ga.)",
+   "TYPE_CODE": "PS1701"
+ },
+ {
+   "ID": 128977,
+   "DESCRIPTION": "Stat. 10 min 9h - 22h (fl. dr.)",
+   "TYPE_CODE": "PS1702"
+ },
+ {
+   "ID": 261075,
+   "DESCRIPTION": "Stat. 10 min 9h - 21h (fl. ga.)",
+   "TYPE_CODE": "PS1704"
+ },
+ {
+   "ID": 261076,
+   "DESCRIPTION": "Stat. 10 min 9h - 21h (fl. dr.)",
+   "TYPE_CODE": "PS1705"
+ },
+ {
+   "ID": 126238,
+   "DESCRIPTION": "Régl. fédérale STATIONNEMENT 60 min PARKING 8h - 16h LUN À VEN / MON TO FRI (recto / verso) ",
+   "TYPE_CODE": "PS1710"
+ },
+ {
+   "ID": 126236,
+   "DESCRIPTION": "Régl. fédérale STATIONNEMENT 60 min PARKING 8h - 16h LUN À VEN / MON TO FRI (fl. ga) ",
+   "TYPE_CODE": "PS1711"
+ },
+ {
+   "ID": 126234,
+   "DESCRIPTION": "Régl. fédérale STATIONNEMENT 60 min PARKING 8h - 16h LUN À VEN / MON TO FRI (fl. dr.) ",
+   "TYPE_CODE": "PS1712"
+ },
+ {
+   "ID": 126235,
+   "DESCRIPTION": "Régl. fédérale STATIONNEMENT 60 min PARKING 8h - 16h LUN À VEN / MON TO FRI (fl. dou.) ",
+   "TYPE_CODE": "PS1713"
+ },
+ {
+   "ID": 129428,
+   "DESCRIPTION": "Stat. 60 min 9h - 12h, 13h30 - 17h LUN À VEN (fl. ga.) ",
+   "TYPE_CODE": "PS1721"
+ },
+ {
+   "ID": 125026,
+   "DESCRIPTION": "Stat. 60 min 9h - 12h, 13h30 - 17h LUN À VEN (fl. dr.) ",
+   "TYPE_CODE": "PS1722"
+ },
+ {
+   "ID": 121434,
+   "DESCRIPTION": "Stat. 60 min 9h - 12h, 13h30 - 17h LUN À VEN (fl. dou.) ",
+   "TYPE_CODE": "PS1723"
+ },
+ {
+   "ID": 311344,
+   "DESCRIPTION": "Stat. 30 min 8h - 18h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PS1771"
+ },
+ {
+   "ID": 311343,
+   "DESCRIPTION": "Stat. 30 min 8h - 18h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PS1772"
+ },
+ {
+   "ID": 248229,
+   "DESCRIPTION": "Stat. 30 min 8h - 18h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PS1773"
+ },
+ {
+   "ID": 120665,
+   "DESCRIPTION": "Stat. À ANGLE DROIT",
+   "TYPE_CODE": "PS1850"
+ },
+ {
+   "ID": 141031,
+   "DESCRIPTION": "Stat. 90 min 9h - 17h LUN À VEN (fl. ga.) EXCEPTÉ PERMIS ZONE 4 (brun)",
+   "TYPE_CODE": "PS1881"
+ },
+ {
+   "ID": 127357,
+   "DESCRIPTION": "Stat. 90 min 9h - 17h LUN À VEN (fl. dr.) EXCEPTÉ PERMIS ZONE 4 (brun)",
+   "TYPE_CODE": "PS1882"
+ },
+ {
+   "ID": 127359,
+   "DESCRIPTION": "Stat. 90 min 9h - 17h LUN À VEN (fl. dou.) EXCEPTÉ PERMIS ZONE 4 (brun)",
+   "TYPE_CODE": "PS1883"
+ },
+ {
+   "ID": 325838,
+   "DESCRIPTION": "Stat. 90 min 8h - 13h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PS1884"
+ },
+ {
+   "ID": 325840,
+   "DESCRIPTION": "Stat. 90 min 8h - 13h LUN À VEN (fl.dr.)",
+   "TYPE_CODE": "PS1885"
+ },
+ {
+   "ID": 325786,
+   "DESCRIPTION": "Stat. 90 min 8h - 13h LUN À VEN (fl.dou.)",
+   "TYPE_CODE": "PS1886"
+ },
+ {
+   "ID": 310296,
+   "DESCRIPTION": "Stat. 90 min 8h - 16h LUN À VEN (fl. ga.) ",
+   "TYPE_CODE": "PS1887"
+ },
+ {
+   "ID": 310305,
+   "DESCRIPTION": "Stat. 90 min 8h - 16h LUN À VEN (fl. dr.) ",
+   "TYPE_CODE": "PS1888"
+ },
+ {
+   "ID": 310302,
+   "DESCRIPTION": "Stat. 90 min 8h - 16h LUN À VEN (fl. dou.) ",
+   "TYPE_CODE": "PS1889"
+ },
+ {
+   "ID": 120264,
+   "DESCRIPTION": "Stat. 90 min 9h - 17h LUN À VEN (fl. ga.) ",
+   "TYPE_CODE": "PS1891"
+ },
+ {
+   "ID": 120261,
+   "DESCRIPTION": "Stat. 90 min 9h - 17h LUN À VEN (fl. dr.) ",
+   "TYPE_CODE": "PS1892"
+ },
+ {
+   "ID": 136508,
+   "DESCRIPTION": "Stat. 90 min 9h - 17h LUN À VEN (fl. dou.) ",
+   "TYPE_CODE": "PS1893"
+ },
+ {
+   "ID": 191992,
+   "DESCRIPTION": "Stat. 90 min 8h - 17h LUN À SAM (fl. ga.) ",
+   "TYPE_CODE": "PS1894"
+ },
+ {
+   "ID": 191993,
+   "DESCRIPTION": "Stat. 90 min 8h - 17h LUN À SAM (fl. dr.) ",
+   "TYPE_CODE": "PS1895"
+ },
+ {
+   "ID": 111584,
+   "DESCRIPTION": "Stat. 10 min 8h - 18h LUN À SAM (fl. ga.)",
+   "TYPE_CODE": "PS1901"
+ },
+ {
+   "ID": 111585,
+   "DESCRIPTION": "Stat. 10 min 8h - 18h LUN À SAM (fl. dr.)",
+   "TYPE_CODE": "PS1902"
+ },
+ {
+   "ID": 353420,
+   "DESCRIPTION": "Stat. 30 MIN 15 NOV. au 31 MARS (fl. ga.)",
+   "TYPE_CODE": "PS1914"
+ },
+ {
+   "ID": 353417,
+   "DESCRIPTION": "Stat. 30 MIN 15 NOV. au 31 MARS (fl. dr.)",
+   "TYPE_CODE": "PS1915"
+ },
+ {
+   "ID": 351310,
+   "DESCRIPTION": "Stat. 30 MIN 15 NOV. au 31 MARS (fl. dou.)",
+   "TYPE_CODE": "PS1916"
+ },
+ {
+   "ID": 342472,
+   "DESCRIPTION": "Stat. À ANGLE",
+   "TYPE_CODE": "PS1950"
+ },
+ {
+   "ID": 311950,
+   "DESCRIPTION": "Stat. 30 min 8h - 20h LUN-MER-VEN (fl. dr.)",
+   "TYPE_CODE": "PS1975"
+ },
+ {
+   "ID": 311951,
+   "DESCRIPTION": "Stat. 30 min 8h - 20h LUN-MER-VEN (fl. dou.)",
+   "TYPE_CODE": "PS1976"
+ },
+ {
+   "ID": 266134,
+   "DESCRIPTION": "Stat. 90 min 8h - 20h LUN À VEN (fl. ga.) ",
+   "TYPE_CODE": "PS1987"
+ },
+ {
+   "ID": 266133,
+   "DESCRIPTION": "Stat. 90 min 8h - 20h LUN À VEN (fl. dr.) ",
+   "TYPE_CODE": "PS1988"
+ },
+ {
+   "ID": 369359,
+   "DESCRIPTION": "Stat. 60 min 8h - 18h LUN À SAM (fl. ga.) ",
+   "TYPE_CODE": "PS2004"
+ },
+ {
+   "ID": 311881,
+   "DESCRIPTION": "Stat. 60 min 8h - 18h LUN À SAM (fl. dr.) ",
+   "TYPE_CODE": "PS2005"
+ },
+ {
+   "ID": 126908,
+   "DESCRIPTION": "Stat. 60 min 9h - 12h, 13h30 - 17h LUN À VEN (fl. ga.) EXCEPTÉ PERMIS ZONE 6  (gris)",
+   "TYPE_CODE": "PS2021"
+ },
+ {
+   "ID": 127147,
+   "DESCRIPTION": "Stat. 60 min 9h - 12h, 13h30 - 17h LUN À VEN (fl. dr.) EXCEPTÉ PERMIS ZONE 6  (gris)",
+   "TYPE_CODE": "PS2022"
+ },
+ {
+   "ID": 126900,
+   "DESCRIPTION": "Stat. 60 min 9h - 12h, 13h30 - 17h LUN À VEN (fl. dou.) EXCEPTÉ PERMIS ZONE 6  (gris)",
+   "TYPE_CODE": "PS2023"
+ },
+ {
+   "ID": 343543,
+   "DESCRIPTION": "Stat. 60 MIN 8h - 12h, 13h30 - 18h MAR-JEU (fl.ga.)",
+   "TYPE_CODE": "PS2024"
+ },
+ {
+   "ID": 343572,
+   "DESCRIPTION": "Stat. 60 MIN 8h - 12h, 13h30 - 18h MAR-JEU (fl. dou.)",
+   "TYPE_CODE": "PS2026"
+ },
+ {
+   "ID": 343565,
+   "DESCRIPTION": "Stat. 60 MIN 8h - 12h, 13h30 - 18h LUN-MER-VEN (fl. ga.)",
+   "TYPE_CODE": "PS2027"
+ },
+ {
+   "ID": 347219,
+   "DESCRIPTION": "Stat. 60 MIN 8h - 12h, 13h30 - 18h LUN-MER-VEN (fl. dr.)",
+   "TYPE_CODE": "PS2028"
+ },
+ {
+   "ID": 343560,
+   "DESCRIPTION": "Stat. 60 MIN 8h - 12h, 13h30 - 18h LUN-MER-VEN (fl.dou.)",
+   "TYPE_CODE": "PS2029"
+ },
+ {
+   "ID": 162890,
+   "DESCRIPTION": "Stat. 60 min 11h - 17h LUN À VEN (fl. ga.) ",
+   "TYPE_CODE": "PS2041"
+ },
+ {
+   "ID": 125427,
+   "DESCRIPTION": "Stat. 60 min 11h - 17h LUN À VEN (fl. dr.) ",
+   "TYPE_CODE": "PS2042"
+ },
+ {
+   "ID": 122926,
+   "DESCRIPTION": "Stat. 60 min 11h - 17h LUN À VEN (fl. dou.) ",
+   "TYPE_CODE": "PS2043"
+ },
+ {
+   "ID": 316067,
+   "DESCRIPTION": "Stat. 60 min 12h - 17h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PS2044"
+ },
+ {
+   "ID": 316072,
+   "DESCRIPTION": "Stat. 60 min 12h - 17h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PS2045"
+ },
+ {
+   "ID": 349639,
+   "DESCRIPTION": "Stat. 60 min 12h - 17h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PS2046"
+ },
+ {
+   "ID": 109539,
+   "DESCRIPTION": "Stat. 60 min 9h - 12h, 13h30 - 17h LUN À VEN (fl. ga.) EXCEPTÉ PERMIS ZONE 22 (orange)",
+   "TYPE_CODE": "PS2051"
+ },
+ {
+   "ID": 109648,
+   "DESCRIPTION": "Stat. 60 min 9h - 12h, 13h30 - 17h LUN À VEN (fl. dr.) EXCEPTÉ PERMIS ZONE 22 (orange)",
+   "TYPE_CODE": "PS2052"
+ },
+ {
+   "ID": 109534,
+   "DESCRIPTION": "Stat. 60 min 9h - 12h, 13h30 - 17h LUN À VEN (fl. dou.) EXCEPTÉ PERMIS ZONE 22 (orange)",
+   "TYPE_CODE": "PS2053"
+ },
+ {
+   "ID": 280986,
+   "DESCRIPTION": "Stat. 7h - 17h  LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PS2062"
+ },
+ {
+   "ID": 120547,
+   "DESCRIPTION": "Stat. 60 min 9h - 17h30 LUN À SAM, 17h30 - 21h JEU-VEN (fl. ga.) ",
+   "TYPE_CODE": "PS2101"
+ },
+ {
+   "ID": 120531,
+   "DESCRIPTION": "Stat. 60 min 9h - 17h30 LUN À SAM, 17h30 - 21h JEU-VEN (fl dr.) ",
+   "TYPE_CODE": "PS2102"
+ },
+ {
+   "ID": 120548,
+   "DESCRIPTION": "Stat. 60 min 9h - 17h30 LUN À SAM, 17h30 - 21h JEU-VEN (fl. dou.) ",
+   "TYPE_CODE": "PS2103"
+ },
+ {
+   "ID": 313729,
+   "DESCRIPTION": "Stat. 120 min 9h - 17h LUN À VEN (fl. ga.) ",
+   "TYPE_CODE": "PS2107"
+ },
+ {
+   "ID": 325591,
+   "DESCRIPTION": "Stat. 120 min 9h - 17h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PS2108"
+ },
+ {
+   "ID": 345255,
+   "DESCRIPTION": "Stat. 120 min 9h - 17h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PS2109"
+ },
+ {
+   "ID": 160129,
+   "DESCRIPTION": "Stat. 30 min (fl. ga.)",
+   "TYPE_CODE": "PS2111"
+ },
+ {
+   "ID": 160130,
+   "DESCRIPTION": "Stat. 30 min (fl. dr.)",
+   "TYPE_CODE": "PS2112"
+ },
+ {
+   "ID": 198242,
+   "DESCRIPTION": "Stat. 30 min (fl. dou.)",
+   "TYPE_CODE": "PS2113"
+ },
+ {
+   "ID": 257549,
+   "DESCRIPTION": "Stat. 30 min LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PS2114"
+ },
+ {
+   "ID": 257550,
+   "DESCRIPTION": "Stat. 30 min LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PS2115"
+ },
+ {
+   "ID": 115204,
+   "DESCRIPTION": "Stat. 60 min 9h - 17h LUN À VEN (fl. ga.) EXCEPTÉ PERMIS ZONE 23 (vert)",
+   "TYPE_CODE": "PS2121"
+ },
+ {
+   "ID": 114979,
+   "DESCRIPTION": "Stat. 60 min 9h - 17h LUN À VEN (fl. dr.) EXCEPTÉ PERMIS ZONE 23 (vert)",
+   "TYPE_CODE": "PS2122"
+ },
+ {
+   "ID": 114966,
+   "DESCRIPTION": "Stat. 60 min 9h - 17h LUN À VEN (fl. dou.) EXCEPTÉ PERMIS ZONE 23 (vert)",
+   "TYPE_CODE": "PS2123"
+ },
+ {
+   "ID": 358442,
+   "DESCRIPTION": "Stat. 60 min 9h - 21h LUN -MAR, JEU-VEN (fl. ga.)",
+   "TYPE_CODE": "PS2124"
+ },
+ {
+   "ID": 358440,
+   "DESCRIPTION": "Stat. 60 min 9h - 21h LUN -MAR, JEU-VEN (fl. dr.)",
+   "TYPE_CODE": "PS2125"
+ },
+ {
+   "ID": 133451,
+   "DESCRIPTION": "Stat. 15 min 9h - 17h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PS2141"
+ },
+ {
+   "ID": 312330,
+   "DESCRIPTION": "Stat. 15 min 9h - 17h LUN À VEN (fl dr.)",
+   "TYPE_CODE": "PS2142"
+ },
+ {
+   "ID": 319427,
+   "DESCRIPTION": "Stat. 15 min 7h - 17h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PS2144"
+ },
+ {
+   "ID": 319434,
+   "DESCRIPTION": "Stat. 15 min 7h - 17h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PS2145"
+ },
+ {
+   "ID": 329675,
+   "DESCRIPTION": "Stat. 15 min 7h - 17h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PS2146"
+ },
+ {
+   "ID": 119842,
+   "DESCRIPTION": "Stat. 60 min 9h - 17h LUN À VEN (fl. ga.) EXCEPTÉ PERMIS ZONE 12 (orange)",
+   "TYPE_CODE": "PS2151"
+ },
+ {
+   "ID": 120241,
+   "DESCRIPTION": "Stat. 60 min 9h - 17h LUN À VEN (fl. dr) EXCEPTÉ PERMIS ZONE 12 (orange)",
+   "TYPE_CODE": "PS2152"
+ },
+ {
+   "ID": 119835,
+   "DESCRIPTION": "Stat. 60 min 9h - 17h LUN À VEN (fl. dou.) EXCEPTÉ PERMIS ZONE 12 (orange)",
+   "TYPE_CODE": "PS2153"
+ },
+ {
+   "ID": 140022,
+   "DESCRIPTION": "Stat. 20 min 8h - 22h (fl. ga.)",
+   "TYPE_CODE": "PS2161"
+ },
+ {
+   "ID": 140021,
+   "DESCRIPTION": "Stat. 20 min 8h - 22h (fl. dr.)",
+   "TYPE_CODE": "PS2162"
+ },
+ {
+   "ID": 135892,
+   "DESCRIPTION": "Stat. 20 min 8h - 22h (fl. dou.)",
+   "TYPE_CODE": "PS2163"
+ },
+ {
+   "ID": 338937,
+   "DESCRIPTION": "Stat. 20 MIN 9h - 21h (fl. ga.)",
+   "TYPE_CODE": "PS2164"
+ },
+ {
+   "ID": 338936,
+   "DESCRIPTION": "Stat. 20 MIN 9h - 21h (fl. dr.)",
+   "TYPE_CODE": "PS2165"
+ },
+ {
+   "ID": 343977,
+   "DESCRIPTION": "Stat. 20 MIN 9h - 21h (fl. dou.)",
+   "TYPE_CODE": "PS2166"
+ },
+ {
+   "ID": 162902,
+   "DESCRIPTION": "Stat. 20 min 8h - 18h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PS2167"
+ },
+ {
+   "ID": 162903,
+   "DESCRIPTION": "Stat. 20 min 8h - 18h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PS2168"
+ },
+ {
+   "ID": 128356,
+   "DESCRIPTION": "Stat. 90 min 9h - 15h LUN À VEN (fl. ga.) EXCEPTÉ PERMIS ZONE 4 (brun)",
+   "TYPE_CODE": "PS2201"
+ },
+ {
+   "ID": 128344,
+   "DESCRIPTION": "Stat. 90 min 9h - 15h LUN À VEN (fl. dr.) EXCEPTÉ PERMIS ZONE 4 (brun)",
+   "TYPE_CODE": "PS2202"
+ },
+ {
+   "ID": 128352,
+   "DESCRIPTION": "Stat. 90 min 9h - 15h LUN À VEN (fl. dou.) EXCEPTÉ PERMIS ZONE 4 (brun)",
+   "TYPE_CODE": "PS2203"
+ },
+ {
+   "ID": 146078,
+   "DESCRIPTION": "Stat. 30M 9h-19h LUN à VEN (fl. dou.)",
+   "TYPE_CODE": "PS2209"
+ },
+ {
+   "ID": 128425,
+   "DESCRIPTION": "Stat. 30 min 9h - 15h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PS2211"
+ },
+ {
+   "ID": 113399,
+   "DESCRIPTION": "Stat. 30 min 9h - 15h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PS2212"
+ },
+ {
+   "ID": 128523,
+   "DESCRIPTION": "Stat. 30 min 9h - 15h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PS2213"
+ },
+ {
+   "ID": 323744,
+   "DESCRIPTION": "Stat. 60 min 7h - 17h LUN À VEN (fl.ga.)",
+   "TYPE_CODE": "PS2214"
+ },
+ {
+   "ID": 323743,
+   "DESCRIPTION": "Stat. 60 min 7h - 17h LUN À VEN (fl.dr.)",
+   "TYPE_CODE": "PS2215"
+ },
+ {
+   "ID": 332924,
+   "DESCRIPTION": "Stat. 60 min 8h - 18h (fl. ga.)",
+   "TYPE_CODE": "PS2217"
+ },
+ {
+   "ID": 332925,
+   "DESCRIPTION": "Stat. 60 min 8h - 18h (fl. dr.)",
+   "TYPE_CODE": "PS2218"
+ },
+ {
+   "ID": 303471,
+   "DESCRIPTION": "Stat. 15 min 8h - 16h LUN À VEN PÉRIODE SCOLAIRE (fl. ga.)",
+   "TYPE_CODE": "PS2224"
+ },
+ {
+   "ID": 301226,
+   "DESCRIPTION": "Stat. 15 min 8h - 16h LUN À VEN PÉRIODE SCOLAIRE (fl. dr.)",
+   "TYPE_CODE": "PS2225"
+ },
+ {
+   "ID": 301223,
+   "DESCRIPTION": "Stat. 15 min 8h - 16h LUN À VEN PÉRIODE SCOLAIRE (fl. dou.)",
+   "TYPE_CODE": "PS2226"
+ },
+ {
+   "ID": 119096,
+   "DESCRIPTION": "Stat. 60 min 9h - 17h LUN À VEN (fl. ga.) EXCEPTÉ PERMIS ZONE 14 (brun)",
+   "TYPE_CODE": "PS2231"
+ },
+ {
+   "ID": 118944,
+   "DESCRIPTION": "Stat. 60 min 9h - 17h LUN À VEN (fl. dr.) EXCEPTÉ PERMIS ZONE 14 (brun)",
+   "TYPE_CODE": "PS2232"
+ },
+ {
+   "ID": 118945,
+   "DESCRIPTION": "Stat. 60 min 9h - 17h LUN À VEN (fl. dou.) EXCEPTÉ PERMIS ZONE 14 (brun)",
+   "TYPE_CODE": "PS2233"
+ },
+ {
+   "ID": 362177,
+   "DESCRIPTION": "Stat. 30 min 6h - 21h (fl. ga.)",
+   "TYPE_CODE": "PS2261"
+ },
+ {
+   "ID": 326207,
+   "DESCRIPTION": "Stat. 30 min 6h - 21h (fl. dr.)",
+   "TYPE_CODE": "PS2262"
+ },
+ {
+   "ID": 338233,
+   "DESCRIPTION": "Stat. 30 min 8h - 23h (fl. ga.)",
+   "TYPE_CODE": "PS2264"
+ },
+ {
+   "ID": 311845,
+   "DESCRIPTION": "Stat. 30 min 8h - 23h (fl. dr.)",
+   "TYPE_CODE": "PS2265"
+ },
+ {
+   "ID": 311861,
+   "DESCRIPTION": "Stat. 120 min 8h - 23h (fl. ga.) ",
+   "TYPE_CODE": "PS2267"
+ },
+ {
+   "ID": 194446,
+   "DESCRIPTION": "Stat. 120 min 8h - 23h (fl. dr.)",
+   "TYPE_CODE": "PS2268"
+ },
+ {
+   "ID": 194445,
+   "DESCRIPTION": "Stat. 120 min 8h - 23h (fl. dou.)",
+   "TYPE_CODE": "PS2269"
+ },
+ {
+   "ID": 130045,
+   "DESCRIPTION": "Stat. 120 min 6h - 21h (fl. dou.)",
+   "TYPE_CODE": "PS2281"
+ },
+ {
+   "ID": 130038,
+   "DESCRIPTION": "Stat. 120 min 6h - 21h (fl. dr.)",
+   "TYPE_CODE": "PS2282"
+ },
+ {
+   "ID": 130040,
+   "DESCRIPTION": "Stat. 120 min 6h - 21h (fl. dou.)",
+   "TYPE_CODE": "PS2283"
+ },
+ {
+   "ID": 145844,
+   "DESCRIPTION": "Stat. 60 min 9h - 21h LUN À VEN (fl. ga.) ",
+   "TYPE_CODE": "PS2311"
+ },
+ {
+   "ID": 364599,
+   "DESCRIPTION": "Stat. 60 min 9h - 21h LUN À VEN (fl. dr.) ",
+   "TYPE_CODE": "PS2312"
+ },
+ {
+   "ID": 195627,
+   "DESCRIPTION": "Stat. 60 min 9h - 21h LUN À VEN (fl. dou.) ",
+   "TYPE_CODE": "PS2313"
+ },
+ {
+   "ID": 196295,
+   "DESCRIPTION": "Stat. 60 min 9h - 21h (fl. ga.) ",
+   "TYPE_CODE": "PS2314"
+ },
+ {
+   "ID": 196294,
+   "DESCRIPTION": "Stat. 60 min 9h - 21h (fl. dr.) ",
+   "TYPE_CODE": "PS2315"
+ },
+ {
+   "ID": 351532,
+   "DESCRIPTION": "Stat. 60 min 9h - 21h (fl. dou.) ",
+   "TYPE_CODE": "PS2316"
+ },
+ {
+   "ID": 309003,
+   "DESCRIPTION": "Stat. 60 min 9h - 20h (fl. ga.)",
+   "TYPE_CODE": "PS2317"
+ },
+ {
+   "ID": 309156,
+   "DESCRIPTION": "Stat. 60 min 9h - 20h (fl. dr.)",
+   "TYPE_CODE": "PS2318"
+ },
+ {
+   "ID": 308972,
+   "DESCRIPTION": "Stat. 60 min 9h - 20h (fl. dou.)",
+   "TYPE_CODE": "PS2319"
+ },
+ {
+   "ID": 317283,
+   "DESCRIPTION": "Stat. 90 min 9h - 19h LUN À VEN (fl.ga.)",
+   "TYPE_CODE": "PS2334"
+ },
+ {
+   "ID": 317289,
+   "DESCRIPTION": "Stat. 90 min 9h - 19h LUN À VEN (fl.dr.)",
+   "TYPE_CODE": "PS2335"
+ },
+ {
+   "ID": 317285,
+   "DESCRIPTION": "Stat. 90 min 9h - 19h LUN À VEN (fl.dou.)",
+   "TYPE_CODE": "PS2336"
+ },
+ {
+   "ID": 135166,
+   "DESCRIPTION": "Stat. int. 22h - 6h, stat. 90 min 9h - 22h LUN À VEN (fl. ga.) EXCEPTÉ PERMIS ZONE 9 (rouge)",
+   "TYPE_CODE": "PS2361"
+ },
+ {
+   "ID": 135165,
+   "DESCRIPTION": "Stat. int. 22h - 6h, stat. 90 min 9h - 22h LUN À VEN (fl. dr.) EXCEPTÉ PERMIS ZONE 9 (rouge)",
+   "TYPE_CODE": "PS2362"
+ },
+ {
+   "ID": 135164,
+   "DESCRIPTION": "Stat. int. 22h - 6h, stat. 90 min 9h - 22h LUN À VEN (fl. dou.) EXCEPTÉ PERMIS ZONE 9 (rouge)",
+   "TYPE_CODE": "PS2363"
+ },
+ {
+   "ID": 280548,
+   "DESCRIPTION": "Stat. int. 22h - 6h, stat. 90 min 9h - 22h (fl. ga.) EXCEPTÉ PERMIS ZONE 9 (rouge)",
+   "TYPE_CODE": "PS2364"
+ },
+ {
+   "ID": 280545,
+   "DESCRIPTION": "Stat. int. 22h - 6h, stat. 90 min 9h - 22h (fl. dou.) EXCEPTÉ PERMIS ZONE 9 (rouge)",
+   "TYPE_CODE": "PS2366"
+ },
+ {
+   "ID": 135325,
+   "DESCRIPTION": "Stat. 60 min 9h - 18h LUN À VEN (fl. ga.) EXCEPTÉ PERMIS ZONE 10 (bleu)",
+   "TYPE_CODE": "PS2371"
+ },
+ {
+   "ID": 135333,
+   "DESCRIPTION": "Stat. 60 min 9h - 18h LUN À VEN (fl. dr.) EXCEPTÉ PERMIS ZONE 10 (bleu)",
+   "TYPE_CODE": "PS2372"
+ },
+ {
+   "ID": 143761,
+   "DESCRIPTION": "Stat. 60 min 9h - 18h LUN À VEN (fl. dou.) EXCEPTÉ PERMIS ZONE 10 (bleu)",
+   "TYPE_CODE": "PS2373"
+ },
+ {
+   "ID": 348754,
+   "DESCRIPTION": "Stat. 60 MIN 7h-18h LUN à VEN (fl. Gauche)",
+   "TYPE_CODE": "PS2411"
+ },
+ {
+   "ID": 348761,
+   "DESCRIPTION": "Stat. 60 MIN 7h-18h LUN à VEN (fl. Droite)",
+   "TYPE_CODE": "PS2412"
+ },
+ {
+   "ID": 348755,
+   "DESCRIPTION": "Stat. 60 MIN 7h à 18h LUN à VEN (fl. Double).",
+   "TYPE_CODE": "PS2413"
+ },
+ {
+   "ID": 309371,
+   "DESCRIPTION": "Stat. 60 min 8h - 20h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PS2417"
+ },
+ {
+   "ID": 309373,
+   "DESCRIPTION": "Stat. 60 min 8h - 20h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PS2418"
+ },
+ {
+   "ID": 309382,
+   "DESCRIPTION": "Stat. 60 min 8h - 20h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PS2419"
+ },
+ {
+   "ID": 321175,
+   "DESCRIPTION": "Stat. 90 min 9h - 16h LUIN À VEN (fl. ga.)",
+   "TYPE_CODE": "PS2424"
+ },
+ {
+   "ID": 321178,
+   "DESCRIPTION": "Stat. 90 min 9h - 16h LUN À VEN (fl. dro.)",
+   "TYPE_CODE": "PS2425"
+ },
+ {
+   "ID": 321193,
+   "DESCRIPTION": "Stat. 90 min 9h - 16h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PS2426"
+ },
+ {
+   "ID": 140856,
+   "DESCRIPTION": "Stat. 90 min 9h - 15h LUN À VEN (fl. dou.) ",
+   "TYPE_CODE": "PS2433"
+ },
+ {
+   "ID": 311354,
+   "DESCRIPTION": "Stat. 90 min 9h - 21h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PS2434"
+ },
+ {
+   "ID": 311352,
+   "DESCRIPTION": "Stat. 90 min 9h - 21h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PS2435"
+ },
+ {
+   "ID": 311353,
+   "DESCRIPTION": "Stat. 90 min 9h - 21h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PS2436"
+ },
+ {
+   "ID": 153924,
+   "DESCRIPTION": "Stat. 20 min (fl. ga.)",
+   "TYPE_CODE": "PS2441"
+ },
+ {
+   "ID": 137540,
+   "DESCRIPTION": "Stat. 20 min (fl. dr.)",
+   "TYPE_CODE": "PS2442"
+ },
+ {
+   "ID": 140003,
+   "DESCRIPTION": "Stat. 20 min (fl. dou.)",
+   "TYPE_CODE": "PS2443"
+ },
+ {
+   "ID": 273331,
+   "DESCRIPTION": "Stat. 30 min 9h - 12h, 13h30 - 17h LUN À VEN (fl. ga.) EXCEPTÉ PREMIS ZONE 6  (gris)",
+   "TYPE_CODE": "PS2451"
+ },
+ {
+   "ID": 136981,
+   "DESCRIPTION": "Stat. 30 min 9h - 12h, 13h30 - 17h LUN À VEN (fl. dou.) EXCEPTÉ PERMIS ZONE 6 (gris)",
+   "TYPE_CODE": "PS2453"
+ },
+ {
+   "ID": 137646,
+   "DESCRIPTION": "Stat. 90 min 9h - 17h LUN À VEN (fl. ga.) EXCEPTÉ PERMIS ZONE 7 (jaune)",
+   "TYPE_CODE": "PS2481"
+ },
+ {
+   "ID": 137629,
+   "DESCRIPTION": "Stat. 90 min 9h - 17h LUN À VEN (fl. dr.) EXCEPTÉ PERMIS ZONE 7 (jaune)",
+   "TYPE_CODE": "PS2482"
+ },
+ {
+   "ID": 137631,
+   "DESCRIPTION": "Stat. 90 min 9h - 17h LUN À VEN  (fl. dou.) EXCEPTÉ PERMIS ZONE 7 (jaune)",
+   "TYPE_CODE": "PS2483"
+ },
+ {
+   "ID": 137710,
+   "DESCRIPTION": "Stat. 90 min 9h - 15h LUN À VEN (fl. ga.) EXCEPTÉ PERMIS ZONE 7 (jaune)",
+   "TYPE_CODE": "PS2491"
+ },
+ {
+   "ID": 137707,
+   "DESCRIPTION": "Stat. 90 min 9h - 15h LUN À VEN (fl. dr.) EXCEPTÉ PERMIS ZONE 7 (jaune)",
+   "TYPE_CODE": "PS2492"
+ },
+ {
+   "ID": 137708,
+   "DESCRIPTION": "Stat. 90 min 9h - 15h LUN À VEN (fl. dou.) EXCEPTÉ PERMIS ZONE 7 (jaune)",
+   "TYPE_CODE": "PS2493"
+ },
+ {
+   "ID": 325521,
+   "DESCRIPTION": "STAT.INT. 90AMIN. 9H-17H lun-ven (fl.doub.) EXCEPTÉ PERMIS ZONE 16( NOIR)",
+   "TYPE_CODE": "PS2499"
+ },
+ {
+   "ID": 138367,
+   "DESCRIPTION": "Stat. 60 min 9h - 18h LUN À VEN (fl. ga.) ",
+   "TYPE_CODE": "PS2511"
+ },
+ {
+   "ID": 138444,
+   "DESCRIPTION": "Stat. 60 min 9h - 18h LUN À VEN (fl. dr.) ",
+   "TYPE_CODE": "PS2512"
+ },
+ {
+   "ID": 176458,
+   "DESCRIPTION": "Stat. 60 min 9h - 18h LUN À VEN (fl. dou.) ",
+   "TYPE_CODE": "PS2513"
+ },
+ {
+   "ID": 225350,
+   "DESCRIPTION": "Stat. 60 min 8h - 18h LUN À VEN (fl. ga.) ",
+   "TYPE_CODE": "PS2514"
+ },
+ {
+   "ID": 191953,
+   "DESCRIPTION": "Stat. 60 min 8h - 18h LUN À VEN (fl. dr.) ",
+   "TYPE_CODE": "PS2515"
+ },
+ {
+   "ID": 192822,
+   "DESCRIPTION": "Stat. 60 min 8h - 18h LUN À VEN (fl. dou.) ",
+   "TYPE_CODE": "PS2516"
+ },
+ {
+   "ID": 254438,
+   "DESCRIPTION": "Stat. 60 min 8h - 16h LUN À VEN (fl. ga.) ",
+   "TYPE_CODE": "PS2517"
+ },
+ {
+   "ID": 209611,
+   "DESCRIPTION": "Stat. 60 min 8h - 16h LUN À VEN (fl. dr.) ",
+   "TYPE_CODE": "PS2518"
+ },
+ {
+   "ID": 260957,
+   "DESCRIPTION": "Stat. 60 min 8h - 16h LUN À VEN (fl. dou.) ",
+   "TYPE_CODE": "PS2519"
+ },
+ {
+   "ID": 138481,
+   "DESCRIPTION": "Stat. 60 min 9h - 21h LUN À VEN (fl. ga.) EXCEPTÉ PERMIS ZONE 21 (bleu)",
+   "TYPE_CODE": "PS2521"
+ },
+ {
+   "ID": 138484,
+   "DESCRIPTION": "Stat. 60 min 9h - 21h LUN À VEN (fl. dr.) EXCEPTÉ PERMIS ZONE 21 (bleu)",
+   "TYPE_CODE": "PS2522"
+ },
+ {
+   "ID": 138483,
+   "DESCRIPTION": "Stat. 60 min 9h - 21h LUN À VEN (fl. dou.) EXCEPTÉ PERMIS ZONE 21(bleu)",
+   "TYPE_CODE": "PS2523"
+ },
+ {
+   "ID": 309351,
+   "DESCRIPTION": "Stat. 60 min 8h - 20h LUN-MER-VEN (fl. ga.)",
+   "TYPE_CODE": "PS2524"
+ },
+ {
+   "ID": 309380,
+   "DESCRIPTION": "Stat. 60 min 8h - 20h LUN-MER-VEN (fl. dr.)",
+   "TYPE_CODE": "PS2525"
+ },
+ {
+   "ID": 309250,
+   "DESCRIPTION": "Stat. 60 min 8h - 20h LUN-MER-VEN (fl. dou.)",
+   "TYPE_CODE": "PS2526"
+ },
+ {
+   "ID": 309400,
+   "DESCRIPTION": "Stat. 60 min 8h - 20h MAR-JEU (fl. ga.)",
+   "TYPE_CODE": "PS2527"
+ },
+ {
+   "ID": 309352,
+   "DESCRIPTION": "Stat. 60 min 8h - 20h MAR-JEU (fl. dr.)",
+   "TYPE_CODE": "PS2528"
+ },
+ {
+   "ID": 308949,
+   "DESCRIPTION": "Stat. 60 min 8h - 20h MAR-JEU (fl. dou.)",
+   "TYPE_CODE": "PS2529"
+ },
+ {
+   "ID": 138592,
+   "DESCRIPTION": "Stat. 90 min 9h - 18h LUN À VEN (fl. ga.) ",
+   "TYPE_CODE": "PS2531"
+ },
+ {
+   "ID": 138552,
+   "DESCRIPTION": "Stat. 90 min 9h - 18h LUN À VEN (fl. dr.) ",
+   "TYPE_CODE": "PS2532"
+ },
+ {
+   "ID": 138554,
+   "DESCRIPTION": "Stat. 90 min 9h - 18h LUN À VEN (fl. dou.) ",
+   "TYPE_CODE": "PS2533"
+ },
+ {
+   "ID": 315285,
+   "DESCRIPTION": "Stat. 90 min 8h - 18h (fl. ga.)",
+   "TYPE_CODE": "PS2534"
+ },
+ {
+   "ID": 326516,
+   "DESCRIPTION": "Stat. 90 min 8h - 18h (fl. dr.)",
+   "TYPE_CODE": "PS2535"
+ },
+ {
+   "ID": 315287,
+   "DESCRIPTION": "Stat. 90 min 8h - 18h (fl. dou.)",
+   "TYPE_CODE": "PS2536"
+ },
+ {
+   "ID": 138261,
+   "DESCRIPTION": "Stat. 30 min 9h - 18h LUN À VEN (fl. ga.) EXCEPTÉ PERMIS ZONE 10 (bleu)",
+   "TYPE_CODE": "PS2541"
+ },
+ {
+   "ID": 138263,
+   "DESCRIPTION": "Stat. 30 min 9h - 18h LUN À VEN (fl. dr.) EXCEPTÉ PERMIS ZONE 10 (bleu)",
+   "TYPE_CODE": "PS2542"
+ },
+ {
+   "ID": 138271,
+   "DESCRIPTION": "Stat. 30 min 9h - 18h LUN À VEN (fl. dou.) EXCEPTÉ PERMIS ZONE 10 (bleu)",
+   "TYPE_CODE": "PS2543"
+ },
+ {
+   "ID": 226892,
+   "DESCRIPTION": "Stat. 10 min 7h - 18h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PS2551"
+ },
+ {
+   "ID": 226893,
+   "DESCRIPTION": "Stat. 10 min 7h - 18h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PS2552"
+ },
+ {
+   "ID": 341744,
+   "DESCRIPTION": "Stat. 10 min 7h - 18h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PS2553"
+ },
+ {
+   "ID": 139433,
+   "DESCRIPTION": "Stat. 60 min 9h - 12h, 13h30 - 17h LUN À VEN (fl. ga.) EXCEPTÉ PERMIS ZONE 31 (bleu)",
+   "TYPE_CODE": "PS2571"
+ },
+ {
+   "ID": 139432,
+   "DESCRIPTION": "Stat. 60 min 9h - 12h, 13h30 - 17h LUN À VEN (fl. dr.) EXCEPTÉ PERMIS ZONE 31 (bleu)",
+   "TYPE_CODE": "PS2572"
+ },
+ {
+   "ID": 139393,
+   "DESCRIPTION": "Stat. 60 min 9h - 12h, 13h30 - 17h LUN À VEN (fl. dou.) EXCEPTÉ PERMIS ZONE 31 (bleu)",
+   "TYPE_CODE": "PS2573"
+ },
+ {
+   "ID": 143324,
+   "DESCRIPTION": "Stat. 60 min 9h - 17h LUN À VEN (fl. ga.) EXCEPTÉ PERMIS ZONE 24 (brun)",
+   "TYPE_CODE": "PS2591"
+ },
+ {
+   "ID": 143330,
+   "DESCRIPTION": "Stat. 60 min 9h - 17h LUN À VEN (fl. dr.) EXCEPTÉ PERMIS ZONE 24 (brun)",
+   "TYPE_CODE": "PS2592"
+ },
+ {
+   "ID": 143325,
+   "DESCRIPTION": "Stat. 60 min 9h - 17h LUN À VEN (fl. dou.) EXCEPTÉ PERMIS ZONE 24  (brun)",
+   "TYPE_CODE": "PS2593"
+ },
+ {
+   "ID": 316556,
+   "DESCRIPTION": "Stat. 60 min 8h - 17h LUN À VEN (fl. ga.) ",
+   "TYPE_CODE": "PS2614"
+ },
+ {
+   "ID": 316555,
+   "DESCRIPTION": "Stat. 60 min 8h - 17h LUN À VEN (fl. dr.) ",
+   "TYPE_CODE": "PS2615"
+ },
+ {
+   "ID": 271398,
+   "DESCRIPTION": "Stat. 60 min 8h - 17h LUN À VEN (fl. dou.) ",
+   "TYPE_CODE": "PS2616"
+ },
+ {
+   "ID": 193019,
+   "DESCRIPTION": "Stat. 15 min (fl. ga.)",
+   "TYPE_CODE": "PS2621"
+ },
+ {
+   "ID": 204174,
+   "DESCRIPTION": "Stat. 15 min (fl. dr.)",
+   "TYPE_CODE": "PS2622"
+ },
+ {
+   "ID": 193018,
+   "DESCRIPTION": "Stat. 15 min (fl. dou.)",
+   "TYPE_CODE": "PS2623"
+ },
+ {
+   "ID": 278616,
+   "DESCRIPTION": "Stat. 60 min 8h - 18h LUN-MER-VEN-DIM (fl. ga.)",
+   "TYPE_CODE": "PS2624"
+ },
+ {
+   "ID": 278615,
+   "DESCRIPTION": "Stat. 60 min 8h - 18h LUN-MER-VEN-DIM (fl. dou.)",
+   "TYPE_CODE": "PS2626"
+ },
+ {
+   "ID": 278618,
+   "DESCRIPTION": "Stat. 60 min 8h - 18h MAR-JEU-SAM (fl. dr.)",
+   "TYPE_CODE": "PS2628"
+ },
+ {
+   "ID": 278619,
+   "DESCRIPTION": "Stat. 60 min 8h - 18h MAR-JEU-SAM (fl. dou.)",
+   "TYPE_CODE": "PS2629"
+ },
+ {
+   "ID": 259478,
+   "DESCRIPTION": "Stat. 90 min LUN À VEN (fl. ga.) ",
+   "TYPE_CODE": "PS2634"
+ },
+ {
+   "ID": 364503,
+   "DESCRIPTION": "Stat. 90 min LUN À VEN (fl. dr.) ",
+   "TYPE_CODE": "PS2635"
+ },
+ {
+   "ID": 349432,
+   "DESCRIPTION": "Stat. 10 min 8h - 20h (fl. ga.)",
+   "TYPE_CODE": "PS2641"
+ },
+ {
+   "ID": 140228,
+   "DESCRIPTION": "Stat. 10 min 8h - 20h (fl. dr.)",
+   "TYPE_CODE": "PS2642"
+ },
+ {
+   "ID": 278130,
+   "DESCRIPTION": "Stat. 10 min 8h - 20h (fl. dou.)",
+   "TYPE_CODE": "PS2643"
+ },
+ {
+   "ID": 309934,
+   "DESCRIPTION": "Stat. 60 min 9h - 12h, 13h30 - 17h LUN À VEN (fl. ga.) EXCEPTÉ PERMIS ZONE 5 (violet)",
+   "TYPE_CODE": "PS2651"
+ },
+ {
+   "ID": 313702,
+   "DESCRIPTION": "Stat. 60 min 9h - 12h, 13h30 - 17h LUN À VEN  (fl. dr.) EXCEPTÉ PERMIS ZONE 5 (violet)",
+   "TYPE_CODE": "PS2652"
+ },
+ {
+   "ID": 303505,
+   "DESCRIPTION": "Stat. 60 min 9h - 12h, 13h30 - 17h LUN À VEN (fl. dou.) EXCEPTÉ PERMIS ZONE 5 (violet)",
+   "TYPE_CODE": "PS2653"
+ },
+ {
+   "ID": 140769,
+   "DESCRIPTION": "Stat. 60 min 9h - 17h (fl. ga.) EXCEPTÉ PERMIS ZONE 25  (violet)",
+   "TYPE_CODE": "PS2661"
+ },
+ {
+   "ID": 140759,
+   "DESCRIPTION": "Stat. 60 min 9h - 21h (fl. dr.) EXCEPTÉ PERMIS ZONE 25  (violet)",
+   "TYPE_CODE": "PS2662"
+ },
+ {
+   "ID": 140757,
+   "DESCRIPTION": "Stat. 60 min 9h - 21h (fl. dou.) EXCEPTÉ PERMIS ZONE 25 (violet)",
+   "TYPE_CODE": "PS2663"
+ },
+ {
+   "ID": 140859,
+   "DESCRIPTION": "Stat. 90 min 9h - 17h LUN À VEN (fl. ga.) EXCEPTÉ PERMIS ZONE 3 (vert)",
+   "TYPE_CODE": "PS2671"
+ },
+ {
+   "ID": 140858,
+   "DESCRIPTION": "Stat. 90 min 9h - 17h LUN À VEN (fl. dr.) EXCEPTÉ PERMIS ZONE 3 (vert)",
+   "TYPE_CODE": "PS2672"
+ },
+ {
+   "ID": 140864,
+   "DESCRIPTION": "Stat. 90 min 9h - 17h LUN À VEN (fl. dou.) EXCEPTÉ PERMIS ZONE 3 (vert)",
+   "TYPE_CODE": "PS2673"
+ },
+ {
+   "ID": 140962,
+   "DESCRIPTION": "Stat. 90 min 9h - 15h LUN À VEN (fl. ga.) EXCEPTÉ PERMIS ZONE 3 (vert)",
+   "TYPE_CODE": "PS2681"
+ },
+ {
+   "ID": 140948,
+   "DESCRIPTION": "Stat. 90 min 9h - 15h LUN À VEN (fl. dr.) EXCEPTÉ PERMIS ZONE 3 (vert)",
+   "TYPE_CODE": "PS2682"
+ },
+ {
+   "ID": 140949,
+   "DESCRIPTION": "Stat. 90 min 9h - 15h LUN À VEN (fl. dou.) EXCEPTÉ PERMIS ZONE 3 (vert)",
+   "TYPE_CODE": "PS2683"
+ },
+ {
+   "ID": 142214,
+   "DESCRIPTION": "Stat. 60 min 9h - 17h LUN À VEN (fl. ga.) EXCEPTÉ PERMIS ZONE 26  (gris)",
+   "TYPE_CODE": "PS2691"
+ },
+ {
+   "ID": 142209,
+   "DESCRIPTION": "Stat. 60 min 9h - 17h LUN À VEN (fl. dr.) EXCEPTÉ PERMIS ZONE 26 (gris)",
+   "TYPE_CODE": "PS2692"
+ },
+ {
+   "ID": 142213,
+   "DESCRIPTION": "Stat. 60 min 9h - 17h LUN À VEN (fl. dou.) EXCEPTÉ PERMIS ZONE 26 (gris)",
+   "TYPE_CODE": "PS2693"
+ },
+ {
+   "ID": 142263,
+   "DESCRIPTION": "Stat. 60 min 9h - 18h LUN À VEN (fl. ga.) EXCEPTÉ PERMIS ZONE 27 (jaune)",
+   "TYPE_CODE": "PS2701"
+ },
+ {
+   "ID": 142292,
+   "DESCRIPTION": "Stat. 60 min 9h - 18h LUN À VEN (fl. dr.) EXCEPTÉ PERMIS ZONE 27 (jaune)",
+   "TYPE_CODE": "PS2702"
+ },
+ {
+   "ID": 142244,
+   "DESCRIPTION": "Stat. 60 min 9h - 18h LUN À VEN (fl. dou.) EXCEPTÉ PERMIS ZONE 27 (jaune)",
+   "TYPE_CODE": "PS2703"
+ },
+ {
+   "ID": 143411,
+   "DESCRIPTION": "Stat. 60 min 9h - 12h, 13h30 - 17h LUN À VEN (fl. ga.) EXCEPTÉ VÉH. ZONE 25 (violet)",
+   "TYPE_CODE": "PS2711"
+ },
+ {
+   "ID": 143413,
+   "DESCRIPTION": "Stat. 60 min 9h - 12h, 13h30 - 17h LUN À VEN (fl. dr.) EXCEPTÉ PERMIS ZONE 25 (violet)",
+   "TYPE_CODE": "PS2712"
+ },
+ {
+   "ID": 143403,
+   "DESCRIPTION": "Stat. 60 min 9h - 12h, 13h30 - 17h LUN À VEN (fl. dou.) EXCEPTÉ PERMIS ZONE 25 (violet)",
+   "TYPE_CODE": "PS2713"
+ },
+ {
+   "ID": 300809,
+   "DESCRIPTION": "Stat. 60 min 9h - 19h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PS2714"
+ },
+ {
+   "ID": 300806,
+   "DESCRIPTION": "Stat. 60 min 9h - 19h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PS2715"
+ },
+ {
+   "ID": 300811,
+   "DESCRIPTION": "Stat. 60 min 9h - 19h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PS2716"
+ },
+ {
+   "ID": 146037,
+   "DESCRIPTION": "Stat. 60 min 9h - 15h LUN À VEN (fl. ga.) ",
+   "TYPE_CODE": "PS2721"
+ },
+ {
+   "ID": 211210,
+   "DESCRIPTION": "Stat. 60 min 9h - 15h LUN À VEN (fl. dr.) ",
+   "TYPE_CODE": "PS2722"
+ },
+ {
+   "ID": 146038,
+   "DESCRIPTION": "Stat. 60 min 9h - 15h LUN À VEN (fl. dou.) ",
+   "TYPE_CODE": "PS2723"
+ },
+ {
+   "ID": 306737,
+   "DESCRIPTION": "Stat. 60 min 8h - 18h LUN-MER-VEN (fl. ga.) ",
+   "TYPE_CODE": "PS2724"
+ },
+ {
+   "ID": 306694,
+   "DESCRIPTION": "Stat. 60 min 8h - 18h LUN-MER-VEN (fl. dr.) ",
+   "TYPE_CODE": "PS2725"
+ },
+ {
+   "ID": 256502,
+   "DESCRIPTION": "Stat. 60 min 8h - 18h LUN-MER-VEN (fl. dou.) ",
+   "TYPE_CODE": "PS2726"
+ },
+ {
+   "ID": 263176,
+   "DESCRIPTION": "Stat. 60 min 8h - 18h MAR-JEU (fl. ga.) ",
+   "TYPE_CODE": "PS2727"
+ },
+ {
+   "ID": 306740,
+   "DESCRIPTION": "Stat. 60 min 8h - 18h MAR-JEU (fl. dr.) ",
+   "TYPE_CODE": "PS2728"
+ },
+ {
+   "ID": 256959,
+   "DESCRIPTION": "Stat. 60 min 8h - 18h MAR-JEU (fl. dou.) ",
+   "TYPE_CODE": "PS2729"
+ },
+ {
+   "ID": 146056,
+   "DESCRIPTION": "Stat. 60 min 9h - 19h LUN À VEN (fl. ga.) EXCEPTÉ PERMIS ZONE 2 (orange)",
+   "TYPE_CODE": "PS2731"
+ },
+ {
+   "ID": 146055,
+   "DESCRIPTION": "Stat. 60 min 9h - 19h LUN À VEN (fl. dr.) EXCEPTÉ PERMIS ZONE 2 (orange)",
+   "TYPE_CODE": "PS2732"
+ },
+ {
+   "ID": 146053,
+   "DESCRIPTION": "Stat. 60 min 9h - 19h LUN À VEN (fl. dou.) EXCEPTÉ PERMIS ZONE 2 (orange)",
+   "TYPE_CODE": "PS2733"
+ },
+ {
+   "ID": 151527,
+   "DESCRIPTION": "Stat. 60 min 9h - 17h LUN À VEN (fl. ga.) EXCEPTÉ PERMIS ZONE 13 (vert)",
+   "TYPE_CODE": "PS2751"
+ },
+ {
+   "ID": 357313,
+   "DESCRIPTION": "Stat. 60 min 9h - 17h LUN À VEN (fl. dr.) EXCEPTÉ PERMIS ZONE 13 (vert)",
+   "TYPE_CODE": "PS2752"
+ },
+ {
+   "ID": 151525,
+   "DESCRIPTION": "Stat. 60 min 9h - 17h LUN À VEN (fl. dou.) EXCEPTÉ PERMIS ZONE 13 (vert)",
+   "TYPE_CODE": "PS2753"
+ },
+ {
+   "ID": 147787,
+   "DESCRIPTION": "Stat. 60 min 9h - 19h (fl. ga.) EXCEPTÉ PERMIS ZONE 15 (violet)",
+   "TYPE_CODE": "PS2761"
+ },
+ {
+   "ID": 147779,
+   "DESCRIPTION": "Stat. 60 min 9h - 19h (fl. dr.) EXCEPTÉ PERMIS ZONE 15 (violet)",
+   "TYPE_CODE": "PS2762"
+ },
+ {
+   "ID": 147780,
+   "DESCRIPTION": "Stat. 60 min 9h - 19h (fl. dou.) EXCEPTÉ PERMIS ZONE 15 (violet)",
+   "TYPE_CODE": "PS2763"
+ },
+ {
+   "ID": 338149,
+   "DESCRIPTION": "Stat. 10 MIN 8h - 18h MAR à SAM (fl. ga.)",
+   "TYPE_CODE": "PS2767"
+ },
+ {
+   "ID": 173423,
+   "DESCRIPTION": "Stat. 120 min 8h - 16h LUN-MER-VEN (fl. ga.) ",
+   "TYPE_CODE": "PS2801"
+ },
+ {
+   "ID": 173464,
+   "DESCRIPTION": "Stat. 120 min 8h - 16h LUN-MER-VEN (fl. dr.)",
+   "TYPE_CODE": "PS2802"
+ },
+ {
+   "ID": 173427,
+   "DESCRIPTION": "Stat. 120 min 8h - 16h LUN-MER-VEN (fl. dou.)",
+   "TYPE_CODE": "PS2803"
+ },
+ {
+   "ID": 274430,
+   "DESCRIPTION": "Stat. 120 min LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PS2806"
+ },
+ {
+   "ID": 356852,
+   "DESCRIPTION": "Stat. 10 min 9h - 15h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PS2811"
+ },
+ {
+   "ID": 356853,
+   "DESCRIPTION": "Stat. 10 min 9h - 15h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PS2812"
+ },
+ {
+   "ID": 278789,
+   "DESCRIPTION": "Stat. 10 min 9h - 15h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PS2813"
+ },
+ {
+   "ID": 329556,
+   "DESCRIPTION": "Stat. 60 min 8h - 21h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PS2816"
+ },
+ {
+   "ID": 173901,
+   "DESCRIPTION": "Stat. 120 min 8h - 20h MAR-JEU-SAM (fl. ga.) ",
+   "TYPE_CODE": "PS2821"
+ },
+ {
+   "ID": 173898,
+   "DESCRIPTION": "Stat. 120 min 8h - 20h MAR-JEU-SAM (fl. dr.)",
+   "TYPE_CODE": "PS2822"
+ },
+ {
+   "ID": 173967,
+   "DESCRIPTION": "Stat. 120 min 8h - 20h MAR-JEU-SAM (fl. dou.)",
+   "TYPE_CODE": "PS2823"
+ },
+ {
+   "ID": 353975,
+   "DESCRIPTION": "Stat. 60 min 9h - 16h LUN À VEN (fl. ga.) ",
+   "TYPE_CODE": "PS2824"
+ },
+ {
+   "ID": 353977,
+   "DESCRIPTION": "Stat. 60 min 9h - 16h LUN À VEN (fl. dr.) ",
+   "TYPE_CODE": "PS2825"
+ },
+ {
+   "ID": 353978,
+   "DESCRIPTION": "Stat. 60 min 9h - 16h LUN À VEN (fl. dou.) ",
+   "TYPE_CODE": "PS2826"
+ },
+ {
+   "ID": 187222,
+   "DESCRIPTION": "Stat. 120 min 8h - 16h MAR-JEU-SAM (fl. dr.)",
+   "TYPE_CODE": "PS2832"
+ },
+ {
+   "ID": 187224,
+   "DESCRIPTION": "Stat. 120 min 8h - 16h MAR-JEU-SAM (fl. dou.)",
+   "TYPE_CODE": "PS2833"
+ },
+ {
+   "ID": 173418,
+   "DESCRIPTION": "Stat. 120 min 8h - 16h MAR-JEU (fl. ga.) ",
+   "TYPE_CODE": "PS2851"
+ },
+ {
+   "ID": 163734,
+   "DESCRIPTION": "Stat. 120 min 8h - 16h MAR-JEU (fl. dr.)",
+   "TYPE_CODE": "PS2852"
+ },
+ {
+   "ID": 163736,
+   "DESCRIPTION": "Stat. 120 min 8h - 16h MAR-JEU (fl. dou.)",
+   "TYPE_CODE": "PS2853"
+ },
+ {
+   "ID": 249341,
+   "DESCRIPTION": "Stat. 20 min 8h - 16h LUN À VEN PÉRIODE SCOLAIRE (fl. ga.)",
+   "TYPE_CODE": "PS2861"
+ },
+ {
+   "ID": 321321,
+   "DESCRIPTION": "Stat. 20 min 8h - 16h LUN À VEN PÉRIODE SCOLAIRE (fl. dr.)",
+   "TYPE_CODE": "PS2862"
+ },
+ {
+   "ID": 204724,
+   "DESCRIPTION": "Stat. 20 min 8h - 16h LUN À VEN PÉRIODE SCOLAIRE (fl. dou.)",
+   "TYPE_CODE": "PS2863"
+ },
+ {
+   "ID": 277575,
+   "DESCRIPTION": "Stat. 20 min 7h - 16h LUN À VEN PÉRIODE SCOLAIRE (fl. ga.)",
+   "TYPE_CODE": "PS2864"
+ },
+ {
+   "ID": 277574,
+   "DESCRIPTION": "Stat. 20 min 7h - 16h LUN À VEN PÉRIODE SCOLAIRE (fl. dr.)",
+   "TYPE_CODE": "PS2865"
+ },
+ {
+   "ID": 328098,
+   "DESCRIPTION": "Stat. 20 min 7h - 16h LUN À VEN PÉRIODE SCOLAIRE (fl. dou.)",
+   "TYPE_CODE": "PS2866"
+ },
+ {
+   "ID": 342294,
+   "DESCRIPTION": "Stat. 10 MIN 7h - 17h LUN à VEN PÉRIODE SCOLAIRE (fl.ga.)",
+   "TYPE_CODE": "PS2867"
+ },
+ {
+   "ID": 342289,
+   "DESCRIPTION": "Stat. 10 MIN 7h - 17h LUN à VEN PÉRIODE SCOLAIRE (fl. dr.)",
+   "TYPE_CODE": "PS2868"
+ },
+ {
+   "ID": 342291,
+   "DESCRIPTION": "Stat. 10 MIN 7h - 17h LUN à VEN PÉRIODE SCOLAIRE (fl. dou.)",
+   "TYPE_CODE": "PS2869"
+ },
+ {
+   "ID": 259745,
+   "DESCRIPTION": "Stat. 30 min 8h - 20h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PS2871"
+ },
+ {
+   "ID": 260199,
+   "DESCRIPTION": "Stat. 30 min 8h - 20h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PS2872"
+ },
+ {
+   "ID": 182033,
+   "DESCRIPTION": "Stat. 30 min 8h - 12h, 13h30 - 21h (fl. ga.)",
+   "TYPE_CODE": "PS2874"
+ },
+ {
+   "ID": 351066,
+   "DESCRIPTION": "Stat. 30 min 8h - 12h, 13h30 - 21h (fl. dr.)",
+   "TYPE_CODE": "PS2875"
+ },
+ {
+   "ID": 177859,
+   "DESCRIPTION": "Stat. 120 min 8h - 20h LUN-MER-VEN (fl. ga.) ",
+   "TYPE_CODE": "PS2911"
+ },
+ {
+   "ID": 177635,
+   "DESCRIPTION": "Stat. 120 min 8h - 20h LUN-MER-VEN (fl. dr.)",
+   "TYPE_CODE": "PS2912"
+ },
+ {
+   "ID": 177620,
+   "DESCRIPTION": "Stat. 120 min 8h - 20h LUN-MER-VEN (fl. dou.)",
+   "TYPE_CODE": "PS2913"
+ },
+ {
+   "ID": 177632,
+   "DESCRIPTION": "Stat. 120 min 8h - 18h LUN-MER-VEN (fl. ga.) ",
+   "TYPE_CODE": "PS2914"
+ },
+ {
+   "ID": 177631,
+   "DESCRIPTION": "Stat. 120 min 8h - 18h LUN-MER-VEN (fl. dr.)",
+   "TYPE_CODE": "PS2915"
+ },
+ {
+   "ID": 177628,
+   "DESCRIPTION": "Stat. 120 min 8h - 18h LUN-MER-VEN (fl. dou.)",
+   "TYPE_CODE": "PS2916"
+ },
+ {
+   "ID": 306356,
+   "DESCRIPTION": "Stat. 60 min 8h - 20h (fl. dou.)",
+   "TYPE_CODE": "PS2926"
+ },
+ {
+   "ID": 363970,
+   "DESCRIPTION": "Stat. 120 min 8h - 20h MAR-JEU (fl. dou.)",
+   "TYPE_CODE": "PS2963"
+ },
+ {
+   "ID": 191995,
+   "DESCRIPTION": "Stat. 120 min 9h - 17h DANS CETTE RUE (recto / verso)",
+   "TYPE_CODE": "PS2964"
+ },
+ {
+   "ID": 357781,
+   "DESCRIPTION": "Stat. 60 min 9h - 14h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PS3024"
+ },
+ {
+   "ID": 306040,
+   "DESCRIPTION": "Stat. 60 min 9h - 14h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PS3026"
+ },
+ {
+   "ID": 309487,
+   "DESCRIPTION": "Stat. aux BUS 60 min (fl. ga.)",
+   "TYPE_CODE": "PS3027"
+ },
+ {
+   "ID": 309485,
+   "DESCRIPTION": "Stat. aux BUS 60 min (fl.dr.)",
+   "TYPE_CODE": "PS3028"
+ },
+ {
+   "ID": 309486,
+   "DESCRIPTION": "Stat. aux BUS 60 min (fl. dou.)",
+   "TYPE_CODE": "PS3029"
+ },
+ {
+   "ID": 350466,
+   "DESCRIPTION": "Stat. 120 min 8h - 16h LUN-MER-VEN PÉRIODE SCOLAIRE (fl. dou.)",
+   "TYPE_CODE": "PS3033"
+ },
+ {
+   "ID": 179139,
+   "DESCRIPTION": "Stat. 120 min 8h - 18h MAR-JEU (fl. ga.) ",
+   "TYPE_CODE": "PS3061"
+ },
+ {
+   "ID": 189219,
+   "DESCRIPTION": "Stat. 120 min 8h - 18h MAR-JEU (fl. dr.)",
+   "TYPE_CODE": "PS3062"
+ },
+ {
+   "ID": 189229,
+   "DESCRIPTION": "Stat. 120 min 8h - 18h MAR-JEU (fl. dou.)",
+   "TYPE_CODE": "PS3063"
+ },
+ {
+   "ID": 316500,
+   "DESCRIPTION": "Stat. 20 min 7h30 - 16h LUN À VEN PÉRIODE SCOLAIRE (fl. ga.) ",
+   "TYPE_CODE": "PS3064"
+ },
+ {
+   "ID": 316502,
+   "DESCRIPTION": "Stat. 20 min 7h30 - 16h LUN À VEN PÉRIODE SCOLAIRE (fl. dr.)",
+   "TYPE_CODE": "PS3065"
+ },
+ {
+   "ID": 317750,
+   "DESCRIPTION": "Stat. 20 min 7h30 - 16h LUN À VEN PÉRIODE SCOLAIRE (fl. dou.) ",
+   "TYPE_CODE": "PS3066"
+ },
+ {
+   "ID": 350470,
+   "DESCRIPTION": "Stat. 120 min 8h - 16h MAR-JEU PÉRIODE SCOLAIRE (fl. dou.)",
+   "TYPE_CODE": "PS3133"
+ },
+ {
+   "ID": 180622,
+   "DESCRIPTION": "Stat. 120 min 8h - 18h LUN À VEN (fl. ga.) ",
+   "TYPE_CODE": "PS3161"
+ },
+ {
+   "ID": 180782,
+   "DESCRIPTION": "Stat. 120 min 8h - 18h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PS3162"
+ },
+ {
+   "ID": 180598,
+   "DESCRIPTION": "Stat. 120 min 8h - 18h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PS3163"
+ },
+ {
+   "ID": 263237,
+   "DESCRIPTION": "Stat. 120 min 8h - 20h LUN À SAM (fl. ga.) ",
+   "TYPE_CODE": "PS3167"
+ },
+ {
+   "ID": 194449,
+   "DESCRIPTION": "Stat. 120 min 8h - 20h LUN À SAM (fl. dr.)",
+   "TYPE_CODE": "PS3168"
+ },
+ {
+   "ID": 208854,
+   "DESCRIPTION": "Stat. 120 min 8h - 20h LUN À SAM (fl. dou.)",
+   "TYPE_CODE": "PS3169"
+ },
+ {
+   "ID": 187245,
+   "DESCRIPTION": "Stat. 120 min 8h - 16h LUN À VEN (fl. ga.) ",
+   "TYPE_CODE": "PS3261"
+ },
+ {
+   "ID": 185534,
+   "DESCRIPTION": "Stat. 120 min 8h - 16h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PS3262"
+ },
+ {
+   "ID": 185747,
+   "DESCRIPTION": "Stat. 120 min 8h - 16h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PS3263"
+ },
+ {
+   "ID": 327389,
+   "DESCRIPTION": "Stat. 120 min 8h - 16h LUN À VEN 1ER AVRIL AU 14 NOV. (fl. ga.)",
+   "TYPE_CODE": "PS3264"
+ },
+ {
+   "ID": 327385,
+   "DESCRIPTION": "Stat. 120 min 8h - 16h LUN À VEN 1ER AVRIL AU 14 NOV. (fl.dr.)",
+   "TYPE_CODE": "PS3265"
+ },
+ {
+   "ID": 347085,
+   "DESCRIPTION": "Stat. 10 min 7h - 11h LUN À VEN (fl. ga.)",
+   "TYPE_CODE": "PS4811"
+ },
+ {
+   "ID": 347087,
+   "DESCRIPTION": "Stat. 10 min 7h - 11h LUN À VEN (fl. dr.)",
+   "TYPE_CODE": "PS4812"
+ },
+ {
+   "ID": 261743,
+   "DESCRIPTION": "Stat. 10 min 7h - 11h LUN À VEN (fl. dou.)",
+   "TYPE_CODE": "PS4813"
+ },
+ {
+   "ID": 305287,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE T-2 (blanc)",
+   "TYPE_CODE": "PS7001"
+ },
+ {
+   "ID": 354953,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE T-3 (blanc)",
+   "TYPE_CODE": "PS7002"
+ },
+ {
+   "ID": 339922,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE T-4 (blanc)",
+   "TYPE_CODE": "PS7003"
+ },
+ {
+   "ID": 339875,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'IN PERMIS DE STATIONNEMENT ZONE T-5 (blanc)",
+   "TYPE_CODE": "PS7004"
+ },
+ {
+   "ID": 367684,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'IN PERMIS DE STATIONNEMENT ZONE T-6 (blanc)",
+   "TYPE_CODE": "PS7005"
+ },
+ {
+   "ID": 304921,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE A3-1 (bleu)",
+   "TYPE_CODE": "PS7100"
+ },
+ {
+   "ID": 317248,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE A3-30 (bleu)",
+   "TYPE_CODE": "PS7101"
+ },
+ {
+   "ID": 311239,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE A3-34 (bleu)",
+   "TYPE_CODE": "PS7103"
+ },
+ {
+   "ID": 311351,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE 21 (bleu)",
+   "TYPE_CODE": "PS7104"
+ },
+ {
+   "ID": 345261,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE 10 (bleu)",
+   "TYPE_CODE": "PS7106"
+ },
+ {
+   "ID": 366380,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE A2-1 (bleu)",
+   "TYPE_CODE": "PS7107"
+ },
+ {
+   "ID": 278827,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE A3-2 (orange)",
+   "TYPE_CODE": "PS7200"
+ },
+ {
+   "ID": 306433,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE A3-12 (orange)",
+   "TYPE_CODE": "PS7201"
+ },
+ {
+   "ID": 332520,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE A3-22 (orange)",
+   "TYPE_CODE": "PS7202"
+ },
+ {
+   "ID": 351938,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE 12 (orange)",
+   "TYPE_CODE": "PS7203"
+ },
+ {
+   "ID": 352155,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE 22 (orange)",
+   "TYPE_CODE": "PS7204"
+ },
+ {
+   "ID": 278603,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE A3-3 (vert)",
+   "TYPE_CODE": "PS7300"
+ },
+ {
+   "ID": 306617,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE A3-13 (vert)",
+   "TYPE_CODE": "PS7301"
+ },
+ {
+   "ID": 332411,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE A3-26 (vert)",
+   "TYPE_CODE": "PS7302"
+ },
+ {
+   "ID": 306425,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE A3-29 (vert)",
+   "TYPE_CODE": "PS7303"
+ },
+ {
+   "ID": 317284,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE 3 (vert)",
+   "TYPE_CODE": "PS7304"
+ },
+ {
+   "ID": 364723,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE 23 (vert)",
+   "TYPE_CODE": "PS7307"
+ },
+ {
+   "ID": 303982,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE A3-4 (brun)",
+   "TYPE_CODE": "PS7400"
+ },
+ {
+   "ID": 355181,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE D-1 20 MINUTES MAXIMUM",
+   "TYPE_CODE": "PS7401"
+ },
+ {
+   "ID": 351537,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE 4 (brun)",
+   "TYPE_CODE": "PS7402"
+ },
+ {
+   "ID": 351527,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE 24 (brun)",
+   "TYPE_CODE": "PS7403"
+ },
+ {
+   "ID": 278450,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE A3-5 (violet)",
+   "TYPE_CODE": "PS7500"
+ },
+ {
+   "ID": 306697,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE A3-15 (jaune)",
+   "TYPE_CODE": "PS7501"
+ },
+ {
+   "ID": 311497,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE A3-32 (mauve)",
+   "TYPE_CODE": "PS7503"
+ },
+ {
+   "ID": 351308,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE 5 (violet)",
+   "TYPE_CODE": "PS7504"
+ },
+ {
+   "ID": 352297,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE 25 (violet)",
+   "TYPE_CODE": "PS7506"
+ },
+ {
+   "ID": 307320,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE A3-6 (gris)",
+   "TYPE_CODE": "PS7600"
+ },
+ {
+   "ID": 311174,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE A3-16 (vert)",
+   "TYPE_CODE": "PS7601"
+ },
+ {
+   "ID": 309892,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE A3-28 (noir)",
+   "TYPE_CODE": "PS7602"
+ },
+ {
+   "ID": 325296,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE 16 (gris)",
+   "TYPE_CODE": "PS7603"
+ },
+ {
+   "ID": 361067,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE 26 (gris)",
+   "TYPE_CODE": "PS7604"
+ },
+ {
+   "ID": 273814,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE A3-7 (jaune)",
+   "TYPE_CODE": "PS7700"
+ },
+ {
+   "ID": 306479,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE A3-17 (orange)",
+   "TYPE_CODE": "PS7701"
+ },
+ {
+   "ID": 317124,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE A3-21( jaune)",
+   "TYPE_CODE": "PS7702"
+ },
+ {
+   "ID": 311043,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE A3-27 (jaune)",
+   "TYPE_CODE": "PS7704"
+ },
+ {
+   "ID": 319287,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE A3-33 (jaune)",
+   "TYPE_CODE": "PS7705"
+ },
+ {
+   "ID": 351514,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE 7 (jaune)",
+   "TYPE_CODE": "PS7706"
+ },
+ {
+   "ID": 368738,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE 27 (jaune)",
+   "TYPE_CODE": "PS7707"
+ },
+ {
+   "ID": 278434,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE A3-8 (brun)",
+   "TYPE_CODE": "PS7800"
+ },
+ {
+   "ID": 306405,
+   "DESCRIPTION": "Panonceau EXECPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE A3-20 (brun)",
+   "TYPE_CODE": "PS7802"
+ },
+ {
+   "ID": 315846,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE 14 (brun)",
+   "TYPE_CODE": "PS7803"
+ },
+ {
+   "ID": 357613,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE 11 (brun)",
+   "TYPE_CODE": "PS7804"
+ },
+ {
+   "ID": 342738,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE 11 20 MINUTES MAXIMUM (brun)",
+   "TYPE_CODE": "PS7805"
+ },
+ {
+   "ID": 369188,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE 28",
+   "TYPE_CODE": "PS7807"
+ },
+ {
+   "ID": 339406,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE A3-9 (rouge)",
+   "TYPE_CODE": "PS7900"
+ },
+ {
+   "ID": 329632,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE A3-19 (rouge)",
+   "TYPE_CODE": "PS7901"
+ },
+ {
+   "ID": 304521,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE A3-31 (rouge)",
+   "TYPE_CODE": "PS7903"
+ },
+ {
+   "ID": 312827,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE 9(rouge)",
+   "TYPE_CODE": "PS7904"
+ },
+ {
+   "ID": 318417,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE A3-10 (bleu)",
+   "TYPE_CODE": "PS8000"
+ },
+ {
+   "ID": 278582,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE A3-11",
+   "TYPE_CODE": "PS8001"
+ },
+ {
+   "ID": 300605,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE 1 (bleu)",
+   "TYPE_CODE": "PS8002"
+ },
+ {
+   "ID": 304657,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE 2",
+   "TYPE_CODE": "PS8003"
+ },
+ {
+   "ID": 308971,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE 32 (orange)",
+   "TYPE_CODE": "PS8004"
+ },
+ {
+   "ID": 306357,
+   "DESCRIPTION": "Panonceau EXCEPTÉ VÉHICULES MUNIS D'UN PERMIS DE STATIONNEMENT ZONE A3-14 (violet)",
+   "TYPE_CODE": "PS8006"
+ }
+]

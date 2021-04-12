@@ -17,12 +17,12 @@ console.error("panneau existant ", mtlFeatur.length);
 console.error("segment généré ", JSON.parse(curblrData).features.length);
 console.error("panneau géré ", curblrUsed.size);
 console.error("panneau shst unmatched ", unmatched.length);
-unmatched.forEach(feat=>curblrUsed.add(feat.properties.panneau_id_pan));
+unmatched.forEach(feat=>curblrUsed.add(feat.properties.ID));
 
 var unmanagedGeojson = {};
 unmanagedGeojson['type'] = 'FeatureCollection';
 
-unmanagedGeojson['features'] = mtlFeatur.filter(feature=>!curblrUsed.has(feature.properties.PANNEAU_ID_PAN));
+//unmanagedGeojson['features'] = mtlFeatur.filter(feature=>!curblrUsed.has(feature.properties.PANNEAU_ID_PAN));
 //console.error(curblrUsed);
 console.error("panneau non géré ", unmanagedGeojson.features.length);
 
